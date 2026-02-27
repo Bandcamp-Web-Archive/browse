@@ -44,6 +44,12 @@ layout: null
       <button class="class-btn" data-class="paid"  onclick="toggleClass('paid')">PAID</button>
     </div>
 
+    <div class="class-filters">
+      <button class="status-filter-btn" data-status="archived" onclick="toggleStatus('archived')">ARCHIVED</button>
+      <button class="status-filter-btn" data-status="queued"   onclick="toggleStatus('queued')">QUEUED</button>
+      <button class="status-filter-btn" data-status="pending"  onclick="toggleStatus('pending')">PENDING</button>
+    </div>
+
     <select id="sort-select" onchange="applyFilters()">
       <option value="date-desc"   selected>Newest first</option>
       <option value="date-asc">Oldest first</option>
@@ -54,9 +60,9 @@ layout: null
     </select>
 
     <select id="view-mode-select" onchange="setViewMode(this.value)">
-      <option value="all-list" selected>All Releases (List)</option>
+      <option value="by-artist" selected>By Artist</option>
+      <option value="all-list">All Releases (List)</option>
       <option value="all-grid">All Releases (Grid)</option>
-      <option value="by-artist">By Artist</option>
     </select>
 
     <div class="view-btns">

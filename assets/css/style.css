@@ -606,7 +606,7 @@ margin: 0 auto;
     margin-top: 6px;
 }
 
-.list-view .release-tags { display: none; }
+.list-view .release-tags { margin-top: 4px; }
 
 .release-tag {
     font-size: 9px;
@@ -624,18 +624,43 @@ margin: 0 auto;
     border-color: var(--accent);
 }
 
-/* Invisible full-card link overlay */
-.card-link {
-    position: absolute;
-    inset: 0;
-    z-index: 1;
-}
+/* Card-link covers the cover image area only — the card body has
+ i ts own interactive elements (status badge, BC link, tags, history) */                                                                 *
+ .card-link {
+     position: absolute;
+     top: 0;
+     left: 0;
+     z-index: 1;
+ }
 
-/* Tag/expand buttons sit above the card link */
-.release-tag,
-.expand-btn {
+ /* In grid view: cover is full-width on top */
+ .grid-view .card-link {
+     right: 0;
+     height: 0;
+     padding-bottom: 100%; /* matches aspect-ratio:1 cover */
+ }
+
+ /* In list view: cover is 80px wide on the left */
+ .list-view .card-link {
+     width: 80px;
+     bottom: 0;
+ }
+
+ /* Body elements that need to be clickable sit above z-index:1 */
+ .card-body {
+     position: relative;
+     z-index: 2;
+ }
+
+ /* Interactive elements within body */
+ .release-tag,
+.bc-link,
+.status-badge,
+.history-toggle,
+.history-ia-link,
+.release-history {
     position: relative;
-    z-index: 2;
+    z-index: 3;
 }
 
 
@@ -737,3 +762,187 @@ padding: 24px;
 
     .grid-view .cover-wrap { aspect-ratio: 1; }
 }
+
+
+/* ================================================================
+ *  PIPELINE STATUS BADGES
+ *  ================================================================ */
+
+.status-badge {
+    display: inline-flex;
+    align-items: center;
+    font-size: 9px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 2px 6px;
+    border-radius: 2px;
+    white-space: nowrap;
+    text-decoration: none;
+    cursor: default;
+}
+
+/* Archived: green, links to archive.org */
+.status-archived {
+    background: rgba(61, 196, 122, 0.12);
+    color: var(--free);
+    border: 1px solid rgba(61, 196, 122, 0.3);
+    cursor: pointer;
+    transition: background 0.15s, border-color 0.15s;
+}
+.status-archived:hover {
+    background: rgba(61, 196, 122, 0.22);
+    border-color: var(--free);
+}
+
+/* Queued: orange — archived but not yet uploaded */
+.status-queued {
+    background: rgba(212, 140, 40, 0.12);
+    color: #d48c28;
+    border: 1px solid rgba(212, 140, 40, 0.3);
+}
+
+/* Pending: muted — not yet crawled */
+.status-pending {
+    background: transparent;
+    color: var(--text3);
+    border: 1px solid var(--border);
+}
+
+/* Release card subtle left-border accent by status */
+.release-card[data-status="archived"] { border-left: 2px solid rgba(61,196,122,0.35); }
+.release-card[data-status="queued"]   { border-left: 2px solid rgba(212,140,40,0.45); }
+.release-card[data-status="pending"]  { border-left: 2px solid var(--border); }
+
+
+/* ================================================================
+ *  BANDCAMP SECONDARY LINK
+ *  ================================================================ */
+
+.bc-link {
+    font-size: 9px;
+    color: var(--text3);
+    text-decoration: none;
+    letter-spacing: 0.06em;
+    padding: 2px 5px;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    transition: all 0.12s;
+    margin-left: auto;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+.bc-link:hover {
+    color: var(--accent);
+    border-color: var(--border2);
+}
+
+
+/* ================================================================
+ *  HISTORY / VERSIONS
+ *  ================================================================ */
+
+.release-history {
+    margin-top: 6px;
+    border-top: 1px solid var(--border);
+    padding-top: 4px;
+}
+
+.history-toggle {
+    font-size: 9px;
+    color: var(--text3);
+    letter-spacing: 0.06em;
+    cursor: pointer;
+    user-select: none;
+    list-style: none;
+    padding: 2px 0;
+    transition: color 0.12s;
+}
+.history-toggle:hover { color: var(--text2); }
+.history-toggle::-webkit-details-marker { display: none; }
+
+.history-list {
+    margin-top: 6px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.history-entry {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding: 5px 7px;
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    font-size: 9px;
+}
+
+.history-date {
+    color: var(--text3);
+    font-size: 9px;
+    letter-spacing: 0.04em;
+    margin-bottom: 1px;
+}
+
+.history-ia-link {
+    color: var(--free);
+    text-decoration: none;
+    font-size: 9px;
+    word-break: break-all;
+    transition: opacity 0.1s;
+}
+.history-ia-link:hover { opacity: 0.8; text-decoration: underline; }
+
+.history-no-ia {
+    color: var(--text3);
+    font-size: 9px;
+    font-style: italic;
+}
+
+.history-fields {
+    color: var(--text2);
+    font-size: 9px;
+    margin-top: 2px;
+    line-height: 1.5;
+}
+
+.history-field-key {
+    color: var(--text3);
+}
+.history-field-val {
+    color: var(--text2);
+}
+
+
+/* ================================================================
+ *  STATS BAR COLOURED COUNTS
+ *  ================================================================ */
+
+.stat-archived { color: var(--free); }
+.stat-queued   { color: #d48c28; }
+.stat-pending  { color: var(--text3); }
+
+
+/* ================================================================
+ *  STATUS FILTER BUTTONS (controls bar)
+ *  ================================================================ */
+
+.status-filter-btn {
+    padding: 4px 10px;
+    border: 1px solid var(--border);
+    background: var(--bg2);
+    color: var(--text2);
+    font-family: var(--mono);
+    font-size: 10px;
+    border-radius: 2px;
+    cursor: pointer;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    transition: all 0.12s;
+}
+.status-filter-btn:hover { border-color: var(--accent); color: var(--text); }
+.status-filter-btn[data-status="archived"].active { background: rgba(61,196,122,0.1);  border-color: var(--free);  color: var(--free); }
+.status-filter-btn[data-status="queued"].active   { background: rgba(212,140,40,0.1);  border-color: #d48c28;      color: #d48c28; }
+.status-filter-btn[data-status="pending"].active  { background: rgba(100,100,110,0.12); border-color: var(--text3); color: var(--text2); }
