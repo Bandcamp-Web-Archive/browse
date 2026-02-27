@@ -1,0 +1,17 @@
+title: Bandcamp WACZ Archive Browser
+description: A browsable archive of followed Bandcamp artists and releases
+
+# Include JSON files in build (artists/ is already included by default,
+# but listing it here is harmless and documents intent)
+include:
+  - artists
+
+plugins: []
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - vendor

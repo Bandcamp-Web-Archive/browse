@@ -1,0 +1,109 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bandcamp WACZ Archive Browser</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,300;0,400;0,500;0,600;1,300&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+
+<!-- ================================================================
+     HEADER
+     ================================================================ -->
+<div id="header">
+
+  <div class="header-top">
+    <a class="logo" href="#">Bandcamp WACZ Archive Browser<span>.db</span></a>
+    <span class="header-stats" id="stats-bar">Loading…</span>
+
+    <label class="covers-toggle" title="Toggle Bandcamp cover art loading">
+      <div class="toggle-track" id="covers-toggle" onclick="toggleCovers()">
+        <div class="toggle-thumb"></div>
+      </div>
+      COVERS
+    </label>
+  </div>
+
+  <!-- Controls -->
+  <div class="controls">
+    <div class="search-wrap">
+      <input type="search" id="search"
+             placeholder="search artists, titles, tags…"
+             autocomplete="off" autocorrect="off" spellcheck="false">
+    </div>
+
+    <div class="class-filters">
+      <button class="class-btn" data-class="free"  onclick="toggleClass('free')">FREE</button>
+      <button class="class-btn" data-class="nyp"   onclick="toggleClass('nyp')">NYP</button>
+      <button class="class-btn" data-class="paid"  onclick="toggleClass('paid')">PAID</button>
+    </div>
+
+    <select id="sort-select" onchange="applyFilters()">
+      <option value="date-desc"   selected>Newest first</option>
+      <option value="date-asc">Oldest first</option>
+      <option value="artist-asc">Artist A→Z</option>
+      <option value="artist-desc">Artist Z→A</option>
+      <option value="title-asc">Title A→Z</option>
+      <option value="tracks-desc">Most tracks</option>
+    </select>
+
+    <select id="view-mode-select" onchange="setViewMode(this.value)">
+      <option value="all-list" selected>All Releases (List)</option>
+      <option value="all-grid">All Releases (Grid)</option>
+      <option value="by-artist">By Artist</option>
+    </select>
+
+    <div class="view-btns">
+      <button class="view-btn" id="btn-grid" onclick="setReleaseLayout('grid')" title="Grid view">⊞</button>
+      <button class="view-btn active" id="btn-list" onclick="setReleaseLayout('list')" title="List view">☰</button>
+    </div>
+  </div>
+
+  <!-- Tag filter bar -->
+  <div id="tags-bar" class="tags-bar">
+    <span class="tags-label">Tags</span>
+  </div>
+
+  <!-- Artist jump bar -->
+  <div id="jump-bar">
+    <span class="jump-label">Artists</span>
+  </div>
+
+</div><!-- /#header -->
+
+
+<!-- ================================================================
+     MAIN
+     ================================================================ -->
+<div id="main">
+
+  <!-- Loading indicator -->
+  <div id="loading">
+    <div class="loader-bar">
+      <div class="loader-fill" id="loader-fill"></div>
+    </div>
+    <div class="loader-text" id="loader-text">Initialising…</div>
+  </div>
+
+  <!-- Empty state -->
+  <div id="empty">No releases match your filters. Try adjusting your search or tags.</div>
+
+  <!-- Release content injected here by app.js -->
+  <div id="content" style="display:none"></div>
+
+  <!-- Pagination -->
+  <div id="load-more-wrap" style="display:none">
+    <button class="load-more-btn" onclick="loadMore()">Load more releases</button>
+  </div>
+
+</div><!-- /#main -->
+
+<script src="{{ '/assets/js/app.js' | relative_url }}"></script>
+</body>
+</html>

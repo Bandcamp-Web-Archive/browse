@@ -1,0 +1,19 @@
+---
+layout: null
+---
+{
+  "generated": "{{ site.time | date_to_xmlschema }}",
+  "artists": [
+    {% assign is_first = true %}
+    {% for f in site.static_files %}
+      {% if f.path contains '/artists/' and f.extname == '.json' %}
+        {% unless is_first %},{% endunless %}
+        {
+          "path": "{{ f.path | remove_first: '/' | strip }}",
+          "name": "{{ f.basename | replace: '.json', '' | strip }}"
+        }
+        {% assign is_first = false %}
+      {% endif %}
+    {% endfor %}
+  ]
+}
