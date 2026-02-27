@@ -15,14 +15,26 @@ const state = {
     activeTags:       new Set(),
     activeClasses:    new Set(),
     activeStatuses:   new Set(),
+    activeArtists:    new Set(),   // artist-name keys OR band_id strings depending on groupBy
     allTagCounts:     {},
+    _artistBarData:   {},          // groupKey -> release count (cache)
     releaseLayout:    'list',      // 'grid' | 'list'
     viewMode:         'by-artist', // 'by-artist' | 'all-grid' | 'all-list'
+    groupBy:          'artist',    // 'artist' | 'band_id'
     coversEnabled:    false,
     page:             0,
 };
 
 const PAGE_SIZE = 60;
+
+// ============================================================
+// GROUP KEY HELPER
+// Returns the key used for grouping/filtering releases.
+// ============================================================
+
+function groupKey(rel) {
+    return state.groupBy === 'band_id' ? String(rel.band_id || '') : rel._artistKey;
+}
 
 // ============================================================
 // BOOTSTRAP
@@ -102,7 +114,7 @@ async function loadArchive() {
 
     setLoader('Rendering…', 95);
     buildTagBar();
-    buildJumpBar();
+    buildArtistBar();
     updateStats();
     applyFilters();
 
@@ -115,7 +127,6 @@ async function loadArchive() {
 // PIPELINE STATUS HELPER
 // ============================================================
 
-// Returns: 'archived' | 'queued' | 'pending'
 function pipelineStatus(rel) {
     if (rel.uploaded && rel.ia_identifier) return 'archived';
     if (rel.archived) return 'queued';
@@ -156,6 +167,10 @@ function applyFilters() {
             const rTags = (r.tags || []).map(t => t.toLowerCase());
             return [...state.activeTags].every(t => rTags.includes(t));
         });
+    }
+
+    if (state.activeArtists.size > 0) {
+        results = results.filter(r => state.activeArtists.has(groupKey(r)));
     }
 
     results = [...results];
@@ -208,10 +223,40 @@ window.toggleStatus = function (status) {
     applyFilters();
 };
 
+window.toggleArtist = function (key) {
+    if (state.activeArtists.has(key)) state.activeArtists.delete(key);
+    else state.activeArtists.add(key);
+    // Sync chip highlight without full rebuild
+    document.querySelectorAll('.artist-chip').forEach(c => {
+        c.classList.toggle('active', state.activeArtists.has(c.dataset.artist));
+    });
+    applyFilters();
+};
+
+window.filterArtistChips = function (q) {
+    renderArtistChips(q);
+};
+
+window.clearArtistFilter = function () {
+    state.activeArtists.clear();
+    buildArtistBar();
+    applyFilters();
+};
+
+window.setGroupBy = function (mode) {
+    if (state.groupBy === mode) return;
+    state.groupBy = mode;
+    state.activeArtists.clear(); // keys changed, clear selection
+    document.getElementById('btn-groupby-artist').classList.toggle('active', mode === 'artist');
+    document.getElementById('btn-groupby-id').classList.toggle('active', mode === 'band_id');
+    try { localStorage.setItem('bc-archive-groupby', mode); } catch (_) {}
+    buildArtistBar();
+    applyFilters();
+};
+
 window.setViewMode = function (mode) {
     state.viewMode = mode;
     document.getElementById('view-mode-select').value = mode;
-    document.getElementById('jump-bar').style.display = (mode === 'by-artist') ? '' : 'none';
     try { localStorage.setItem('bc-archive-view', mode); } catch (_) {}
     render();
 };
@@ -288,40 +333,44 @@ function render() {
 }
 
 function renderByArtist(container) {
-    const byArtist = {};
+    const byGroup = {};
     for (const r of state.filteredReleases) {
-        const k = r._artistKey;
-        if (!byArtist[k]) byArtist[k] = [];
-        byArtist[k].push(r);
+        const k = groupKey(r);
+        if (!byGroup[k]) byGroup[k] = [];
+        byGroup[k].push(r);
     }
 
     const sort = document.getElementById('sort-select').value;
-    let artistKeys = Object.keys(byArtist);
+    let keys = Object.keys(byGroup);
 
     if (sort === 'artist-asc') {
-        artistKeys.sort((a, b) => a.localeCompare(b));
+        keys.sort((a, b) => a.localeCompare(b));
     } else if (sort === 'artist-desc') {
-        artistKeys.sort((a, b) => b.localeCompare(a));
+        keys.sort((a, b) => b.localeCompare(a));
     } else {
-        artistKeys.sort((a, b) => {
-            const maxA = Math.max(...byArtist[a].map(dateVal));
-            const maxB = Math.max(...byArtist[b].map(dateVal));
+        keys.sort((a, b) => {
+            const maxA = Math.max(...byGroup[a].map(dateVal));
+            const maxB = Math.max(...byGroup[b].map(dateVal));
             return maxB - maxA;
         });
     }
 
     const layout = state.releaseLayout;
-    const html = artistKeys.map(key => {
-        const releases  = byArtist[key];
-        const id        = artistId(key);
+    const html = keys.map(key => {
+        const releases  = byGroup[key];
+        const id        = sectionId(key);
         const nArchived = releases.filter(r => pipelineStatus(r) === 'archived').length;
+        // In band_id mode show the artist name alongside the ID
+        const nameLabel = state.groupBy === 'band_id'
+        ? `${esc(key)} <span class="artist-name-hint">${esc(releases[0]._artistKey || '')}</span>`
+        : esc(key);
         const countLabel = nArchived === releases.length
         ? `${releases.length} release${releases.length !== 1 ? 's' : ''}`
         : `${releases.length} release${releases.length !== 1 ? 's' : ''} · ${nArchived} archived`;
         return `
         <div class="artist-section" id="${id}">
         <div class="artist-header" onclick="collapseArtist('${id}')">
-        <span class="artist-name">${esc(key)}</span>
+        <span class="artist-name">${nameLabel}</span>
         <span class="artist-count">${countLabel}</span>
         <span class="artist-collapse-icon">▾</span>
         </div>
@@ -368,8 +417,6 @@ function releaseCardHTML(rel) {
     const date    = formatDate(rel.datePublished);
     const tracks  = rel.trackinfo || [];
     const topTags = (rel.tags || []).slice(0, 5);
-    const artId   = rel.art_id;
-    const coverUrl = rel.coverUrl_0 ? rel.coverUrl_0.replace('_0', '_9') : null;
 
     const badgeClass = { free: 'badge-free', nyp: 'badge-nyp', paid: 'badge-paid' }[cls] || '';
 
@@ -389,12 +436,18 @@ function releaseCardHTML(rel) {
         statusHTML = `<span class="status-badge status-pending" title="Not yet crawled">PENDING</span>`;
     }
 
-    // Bandcamp secondary link (always shown, sits above card overlay)
+    // Bandcamp secondary link
     const bcLinkHTML = `<a class="bc-link" href="${escAttr(bcUrl)}" target="_blank" rel="noopener" title="View on Bandcamp">BC ↗</a>`;
 
-    // Cover
-    const coverHTML = artId
-    ? `<div class="cover-wrap"><div class="cover-placeholder" id="ph-${artId}"></div><img class="cover-img" id="cov-${artId}" alt="" data-src="${escAttr(coverUrl || '')}" /></div>`
+    // Cover: Bandcamp embed iframe using item_id
+    const itemId = rel.item_id;
+    const coverHTML = itemId
+    ? `<div class="cover-wrap">
+    <iframe class="cover-iframe"
+    data-src="https://bandcamp.com/EmbeddedPlayer/album=${itemId}/size=large/bgcol=111113/linkcol=5de4c7/minimal=true/transparent=true/"
+    scrolling="no" frameborder="0" allowtransparency="true" seamless
+    title="${escAttr(rel.title || '')}"></iframe>
+    </div>`
     : `<div class="cover-wrap"><div class="cover-no-art">${gridSVG()}</div></div>`;
 
     // Tags
@@ -432,10 +485,11 @@ function releaseCardHTML(rel) {
 
     return `
     <div class="release-card" data-status="${status}">
-    <a class="card-link" href="${escAttr(primaryUrl)}" target="_blank" rel="noopener" aria-label="${escAttr(rel.title || 'Release')}"></a>
     ${coverHTML}
     <div class="card-body">
+    <a class="release-title-link" href="${escAttr(primaryUrl)}" target="_blank" rel="noopener">
     <div class="release-title">${esc(rel.title || 'Untitled')}</div>
+    </a>
     ${artistHTML}
     ${labelHTML}
     <div class="release-meta">
@@ -462,18 +516,18 @@ function gridSVG() {
 
 
 // ============================================================
-// COVER LAZY LOADING — throttled to avoid Bandcamp rate-limiting
+// COVER LAZY LOADING — throttled Bandcamp embed iframes
 // ============================================================
 
 const coverQueue = [];
 let coverTimer   = null;
-const COVER_DELAY_MS = 300; // ms between cover requests
+const COVER_DELAY_MS = 500; // generous delay — each iframe loads a full embed page
 
 function lazyLoadCovers() {
-    const imgs = document.querySelectorAll('.cover-img[data-src]:not([data-queued])');
-    for (const img of imgs) {
-        img.dataset.queued = '1';
-        coverQueue.push(img);
+    const iframes = document.querySelectorAll('.cover-iframe[data-src]:not([data-queued])');
+    for (const el of iframes) {
+        el.dataset.queued = '1';
+        coverQueue.push(el);
     }
     if (!coverTimer && coverQueue.length > 0) drainCoverQueue();
 }
@@ -482,24 +536,19 @@ function drainCoverQueue() {
     coverTimer = null;
     if (!state.coversEnabled || coverQueue.length === 0) return;
 
-    const img = coverQueue.shift();
+    const el = coverQueue.shift();
 
-    // Skip stale nodes (re-rendered after filter change) or already-loaded images
-    if (!document.contains(img) || img.src) {
-        drainCoverQueue(); // recurse immediately — skip wastes no delay
+    // Skip stale nodes (after re-render) or already loaded
+    if (!document.contains(el) || el.src) {
+        drainCoverQueue(); // no delay — just skip
         return;
     }
 
-    const src = img.dataset.src;
+    const src = el.dataset.src;
     if (!src) { drainCoverQueue(); return; }
 
-    img.src    = src;
-    img.onload  = () => img.classList.add('loaded');
-    img.onerror = () => {
-        img.style.display = 'none';
-        const ph = document.getElementById('ph-' + img.id.replace('cov-', ''));
-        if (ph) ph.innerHTML = `<div class="cover-no-art">${gridSVG()}</div>`;
-    };
+    el.src = src;
+    // iframes: no onerror — if the embed fails it shows blank, not a flash-then-disappear
 
     coverTimer = setTimeout(drainCoverQueue, COVER_DELAY_MS);
 }
@@ -523,21 +572,54 @@ function buildTagBar() {
     bar.innerHTML = `<span class="tags-label">Tags</span>${chips}`;
 }
 
-function buildJumpBar() {
-    const bar     = document.getElementById('jump-bar');
-    const artists = Object.keys(state.artistMap).sort((a, b) => a.localeCompare(b));
+function buildArtistBar() {
+    // Build count map keyed by current groupBy
+    const counts = {};
+    for (const rel of state.allReleases) {
+        const k = groupKey(rel);
+        counts[k] = (counts[k] || 0) + 1;
+    }
+    state._artistBarData = counts;
+    renderArtistChips('');
+}
 
-    const links = artists.map(a =>
-    `<a class="jump-link" href="#${artistId(a)}">${esc(a)}</a>`
-    ).join('');
+function renderArtistChips(filter) {
+    const bar    = document.getElementById('artist-bar');
+    const counts = state._artistBarData || {};
+    const isId   = state.groupBy === 'band_id';
 
-    bar.innerHTML = `<span class="jump-label">Jump to artist</span>${links}`;
+    const sortedKeys = Object.keys(counts).sort((a, b) => a.localeCompare(b));
+    const visible    = filter
+    ? sortedKeys.filter(k => k.toLowerCase().includes(filter.toLowerCase()))
+    : sortedKeys;
+
+    const hasActive  = state.activeArtists.size > 0;
+    const clearBtn   = hasActive
+    ? `<button class="artist-clear-btn" onclick="clearArtistFilter()" title="Clear artist filter">✕ clear</button>`
+    : '';
+
+    const label = isId ? 'Band IDs' : 'Artists';
+    const ph    = isId ? 'search IDs…' : 'search artists…';
+
+    const chips = visible.map(k => {
+        const active = state.activeArtists.has(k) ? ' active' : '';
+        return `<button class="artist-chip${active}" data-artist="${escAttr(k)}" onclick="toggleArtist('${escAttr(k)}')">${esc(k)} <span class="artist-chip-count">${counts[k]}</span></button>`;
+    }).join('');
+
+    bar.innerHTML = `
+    <span class="artist-bar-label">${label}</span>
+    <input type="search" class="artist-search" placeholder="${ph}"
+    oninput="filterArtistChips(this.value)"
+    autocomplete="off" spellcheck="false"
+    value="${escAttr(filter)}">
+    ${clearBtn}
+    <div class="artist-chips-wrap">${chips}</div>`;
 }
 
 function updateStats() {
-    const total    = state.allReleases.length;
-    const shown    = state.filteredReleases.length;
-    const artists  = Object.keys(state.artistMap).length;
+    const total     = state.allReleases.length;
+    const shown     = state.filteredReleases.length;
+    const artists   = Object.keys(state.artistMap).length;
     const nArchived = state.allReleases.filter(r => pipelineStatus(r) === 'archived').length;
     const nQueued   = state.allReleases.filter(r => pipelineStatus(r) === 'queued').length;
     const nPending  = state.allReleases.filter(r => pipelineStatus(r) === 'pending').length;
@@ -571,6 +653,13 @@ function restorePreferences() {
             document.body.classList.add('no-covers');
         }
 
+        const savedGroupBy = localStorage.getItem('bc-archive-groupby');
+        if (savedGroupBy === 'band_id' || savedGroupBy === 'artist') {
+            state.groupBy = savedGroupBy;
+            document.getElementById('btn-groupby-artist').classList.toggle('active', savedGroupBy === 'artist');
+            document.getElementById('btn-groupby-id').classList.toggle('active', savedGroupBy === 'band_id');
+        }
+
         const savedView = localStorage.getItem('bc-archive-view');
         if (savedView && ['by-artist', 'all-grid', 'all-list'].includes(savedView)) {
             state.viewMode = savedView;
@@ -593,9 +682,12 @@ function restorePreferences() {
 // UTILITY
 // ============================================================
 
-function artistId(name) {
-    return 'artist-' + name.replace(/[^a-zA-Z0-9]/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+function sectionId(key) {
+    return 'section-' + String(key).replace(/[^a-zA-Z0-9]/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
 }
+
+// kept for back-compat with any remaining call sites
+function artistId(name) { return sectionId(name); }
 
 function dateVal(rel) {
     if (!rel.datePublished) return 0;

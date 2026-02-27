@@ -1,5 +1,5 @@
 /* ============================================================
- *  BANDCAMP ARCHIVE — style.css
+ *  BANDCAMP WEB ARCHIVE — style.css
  *  ============================================================ */
 
 :root {
@@ -23,15 +23,9 @@
     --display: 'Space Mono', monospace;
 }
 
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
+* { box-sizing: border-box; margin: 0; padding: 0; }
 
-html {
-    scroll-behavior: smooth;
-}
+html { scroll-behavior: smooth; }
 
 body {
     background: var(--bg);
@@ -104,11 +98,49 @@ backdrop-filter: blur(12px);
     color: var(--text3);
     letter-spacing: 0.05em;
     white-space: nowrap;
+    flex: 1;
+    text-align: center;
 }
 
-.header-stats b {
-    color: var(--text2);
+.header-stats b { color: var(--text2); }
+
+/* Header right: groupby + covers toggles */
+.header-toggles {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-shrink: 0;
 }
+
+
+/* ================================================================
+ *  ARTIST / ID GROUPBY SEGMENTED CONTROL
+ *  ================================================================ */
+
+.groupby-btns {
+    display: flex;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.groupby-btn {
+    background: var(--bg2);
+    border: none;
+    color: var(--text3);
+    padding: 5px 11px;
+    cursor: pointer;
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    transition: all 0.15s;
+    border-right: 1px solid var(--border);
+}
+
+.groupby-btn:last-child { border-right: none; }
+.groupby-btn:hover      { color: var(--text); background: var(--bg3); }
+.groupby-btn.active     { color: var(--accent); background: var(--accent3); }
 
 
 /* ================================================================
@@ -208,9 +240,7 @@ input[type="search"] {
 }
 
 input[type="search"]:focus,
-select:focus {
-    border-color: var(--accent);
-}
+select:focus { border-color: var(--accent); }
 
 select {
     padding: 7px 10px;
@@ -248,6 +278,25 @@ select {
 .class-btn.active-free        { background: rgba(61,196,122,0.1);  border-color: var(--free);   color: var(--free); }
 .class-btn.active-nyp         { background: rgba(93,228,199,0.1);  border-color: var(--nyp);    color: var(--nyp); }
 .class-btn.active-paid        { background: rgba(212,168,67,0.12); border-color: var(--paid);   color: var(--paid); }
+
+/* -- Status filter buttons -- */
+.status-filter-btn {
+    padding: 4px 10px;
+    border: 1px solid var(--border);
+    background: var(--bg2);
+    color: var(--text2);
+    font-family: var(--mono);
+    font-size: 10px;
+    border-radius: 2px;
+    cursor: pointer;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    transition: all 0.12s;
+}
+.status-filter-btn:hover { border-color: var(--accent); color: var(--text); }
+.status-filter-btn[data-status="archived"].active { background: rgba(61,196,122,0.1);   border-color: var(--free); color: var(--free); }
+.status-filter-btn[data-status="queued"].active   { background: rgba(212,140,40,0.1);   border-color: #d48c28;     color: #d48c28; }
+.status-filter-btn[data-status="pending"].active  { background: rgba(100,100,110,0.12); border-color: var(--text3); color: var(--text2); }
 
 /* -- View buttons -- */
 .view-btns {
@@ -316,40 +365,91 @@ select {
 
 
 /* ================================================================
- *  ARTIST JUMP BAR
+ *  ARTIST FILTER BAR
  *  ================================================================ */
 
-#jump-bar {
-padding: 6px 20px;
-border-top: 1px solid var(--border);
-display: flex;
-gap: 4px;
-flex-wrap: wrap;
-align-items: center;
+.artist-bar {
+    padding: 8px 20px;
+    border-top: 1px solid var(--border);
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    align-items: center;
+    max-height: 96px;
+    overflow-y: auto;
 }
 
-.jump-label {
+.artist-bar-label {
     font-size: 10px;
     color: var(--text3);
     letter-spacing: 0.08em;
     text-transform: uppercase;
-    margin-right: 4px;
-}
-
-.jump-link {
-    font-size: 10px;
-    color: var(--text3);
-    text-decoration: none;
-    padding: 2px 5px;
-    border: 1px solid transparent;
-    border-radius: 2px;
-    transition: all 0.1s;
     white-space: nowrap;
+    flex-shrink: 0;
 }
 
-.jump-link:hover {
-    color: var(--accent);
-    border-color: var(--border);
+/* Mini search input inside the artist bar */
+.artist-search {
+    font-family: var(--mono);
+    font-size: 10px;
+    padding: 3px 8px 3px 8px !important; /* override global */
+    height: 22px;
+    min-width: 120px;
+    max-width: 180px;
+    flex-shrink: 0;
+}
+
+/* Use the global input[type=search] styles, but no search icon */
+.artist-search { background: var(--bg2); border: 1px solid var(--border); color: var(--text); border-radius: 3px; outline: none; }
+.artist-search:focus { border-color: var(--accent); }
+
+.artist-chips-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    align-items: center;
+}
+
+.artist-chip {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    color: var(--text2);
+    font-family: var(--mono);
+    font-size: 10px;
+    padding: 2px 8px;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: all 0.12s;
+    white-space: nowrap;
+    letter-spacing: 0.03em;
+}
+
+.artist-chip:hover  { border-color: var(--accent); color: var(--text); }
+.artist-chip.active { background: var(--accent3); border-color: var(--accent); color: var(--accent); }
+
+.artist-chip-count {
+    color: var(--text3);
+    font-size: 9px;
+    margin-left: 2px;
+}
+
+.artist-clear-btn {
+    font-family: var(--mono);
+    font-size: 9px;
+    color: var(--red);
+    background: transparent;
+    border: 1px solid transparent;
+    padding: 2px 6px;
+    border-radius: 2px;
+    cursor: pointer;
+    letter-spacing: 0.06em;
+    transition: all 0.12s;
+    flex-shrink: 0;
+}
+
+.artist-clear-btn:hover {
+    border-color: var(--red);
+    background: rgba(238,119,85,0.08);
 }
 
 
@@ -397,6 +497,15 @@ margin: 0 auto;
     letter-spacing: 0.05em;
 }
 
+/* Secondary artist name shown in ID mode */
+.artist-name-hint {
+    font-family: var(--mono);
+    font-size: 11px;
+    font-weight: 400;
+    color: var(--text3);
+    letter-spacing: 0.03em;
+}
+
 .artist-count {
     font-size: 10px;
     color: var(--text3);
@@ -410,13 +519,8 @@ margin: 0 auto;
     transition: transform 0.2s;
 }
 
-.artist-section.collapsed .artist-collapse-icon {
-    transform: rotate(-90deg);
-}
-
-.artist-section.collapsed .artist-releases {
-    display: none;
-}
+.artist-section.collapsed .artist-collapse-icon { transform: rotate(-90deg); }
+.artist-section.collapsed .artist-releases       { display: none; }
 
 
 /* ================================================================
@@ -449,7 +553,6 @@ margin: 0 auto;
     transition: border-color 0.15s, transform 0.15s;
     display: flex;
     flex-direction: column;
-    position: relative;
 }
 
 .release-card:hover {
@@ -457,13 +560,22 @@ margin: 0 auto;
     transform: translateY(-1px);
 }
 
+/* Status left-border accent */
+.release-card[data-status="archived"] { border-left: 2px solid rgba(61,196,122,0.4); }
+.release-card[data-status="queued"]   { border-left: 2px solid rgba(212,140,40,0.5); }
+.release-card[data-status="pending"]  { border-left: 2px solid var(--border); }
+
 /* List-mode card layout */
 .artist-releases.list-view .release-card {
     flex-direction: row;
     align-items: stretch;
 }
 
-/* -- Cover -- */
+
+/* ================================================================
+ *  COVER AREA — Bandcamp embedded iframe
+ *  ================================================================ */
+
 .cover-wrap {
     flex-shrink: 0;
     position: relative;
@@ -477,38 +589,27 @@ margin: 0 auto;
 }
 
 .list-view .cover-wrap {
-    width: 80px;
-    height: 80px;
+    width: 90px;
+    height: 90px;
 }
 
-.cover-img {
+/* The iframe fills its container completely */
+.cover-iframe {
+    display: block;
     width: 100%;
     height: 100%;
-    object-fit: cover;
-    opacity: 0;
-    transition: opacity 0.3s;
-}
-
-.cover-img.loaded { opacity: 1; }
-
-.cover-placeholder {
-    position: absolute;
-    inset: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    border: 0;
     background: var(--bg3);
+    /* iframes start empty; no opacity trick needed — they just load in place */
 }
 
+/* Fallback: no item_id */
 .cover-no-art {
     position: absolute;
     inset: 0;
     display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 4px;
-    padding: 8px;
 }
 
 .cover-grid-pattern {
@@ -517,7 +618,11 @@ margin: 0 auto;
     opacity: 0.15;
 }
 
-/* -- Card body -- */
+
+/* ================================================================
+ *  CARD BODY
+ *  ================================================================ */
+
 .card-body {
     padding: 10px 12px 12px;
     display: flex;
@@ -532,6 +637,17 @@ margin: 0 auto;
     justify-content: center;
 }
 
+/* Title is now a link */
+.release-title-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.release-title-link:hover .release-title {
+    color: var(--accent);
+}
+
 .release-title {
     font-size: 12px;
     font-weight: 500;
@@ -541,11 +657,10 @@ margin: 0 auto;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
+    transition: color 0.12s;
 }
 
-.list-view .release-title {
-    -webkit-line-clamp: 1;
-}
+.list-view .release-title { -webkit-line-clamp: 1; }
 
 .release-artist {
     font-size: 11px;
@@ -568,12 +683,55 @@ margin: 0 auto;
 .release-meta {
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 6px;
     margin-top: 4px;
     flex-wrap: wrap;
 }
 
-/* -- Classification badges -- */
+/* ================================================================
+ *  PIPELINE STATUS BADGES
+ *  ================================================================ */
+
+.status-badge {
+    display: inline-flex;
+    align-items: center;
+    font-size: 9px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 2px 6px;
+    border-radius: 2px;
+    white-space: nowrap;
+    text-decoration: none;
+    cursor: default;
+}
+
+.status-archived {
+    background: rgba(61,196,122,0.12);
+    color: var(--free);
+    border: 1px solid rgba(61,196,122,0.3);
+    cursor: pointer;
+    transition: background 0.15s;
+}
+.status-archived:hover { background: rgba(61,196,122,0.22); }
+
+.status-queued {
+    background: rgba(212,140,40,0.12);
+    color: #d48c28;
+    border: 1px solid rgba(212,140,40,0.3);
+}
+
+.status-pending {
+    background: transparent;
+    color: var(--text3);
+    border: 1px solid var(--border);
+}
+
+
+/* ================================================================
+ *  CLASSIFICATION BADGES
+ *  ================================================================ */
+
 .classification-badge {
     font-size: 9px;
     letter-spacing: 0.12em;
@@ -587,18 +745,38 @@ margin: 0 auto;
 .badge-nyp  { background: rgba(93,228,199,0.1);   color: var(--nyp);  border: 1px solid rgba(93,228,199,0.25); }
 .badge-paid { background: rgba(212,168,67,0.12);  color: var(--paid); border: 1px solid rgba(212,168,67,0.3);  }
 
-.release-date {
-    font-size: 10px;
-    color: var(--text3);
-}
+.release-date  { font-size: 10px; color: var(--text3); }
 
 .track-count {
     font-size: 10px;
     color: var(--text3);
-    margin-left: auto;
 }
 
-/* -- Tag chips on cards -- */
+
+/* ================================================================
+ *  BANDCAMP SECONDARY LINK
+ *  ================================================================ */
+
+.bc-link {
+    font-size: 9px;
+    color: var(--text3);
+    text-decoration: none;
+    letter-spacing: 0.06em;
+    padding: 2px 5px;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    transition: all 0.12s;
+    margin-left: auto;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+.bc-link:hover { color: var(--accent); border-color: var(--border2); }
+
+
+/* ================================================================
+ *  TAGS ON CARDS
+ *  ================================================================ */
+
 .release-tags {
     display: flex;
     gap: 4px;
@@ -619,57 +797,82 @@ margin: 0 auto;
     transition: all 0.1s;
 }
 
-.release-tag:hover {
-    color: var(--accent);
-    border-color: var(--accent);
-}
+.release-tag:hover { color: var(--accent); border-color: var(--accent); }
 
-/* Card-link covers the cover image area only — the card body has
- i ts own interactive elements (status badge, BC link, tags, history) */                                                                 *
- .card-link {
-     position: absolute;
-     top: 0;
-     left: 0;
-     z-index: 1;
- }
 
- /* In grid view: cover is full-width on top */
- .grid-view .card-link {
-     right: 0;
-     height: 0;
-     padding-bottom: 100%; /* matches aspect-ratio:1 cover */
- }
+/* ================================================================
+ *  HISTORY / VERSIONS
+ *  ================================================================ */
 
- /* In list view: cover is 80px wide on the left */
- .list-view .card-link {
-     width: 80px;
-     bottom: 0;
- }
-
- /* Body elements that need to be clickable sit above z-index:1 */
- .card-body {
-     position: relative;
-     z-index: 2;
- }
-
- /* Interactive elements within body */
- .release-tag,
-.bc-link,
-.status-badge,
-.history-toggle,
-.history-ia-link,
 .release-history {
-    position: relative;
-    z-index: 3;
+    margin-top: 6px;
+    border-top: 1px solid var(--border);
+    padding-top: 4px;
 }
+
+.history-toggle {
+    font-size: 9px;
+    color: var(--text3);
+    letter-spacing: 0.06em;
+    cursor: pointer;
+    user-select: none;
+    list-style: none;
+    padding: 2px 0;
+    transition: color 0.12s;
+}
+.history-toggle:hover { color: var(--text2); }
+.history-toggle::-webkit-details-marker { display: none; }
+
+.history-list {
+    margin-top: 6px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.history-entry {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding: 5px 7px;
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    font-size: 9px;
+}
+
+.history-date { color: var(--text3); font-size: 9px; letter-spacing: 0.04em; margin-bottom: 1px; }
+
+.history-ia-link {
+    color: var(--free);
+    text-decoration: none;
+    font-size: 9px;
+    word-break: break-all;
+    transition: opacity 0.1s;
+}
+.history-ia-link:hover { opacity: 0.8; text-decoration: underline; }
+
+.history-no-ia  { color: var(--text3); font-size: 9px; font-style: italic; }
+
+.history-fields { color: var(--text2); font-size: 9px; margin-top: 2px; line-height: 1.5; }
+.history-field-key { color: var(--text3); }
+.history-field-val { color: var(--text2); }
 
 
 /* ================================================================
  *  NO-COVERS MODE
  *  ================================================================ */
 
-body.no-covers .cover-wrap                    { display: none; }
-body.no-covers .list-view .card-body          { padding-left: 12px; }
+body.no-covers .cover-wrap { display: none; }
+
+
+/* ================================================================
+ *  STATS BAR COLOURED COUNTS
+ *  ================================================================ */
+
+.stat-archived { color: var(--free); }
+.stat-queued   { color: #d48c28; }
+.stat-pending  { color: var(--text3); }
 
 
 /* ================================================================
@@ -722,10 +925,7 @@ font-size: 12px;
 display: none;
 }
 
-#load-more-wrap {
-text-align: center;
-padding: 24px;
-}
+#load-more-wrap { text-align: center; padding: 24px; }
 
 .load-more-btn {
     background: var(--bg2);
@@ -756,193 +956,7 @@ padding: 24px;
     .header-top  { padding: 10px 14px; }
     .controls    { padding: 8px 14px; }
     .tags-bar    { padding: 6px 14px; }
-    #jump-bar    { padding: 6px 14px; }
+    .artist-bar  { padding: 6px 14px; }
     #main        { padding: 14px; }
     .logo        { font-size: 14px; }
-
-    .grid-view .cover-wrap { aspect-ratio: 1; }
 }
-
-
-/* ================================================================
- *  PIPELINE STATUS BADGES
- *  ================================================================ */
-
-.status-badge {
-    display: inline-flex;
-    align-items: center;
-    font-size: 9px;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    font-weight: 600;
-    padding: 2px 6px;
-    border-radius: 2px;
-    white-space: nowrap;
-    text-decoration: none;
-    cursor: default;
-}
-
-/* Archived: green, links to archive.org */
-.status-archived {
-    background: rgba(61, 196, 122, 0.12);
-    color: var(--free);
-    border: 1px solid rgba(61, 196, 122, 0.3);
-    cursor: pointer;
-    transition: background 0.15s, border-color 0.15s;
-}
-.status-archived:hover {
-    background: rgba(61, 196, 122, 0.22);
-    border-color: var(--free);
-}
-
-/* Queued: orange — archived but not yet uploaded */
-.status-queued {
-    background: rgba(212, 140, 40, 0.12);
-    color: #d48c28;
-    border: 1px solid rgba(212, 140, 40, 0.3);
-}
-
-/* Pending: muted — not yet crawled */
-.status-pending {
-    background: transparent;
-    color: var(--text3);
-    border: 1px solid var(--border);
-}
-
-/* Release card subtle left-border accent by status */
-.release-card[data-status="archived"] { border-left: 2px solid rgba(61,196,122,0.35); }
-.release-card[data-status="queued"]   { border-left: 2px solid rgba(212,140,40,0.45); }
-.release-card[data-status="pending"]  { border-left: 2px solid var(--border); }
-
-
-/* ================================================================
- *  BANDCAMP SECONDARY LINK
- *  ================================================================ */
-
-.bc-link {
-    font-size: 9px;
-    color: var(--text3);
-    text-decoration: none;
-    letter-spacing: 0.06em;
-    padding: 2px 5px;
-    border: 1px solid transparent;
-    border-radius: 2px;
-    transition: all 0.12s;
-    margin-left: auto;
-    white-space: nowrap;
-    flex-shrink: 0;
-}
-.bc-link:hover {
-    color: var(--accent);
-    border-color: var(--border2);
-}
-
-
-/* ================================================================
- *  HISTORY / VERSIONS
- *  ================================================================ */
-
-.release-history {
-    margin-top: 6px;
-    border-top: 1px solid var(--border);
-    padding-top: 4px;
-}
-
-.history-toggle {
-    font-size: 9px;
-    color: var(--text3);
-    letter-spacing: 0.06em;
-    cursor: pointer;
-    user-select: none;
-    list-style: none;
-    padding: 2px 0;
-    transition: color 0.12s;
-}
-.history-toggle:hover { color: var(--text2); }
-.history-toggle::-webkit-details-marker { display: none; }
-
-.history-list {
-    margin-top: 6px;
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-}
-
-.history-entry {
-    display: flex;
-    flex-direction: column;
-    gap: 2px;
-    padding: 5px 7px;
-    background: var(--bg3);
-    border: 1px solid var(--border);
-    border-radius: 2px;
-    font-size: 9px;
-}
-
-.history-date {
-    color: var(--text3);
-    font-size: 9px;
-    letter-spacing: 0.04em;
-    margin-bottom: 1px;
-}
-
-.history-ia-link {
-    color: var(--free);
-    text-decoration: none;
-    font-size: 9px;
-    word-break: break-all;
-    transition: opacity 0.1s;
-}
-.history-ia-link:hover { opacity: 0.8; text-decoration: underline; }
-
-.history-no-ia {
-    color: var(--text3);
-    font-size: 9px;
-    font-style: italic;
-}
-
-.history-fields {
-    color: var(--text2);
-    font-size: 9px;
-    margin-top: 2px;
-    line-height: 1.5;
-}
-
-.history-field-key {
-    color: var(--text3);
-}
-.history-field-val {
-    color: var(--text2);
-}
-
-
-/* ================================================================
- *  STATS BAR COLOURED COUNTS
- *  ================================================================ */
-
-.stat-archived { color: var(--free); }
-.stat-queued   { color: #d48c28; }
-.stat-pending  { color: var(--text3); }
-
-
-/* ================================================================
- *  STATUS FILTER BUTTONS (controls bar)
- *  ================================================================ */
-
-.status-filter-btn {
-    padding: 4px 10px;
-    border: 1px solid var(--border);
-    background: var(--bg2);
-    color: var(--text2);
-    font-family: var(--mono);
-    font-size: 10px;
-    border-radius: 2px;
-    cursor: pointer;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    transition: all 0.12s;
-}
-.status-filter-btn:hover { border-color: var(--accent); color: var(--text); }
-.status-filter-btn[data-status="archived"].active { background: rgba(61,196,122,0.1);  border-color: var(--free);  color: var(--free); }
-.status-filter-btn[data-status="queued"].active   { background: rgba(212,140,40,0.1);  border-color: #d48c28;      color: #d48c28; }
-.status-filter-btn[data-status="pending"].active  { background: rgba(100,100,110,0.12); border-color: var(--text3); color: var(--text2); }
