@@ -19,10 +19,12 @@ const state = {
     allTagCounts:     {},
     _artistBarData:   {},          // groupKey -> release count (cache)
     _artistBarHints:  {},          // groupKey -> hint string
+    _byGroupCache:    {},          // groupKey -> releases[] (for lazy observer)
     releaseLayout:    'list',      // 'grid' | 'list'
     viewMode:         'by-artist', // 'by-artist' | 'all-releases'
     groupBy:          'artist',    // 'artist' | 'band_id' | 'album_artist'
     coversEnabled:    false,
+    loadAll:          false,  // if false, show placeholder until a filter is active
     page:             0,
 };
 
@@ -106,11 +108,18 @@ async function loadArchive() {
         }));
     }
 
-    state.allReleases.sort((a, b) => dateVal(b) - dateVal(a));
+    // Pre-compute cached fields once — avoids repeated new Date(), status checks, etc.
+    for (const rel of state.allReleases) {
+        rel._dateVal       = rel.datePublished ? (new Date(rel.datePublished).getTime() || 0) : 0;
+        rel._status        = (rel.uploaded && rel.ia_identifier) ? 'archived' : rel.archived ? 'queued' : 'pending';
+        rel._tagsLower     = (rel.tags || []).map(t => t.toLowerCase());
+        rel._dateFormatted = formatDate(rel.datePublished);
+    }
+
+    state.allReleases.sort((a, b) => b._dateVal - a._dateVal);
 
     for (const rel of state.allReleases) {
-        for (const t of (rel.tags || [])) {
-            const lc = t.toLowerCase();
+        for (const lc of rel._tagsLower) {
             state.allTagCounts[lc] = (state.allTagCounts[lc] || 0) + 1;
         }
     }
@@ -131,15 +140,23 @@ async function loadArchive() {
 // ============================================================
 
 function pipelineStatus(rel) {
-    if (rel.uploaded && rel.ia_identifier) return 'archived';
-    if (rel.archived) return 'queued';
-    return 'pending';
+    return rel._status !== undefined ? rel._status
+        : (rel.uploaded && rel.ia_identifier) ? 'archived' : rel.archived ? 'queued' : 'pending';
 }
 
 
 // ============================================================
 // FILTERS & SORT
 // ============================================================
+
+function hasActiveFilter() {
+    const q = document.getElementById('search').value.trim();
+    return q.length > 0
+        || state.activeTags.size > 0
+        || state.activeClasses.size > 0
+        || state.activeStatuses.size > 0
+        || state.activeArtists.size > 0;
+}
 
 function applyFilters() {
     const q    = document.getElementById('search').value.trim().toLowerCase();
@@ -166,9 +183,10 @@ function applyFilters() {
     }
 
     if (state.activeTags.size > 0) {
+        const activeTags = [...state.activeTags];
         results = results.filter(r => {
-            const rTags = (r.tags || []).map(t => t.toLowerCase());
-            return [...state.activeTags].every(t => rTags.includes(t));
+            const rTags = r._tagsLower || (r.tags || []).map(t => t.toLowerCase());
+            return activeTags.every(t => rTags.includes(t));
         });
     }
 
@@ -178,8 +196,8 @@ function applyFilters() {
 
     results = [...results];
     switch (sort) {
-        case 'date-desc':   results.sort((a, b) => dateVal(b) - dateVal(a)); break;
-        case 'date-asc':    results.sort((a, b) => dateVal(a) - dateVal(b)); break;
+        case 'date-desc':   results.sort((a, b) => b._dateVal - a._dateVal); break;
+        case 'date-asc':    results.sort((a, b) => a._dateVal - b._dateVal); break;
         case 'artist-asc':  results.sort((a, b) => (a._artistKey || '').localeCompare(b._artistKey || '')); break;
         case 'artist-desc': results.sort((a, b) => (b._artistKey || '').localeCompare(a._artistKey || '')); break;
         case 'title-asc':   results.sort((a, b) => (a.title || '').localeCompare(b.title || '')); break;
@@ -190,7 +208,12 @@ function applyFilters() {
     state.page = 0;
 
     updateStats();
-    render();
+
+    if (!state.loadAll && !hasActiveFilter()) {
+        renderPlaceholder();
+    } else {
+        render();
+    }
 }
 
 
@@ -262,6 +285,8 @@ window.setViewMode = function (mode) {
     state.viewMode = mode;
     document.getElementById('view-mode-select').value = mode;
     try { localStorage.setItem('bc-archive-view', mode); } catch (_) {}
+    const collapseBtns = document.getElementById('collapse-btns');
+    if (collapseBtns) collapseBtns.style.display = mode === 'by-artist' ? '' : 'none';
     render();
 };
 
@@ -273,9 +298,47 @@ window.setReleaseLayout = function (layout) {
     render();
 };
 
+window.collapseAll = function () {
+    document.querySelectorAll('.artist-section').forEach(s => s.classList.add('collapsed'));
+};
+
+window.expandAll = function () {
+    document.querySelectorAll('.artist-section').forEach(s => {
+        s.classList.remove('collapsed');
+        // Force-render any section that hasn't been lazily populated yet
+        if (!s.dataset.rendered) {
+            s.dataset.rendered = '1';
+            if (_sectionObserver) _sectionObserver.unobserve(s);
+            const releases = state._byGroupCache[s.dataset.groupKey];
+            if (releases) {
+                const content = s.querySelector('.artist-releases');
+                if (content) {
+                    content.innerHTML = releases.map(releaseCardHTML).join('');
+                    if (state.coversEnabled) lazyLoadCovers();
+                }
+            }
+        }
+    });
+};
+
 window.collapseArtist = function (id) {
     const section = document.getElementById(id);
-    if (section) section.classList.toggle('collapsed');
+    if (!section) return;
+    section.classList.toggle('collapsed');
+    // If user expands a section that hasn't been lazily rendered yet, render it now
+    if (!section.classList.contains('collapsed') && !section.dataset.rendered) {
+        section.dataset.rendered = '1';
+        if (_sectionObserver) _sectionObserver.unobserve(section);
+        const key     = section.dataset.groupKey;
+        const releases = state._byGroupCache[key];
+        if (releases) {
+            const content = section.querySelector('.artist-releases');
+            if (content) {
+                content.innerHTML = releases.map(releaseCardHTML).join('');
+                if (state.coversEnabled) lazyLoadCovers();
+            }
+        }
+    }
 };
 
 window.filterByTag = function (e, tag) {
@@ -290,6 +353,18 @@ window.loadMore = function () {
     const vm = document.getElementById('view-mode-select').value;
     if (vm !== 'by-artist') renderFlat(document.getElementById('content'));
     if (state.coversEnabled) lazyLoadCovers();
+};
+
+window.toggleLoadAll = function () {
+    setLoadAll(!state.loadAll);
+};
+
+window.setLoadAll = function (val) {
+    state.loadAll = val;
+    const track = document.getElementById('load-all-toggle');
+    if (track) track.classList.toggle('on', val);
+    try { localStorage.setItem('bc-archive-loadall', val); } catch (_) {}
+    applyFilters();
 };
 
 window.toggleCovers = function () {
@@ -310,6 +385,20 @@ window.toggleCovers = function () {
 // ============================================================
 // RENDER
 // ============================================================
+
+function renderPlaceholder() {
+    const content = document.getElementById('content');
+    const empty   = document.getElementById('empty');
+    const lmWrap  = document.getElementById('load-more-wrap');
+    empty.style.display  = 'none';
+    lmWrap.style.display = 'none';
+    if (_sectionObserver) { _sectionObserver.disconnect(); _sectionObserver = null; }
+    content.innerHTML = `<div class="load-all-placeholder">
+        <p>${state.allReleases.length.toLocaleString()} releases across ${Object.keys(state.artistMap).length} artists.</p>
+        <p>Use the search or filters above to find releases, or
+        <button class="load-all-inline-btn" onclick="setLoadAll(true)">load everything</button>.</p>
+    </div>`;
+}
 
 function render() {
     const content = document.getElementById('content');
@@ -336,7 +425,36 @@ function render() {
     if (state.coversEnabled) lazyLoadCovers();
 }
 
+// IntersectionObserver for lazy card rendering in by-artist mode
+let _sectionObserver = null;
+
+function getSectionObserver() {
+    if (_sectionObserver) return _sectionObserver;
+    _sectionObserver = new IntersectionObserver((entries) => {
+        for (const entry of entries) {
+            if (!entry.isIntersecting) continue;
+            const el = entry.target;
+            if (el.dataset.rendered) continue;
+            el.dataset.rendered = '1';
+            _sectionObserver.unobserve(el);
+            const releases = state._byGroupCache[el.dataset.groupKey];
+            if (!releases) continue;
+            const layout  = state.releaseLayout;
+            const content = el.querySelector('.artist-releases');
+            if (content) {
+                content.className = `artist-releases ${layout}-view`;
+                content.innerHTML = releases.map(releaseCardHTML).join('');
+                if (state.coversEnabled) lazyLoadCovers();
+            }
+        }
+    }, { rootMargin: '200px' }); // start rendering 200px before entering viewport
+    return _sectionObserver;
+}
+
 function renderByArtist(container) {
+    // Disconnect old observer and clear cache
+    if (_sectionObserver) { _sectionObserver.disconnect(); _sectionObserver = null; }
+
     const byGroup = {};
     for (const r of state.filteredReleases) {
         const k = groupKey(r);
@@ -352,41 +470,51 @@ function renderByArtist(container) {
     } else if (sort === 'artist-desc') {
         keys.sort((a, b) => b.localeCompare(a));
     } else {
-        keys.sort((a, b) => {
-            const maxA = Math.max(...byGroup[a].map(dateVal));
-            const maxB = Math.max(...byGroup[b].map(dateVal));
-            return maxB - maxA;
-        });
+        const groupMax = {};
+        for (const k of keys) {
+            let m = 0;
+            for (const r of byGroup[k]) { if (r._dateVal > m) m = r._dateVal; }
+            groupMax[k] = m;
+        }
+        keys.sort((a, b) => groupMax[b] - groupMax[a]);
     }
 
-    const layout = state.releaseLayout;
+    // Store releases by group key for the observer to access
+    state._byGroupCache = byGroup;
+
+    const layout  = state.releaseLayout;
+    const observer = getSectionObserver();
+
+    // Render section shells only — cards are filled in lazily by the observer
     const html = keys.map(key => {
         const releases  = byGroup[key];
         const id        = sectionId(key);
-        const nArchived = releases.filter(r => pipelineStatus(r) === 'archived').length;
-        // In band_id mode show the artist name alongside the ID
+        const nArchived = releases.filter(r => (r._status || pipelineStatus(r)) === 'archived').length;
         const nameLabel = state.groupBy === 'band_id'
         ? `${esc(key)} <span class="artist-name-hint">${esc(releases[0]._artistKey || '')}</span>`
         : state.groupBy === 'artist'
         ? `${esc(key)} <span class="artist-name-hint">${esc(String(releases[0].band_id || ''))}</span>`
-        : esc(key); // album_artist: no hint (multiple band_ids could mix)
+        : esc(key);
         const countLabel = nArchived === releases.length
         ? `${releases.length} release${releases.length !== 1 ? 's' : ''}`
         : `${releases.length} release${releases.length !== 1 ? 's' : ''} · ${nArchived} archived`;
         return `
-        <div class="artist-section" id="${id}">
+        <div class="artist-section collapsed" id="${id}" data-group-key="${escAttr(key)}">
         <div class="artist-header" onclick="collapseArtist('${id}')">
         <span class="artist-name">${nameLabel}</span>
         <span class="artist-count">${countLabel}</span>
         <span class="artist-collapse-icon">▾</span>
         </div>
-        <div class="artist-releases ${layout}-view">
-        ${releases.map(releaseCardHTML).join('')}
-        </div>
+        <div class="artist-releases ${layout}-view"></div>
         </div>`;
     }).join('');
 
     container.innerHTML = html;
+
+    // Observe all section shells — observer fills cards on scroll-into-view
+    container.querySelectorAll('.artist-section[data-group-key]').forEach(el => {
+        observer.observe(el);
+    });
 }
 
 function renderFlat(container) {
@@ -418,13 +546,15 @@ function renderFlat(container) {
 // CARD TEMPLATE
 // ============================================================
 
+const BADGE_CLASS = { free: 'badge-free', nyp: 'badge-nyp', paid: 'badge-paid' };
+
 function releaseCardHTML(rel) {
     const cls     = rel.classification || '';
-    const date    = formatDate(rel.datePublished);
+    const date    = rel._dateFormatted !== undefined ? rel._dateFormatted : formatDate(rel.datePublished);
     const tracks  = rel.trackinfo || [];
     const topTags = (rel.tags || []).slice(0, 5);
 
-    const badgeClass = { free: 'badge-free', nyp: 'badge-nyp', paid: 'badge-paid' }[cls] || '';
+    const badgeClass = BADGE_CLASS[cls] || '';
 
     // Primary link: IA if uploaded, else Bandcamp
     const iaUrl      = rel.ia_identifier ? `https://archive.org/details/${rel.ia_identifier}` : null;
@@ -445,12 +575,13 @@ function releaseCardHTML(rel) {
     // Bandcamp secondary link
     const bcLinkHTML = `<a class="bc-link" href="${escAttr(bcUrl)}" target="_blank" rel="noopener" title="View on Bandcamp">BC ↗</a>`;
 
-    // Cover: Bandcamp embed iframe using item_id
-    const itemId = rel.item_id;
+    // Cover: Bandcamp embed iframe — track pages use track= param, albums use album=
+    const itemId   = rel.item_id;
+    const embedType = (rel.url || '').includes('/track/') ? 'track' : 'album';
     const coverHTML = itemId
     ? `<div class="cover-wrap">
     <iframe class="cover-iframe"
-    data-src="https://bandcamp.com/EmbeddedPlayer/album=${itemId}/size=large/bgcol=111113/linkcol=5de4c7/minimal=true/transparent=true/"
+    data-src="https://bandcamp.com/EmbeddedPlayer/${embedType}=${itemId}/size=large/bgcol=111113/linkcol=5de4c7/minimal=true/transparent=true/"
     scrolling="no" frameborder="0" allowtransparency="true" seamless
     title="${escAttr(rel.title || '')}"></iframe>
     </div>`
@@ -533,14 +664,16 @@ function renderTrackList(tracks) {
     }).join('');
 }
 
-function gridSVG() {
+// Pre-built constant — identical every time, no need to recompute per card
+const GRID_SVG = (() => {
     let lines = '';
     for (let i = 0; i <= 40; i += 8) {
         lines += `<line x1="${i}" y1="0" x2="${i}" y2="40" stroke="#555560" stroke-width="0.5"/>`;
         lines += `<line x1="0" y1="${i}" x2="40" y2="${i}" stroke="#555560" stroke-width="0.5"/>`;
     }
     return `<svg class="cover-grid-pattern" viewBox="0 0 40 40" aria-hidden="true">${lines}</svg>`;
-}
+})();
+function gridSVG() { return GRID_SVG; }
 
 
 // ============================================================
@@ -647,23 +780,41 @@ function renderArtistChips(filter) {
         return `<button class="artist-chip${active}" data-artist="${escAttr(k)}" onclick="toggleArtist('${escAttr(k)}')">${esc(k)}${hintHTML} <span class="artist-chip-count">${counts[k]}</span></button>`;
     }).join('');
 
-    bar.innerHTML = `
-    <span class="artist-bar-label">${label}</span>
-    <input type="search" class="artist-search" placeholder="${ph}"
-    oninput="filterArtistChips(this.value)"
-    autocomplete="off" spellcheck="false"
-    value="${escAttr(filter)}">
-    ${clearBtn}
-    <div class="artist-chips-wrap">${chips}</div>`;
+    // Only do a full rebuild when the bar structure changes (label, placeholder, clear btn).
+    // When just filtering chips, update the chips-wrap in-place so the input keeps focus.
+    const existingWrap = bar.querySelector('.artist-chips-wrap');
+    const existingLabel = bar.querySelector('.artist-bar-label');
+    const existingInput = bar.querySelector('.artist-search');
+    const labelChanged = !existingLabel || existingLabel.textContent !== label;
+    const phChanged    = !existingInput || existingInput.placeholder !== ph;
+    const clearChanged = !!bar.querySelector('.artist-clear-btn') !== !!clearBtn;
+    if (labelChanged || phChanged || clearChanged || !existingWrap) {
+        // Full rebuild needed (mode switch, clear btn appearing/disappearing)
+        bar.innerHTML = `
+        <span class="artist-bar-label">${label}</span>
+        <input type="search" class="artist-search" placeholder="${ph}"
+        oninput="filterArtistChips(this.value)"
+        autocomplete="off" spellcheck="false"
+        value="${escAttr(filter)}">
+        ${clearBtn}
+        <div class="artist-chips-wrap">${chips}</div>`;
+    } else {
+        // Just swap out the chips — input keeps focus and cursor position
+        existingWrap.innerHTML = chips;
+    }
 }
 
 function updateStats() {
-    const total     = state.allReleases.length;
-    const shown     = state.filteredReleases.length;
-    const artists   = Object.keys(state.artistMap).length;
-    const nArchived = state.allReleases.filter(r => pipelineStatus(r) === 'archived').length;
-    const nQueued   = state.allReleases.filter(r => pipelineStatus(r) === 'queued').length;
-    const nPending  = state.allReleases.filter(r => pipelineStatus(r) === 'pending').length;
+    const total   = state.allReleases.length;
+    const shown   = state.filteredReleases.length;
+    const artists = Object.keys(state.artistMap).length;
+    let nArchived = 0, nQueued = 0, nPending = 0;
+    for (const r of state.allReleases) {
+        const s = r._status || pipelineStatus(r);
+        if      (s === 'archived') nArchived++;
+        else if (s === 'queued')   nQueued++;
+        else                       nPending++;
+    }
 
     let html = `<b>${artists}</b> artists · <b>${total}</b> releases`;
     if (shown !== total) html += ` · <b>${shown}</b> filtered`;
@@ -706,6 +857,8 @@ function restorePreferences() {
         if (savedView && ['by-artist', 'all-releases'].includes(savedView)) {
             state.viewMode = savedView;
             document.getElementById('view-mode-select').value = savedView;
+            const collapseBtns = document.getElementById('collapse-btns');
+            if (collapseBtns) collapseBtns.style.display = savedView === 'by-artist' ? '' : 'none';
         }
 
         const savedLayout = localStorage.getItem('bc-archive-layout');
@@ -713,6 +866,12 @@ function restorePreferences() {
             state.releaseLayout = savedLayout;
             document.getElementById('btn-grid').classList.toggle('active', savedLayout === 'grid');
             document.getElementById('btn-list').classList.toggle('active', savedLayout === 'list');
+        }
+        const savedLoadAll = localStorage.getItem('bc-archive-loadall');
+        if (savedLoadAll === 'true') {
+            state.loadAll = true;
+            const track = document.getElementById('load-all-toggle');
+            if (track) track.classList.add('on');
         }
     } catch (_) {
         document.body.classList.add('no-covers');
@@ -732,8 +891,8 @@ function sectionId(key) {
 function artistId(name) { return sectionId(name); }
 
 function dateVal(rel) {
-    if (!rel.datePublished) return 0;
-    return new Date(rel.datePublished).getTime() || 0;
+    return rel._dateVal !== undefined ? rel._dateVal
+        : rel.datePublished ? (new Date(rel.datePublished).getTime() || 0) : 0;
 }
 
 function formatDate(str) {

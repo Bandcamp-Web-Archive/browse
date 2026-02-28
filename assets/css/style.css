@@ -124,6 +124,29 @@ backdrop-filter: blur(12px);
     overflow: hidden;
 }
 
+.collapse-btns {
+    display: flex;
+    gap: 4px;
+}
+
+.collapse-btn {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    color: var(--text2);
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 10px;
+    font-family: var(--mono);
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.collapse-btn:hover {
+    background: var(--surface3);
+    color: var(--text);
+}
+
 .groupby-btn {
     background: var(--bg2);
     border: none;
@@ -471,6 +494,8 @@ margin: 0 auto;
 .artist-section {
     margin-bottom: 32px;
     animation: fadeIn 0.3s ease;
+    content-visibility: auto;
+    contain-intrinsic-size: 0 300px; /* estimated height — prevents scrollbar jumping */
 }
 
 @keyframes fadeIn {
@@ -522,6 +547,37 @@ margin: 0 auto;
 .artist-section.collapsed .artist-collapse-icon { transform: rotate(-90deg); }
 .artist-section.collapsed .artist-releases       { display: none; }
 
+
+/* ================================================================
+ *  LOAD-ALL PLACEHOLDER
+ * ================================================================ */
+
+.load-all-placeholder {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--text2);
+    font-size: 13px;
+    line-height: 1.8;
+}
+
+.load-all-placeholder p {
+    margin: 0 0 8px;
+}
+
+.load-all-inline-btn {
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--accent);
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    cursor: pointer;
+    font-family: var(--mono);
+}
+
+.load-all-inline-btn:hover {
+    background: var(--surface2);
+}
 
 /* ================================================================
  *  RELEASE GRIDS

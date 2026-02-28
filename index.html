@@ -25,10 +25,18 @@ layout: null
     <div class="header-toggles">
       <!-- ARTIST / ID grouping toggle -->
       <div class="groupby-btns" title="Group and filter by page artist, album artist, or numeric band ID">
-        <button id="btn-groupby-artist"       class="groupby-btn active" onclick="setGroupBy('artist')">ARTIST</button>
+        <button id="btn-groupby-artist"       class="groupby-btn active" onclick="setGroupBy('artist')">PAGE ARTIST</button>
         <button id="btn-groupby-album-artist" class="groupby-btn"        onclick="setGroupBy('album_artist')">ALBUM ARTIST</button>
         <button id="btn-groupby-id"           class="groupby-btn"        onclick="setGroupBy('band_id')">ID</button>
       </div>
+
+      <!-- Load All toggle -->
+      <label class="covers-toggle" title="Load all releases without requiring a filter">
+        <div class="toggle-track" id="load-all-toggle" onclick="toggleLoadAll()">
+          <div class="toggle-thumb"></div>
+        </div>
+        LOAD ALL
+      </label>
 
       <!-- Covers toggle -->
       <label class="covers-toggle" title="Toggle Bandcamp embedded cover art">
@@ -73,6 +81,11 @@ layout: null
       <option value="by-artist" selected>By Artist</option>
       <option value="all-releases">All Releases</option>
     </select>
+
+    <div class="collapse-btns" id="collapse-btns">
+      <button class="collapse-btn" onclick="collapseAll()" title="Collapse all artists">⊟ collapse</button>
+      <button class="collapse-btn" onclick="expandAll()"   title="Expand all artists">⊞ expand</button>
+    </div>
 
     <div class="view-btns">
       <button class="view-btn" id="btn-grid" onclick="setReleaseLayout('grid')" title="Grid view">⊞</button>
