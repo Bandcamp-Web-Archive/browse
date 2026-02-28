@@ -960,3 +960,76 @@ display: none;
     #main        { padding: 14px; }
     .logo        { font-size: 14px; }
 }
+
+
+/* ================================================================
+ *  TRACK LISTING DROPDOWN
+ *  ================================================================ */
+
+.release-tracks {
+    margin-top: 6px;
+}
+
+.tracks-toggle {
+    font-size: 10px;
+    color: var(--text3);
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+    letter-spacing: 0.03em;
+}
+
+.tracks-toggle:hover { color: var(--text2); }
+.tracks-toggle::-webkit-details-marker { display: none; }
+
+.track-list {
+    margin-top: 4px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.track-list--history {
+    margin-top: 3px;
+    margin-left: 4px;
+}
+
+.track-row {
+    display: flex;
+    align-items: baseline;
+    gap: 5px;
+    font-size: 10px;
+    line-height: 1.4;
+}
+
+.track-num {
+    color: var(--text3);
+    min-width: 16px;
+    text-align: right;
+    flex-shrink: 0;
+}
+
+.track-title {
+    color: var(--text2);
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-decoration: none;
+}
+
+a.track-title:hover {
+    color: var(--accent);
+    text-decoration: underline;
+}
+
+.track-duration {
+    color: var(--text3);
+    flex-shrink: 0;
+    font-variant-numeric: tabular-nums;
+}
+
+.history-trackinfo {
+    margin-top: 3px;
+    width: 100%;
+}

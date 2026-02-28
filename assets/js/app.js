@@ -470,6 +470,9 @@ function releaseCardHTML(rel) {
             const changedFields = Object.entries(h.fields || {});
             const fieldsHTML = changedFields.length
             ? `<div class="history-fields">${changedFields.map(([k, v]) => {
+                if (k === 'trackinfo' && Array.isArray(v)) {
+                    return `<div class="history-trackinfo"><span class="history-field-key">trackinfo:</span><div class="track-list track-list--history">${renderTrackList(v)}</div></div>`;
+                }
                 const display = (Array.isArray(v) || (v !== null && typeof v === 'object'))
                     ? JSON.stringify(v)
                     : String(v);
@@ -486,6 +489,11 @@ function releaseCardHTML(rel) {
     ? `<div class="release-artist">${esc(rel.artist)}</div>`
     : '';
 
+    // Track listing dropdown
+    const tracksDropdownHTML = tracks.length
+    ? `<details class="release-tracks"><summary class="tracks-toggle">♫ ${tracks.length} track${tracks.length !== 1 ? 's' : ''}</summary><div class="track-list">${renderTrackList(tracks)}</div></details>`
+    : '';
+
     return `
     <div class="release-card" data-status="${status}">
     ${coverHTML}
@@ -499,13 +507,24 @@ function releaseCardHTML(rel) {
     ${statusHTML}
     ${cls ? `<span class="classification-badge ${badgeClass}">${cls.toUpperCase()}</span>` : ''}
     <span class="release-date">${date}</span>
-    ${tracks.length ? `<span class="track-count">${tracks.length} trk</span>` : ''}
     ${bcLinkHTML}
     </div>
     ${tagsHTML}
+    ${tracksDropdownHTML}
     ${historyHTML}
     </div>
     </div>`;
+}
+
+function renderTrackList(tracks) {
+    return tracks.map(t => {
+        const num  = t.track_num ? `<span class="track-num">${esc(t.track_num)}.</span>` : '';
+        const link = t.url
+        ? `<a class="track-title" href="${escAttr(t.url)}" target="_blank" rel="noopener">${esc(t.title || 'Untitled')}</a>`
+        : `<span class="track-title">${esc(t.title || 'Untitled')}</span>`;
+        const dur  = t.duration ? `<span class="track-duration">${esc(t.duration)}</span>` : '';
+        return `<div class="track-row">${num}${link}${dur}</div>`;
+    }).join('');
 }
 
 function gridSVG() {
