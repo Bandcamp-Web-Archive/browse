@@ -1,0 +1,112 @@
+{
+    "Patricia Atkin": [
+        {
+            "url": "https://patriciaatkin.bandcamp.com/album/its-me",
+            "title": "it's me",
+            "artist": "Patricia Atkin",
+            "label": null,
+            "band_id": 4277435131,
+            "classification": "nyp",
+            "tags": [
+                "Ambient",
+                "dark ambient",
+                "drone",
+                "liminal",
+                "sad",
+                "storytelling",
+                "Millville"
+            ],
+            "item_id": 251877485,
+            "art_id": 1732629952,
+            "is_preorder": false,
+            "datePublished": "29 May 2025 00:00:00 GMT",
+            "about": null,
+            "credits": "released May 29, 2025",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a1732629952_0",
+            "trackinfo": [
+                {
+                    "title": "are you lost",
+                    "duration": "10:54",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2768930014,
+                    "track_num": "1",
+                    "artist": "Patricia Atkin",
+                    "url": "https://patriciaatkin.bandcamp.com/track/are-you-lost",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1732629952_0",
+                    "art_id": 1732629952,
+                    "about": null,
+                    "credits": "from it's me, released May 29, 2025",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "still not happy",
+                    "duration": "09:47",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 227029763,
+                    "track_num": "2",
+                    "artist": "Patricia Atkin",
+                    "url": "https://patriciaatkin.bandcamp.com/track/still-not-happy",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1732629952_0",
+                    "art_id": 1732629952,
+                    "about": null,
+                    "credits": "from it's me, released May 29, 2025",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "forget about me",
+                    "duration": "07:32",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 264190809,
+                    "track_num": "3",
+                    "artist": "Patricia Atkin",
+                    "url": "https://patriciaatkin.bandcamp.com/track/forget-about-me",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1732629952_0",
+                    "art_id": 1732629952,
+                    "about": null,
+                    "credits": "from it's me, released May 29, 2025",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "okay, my love",
+                    "duration": "04:41",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3042716012,
+                    "track_num": "4",
+                    "artist": "Patricia Atkin",
+                    "url": "https://patriciaatkin.bandcamp.com/track/okay-my-love",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1732629952_0",
+                    "art_id": 1732629952,
+                    "about": null,
+                    "credits": "from it's me, released May 29, 2025",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "awesome",
+                    "duration": "01:34",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3748397860,
+                    "track_num": "5",
+                    "artist": "Patricia Atkin",
+                    "url": "https://patriciaatkin.bandcamp.com/track/awesome",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1732629952_0",
+                    "art_id": 1732629952,
+                    "about": null,
+                    "credits": "from it's me, released May 29, 2025",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T06:00:23.539724+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T06:00:48.996214+00:00",
+            "ia_identifier": "wacz-4277435131-251877485-20260228"
+        }
+    ],
+    "_band_id": 4277435131
+}
