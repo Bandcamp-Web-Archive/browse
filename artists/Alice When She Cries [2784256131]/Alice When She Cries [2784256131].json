@@ -1,0 +1,65 @@
+{
+    "Alice When She Cries": [
+        {
+            "url": "https://alicewhenshecries.bandcamp.com/album/baptized-in-backwater",
+            "title": "Baptized in Backwater",
+            "artist": "Alice When She Cries",
+            "label": null,
+            "band_id": 2784256131,
+            "classification": "paid",
+            "tags": [
+                "Experimental",
+                "dark ambient",
+                "ethereal",
+                "noise",
+                "United States"
+            ],
+            "item_id": 1733572226,
+            "art_id": 2135765336,
+            "is_preorder": false,
+            "datePublished": "31 Mar 2025 00:00:00 GMT",
+            "about": "Released by GoH:  gatesofhypnos.bandcamp.com/album/baptized-in-backwater",
+            "credits": "released March 31, 2025",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2135765336_0",
+            "trackinfo": [
+                {
+                    "title": "River’s Remorse",
+                    "duration": "23:54",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3764054524,
+                    "track_num": "1",
+                    "artist": "Alice When She Cries",
+                    "url": "https://alicewhenshecries.bandcamp.com/track/river-s-remorse",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2135765336_0",
+                    "art_id": 2135765336,
+                    "about": "River’s Remorse",
+                    "credits": "from Baptized in Backwater, released March 31, 2025",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "The Moonshiner’s Lament",
+                    "duration": "27:16",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3635131889,
+                    "track_num": "2",
+                    "artist": "Alice When She Cries",
+                    "url": "https://alicewhenshecries.bandcamp.com/track/the-moonshiner-s-lament",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2135765336_0",
+                    "art_id": 2135765336,
+                    "about": null,
+                    "credits": "from Baptized in Backwater, released March 31, 2025",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T02:33:52.395374+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T02:34:23.547469+00:00",
+            "ia_identifier": "wacz-2784256131-1733572226-20260228"
+        }
+    ],
+    "_band_id": 2784256131
+}
