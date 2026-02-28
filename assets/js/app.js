@@ -469,9 +469,12 @@ function releaseCardHTML(rel) {
             : `<span class="history-no-ia">no archive at change</span>`;
             const changedFields = Object.entries(h.fields || {});
             const fieldsHTML = changedFields.length
-            ? `<div class="history-fields">${changedFields.map(([k, v]) =>
-                `<span class="history-field-key">${esc(k)}:</span> <span class="history-field-val">${esc(String(v))}</span>`
-            ).join(' · ')}</div>`
+            ? `<div class="history-fields">${changedFields.map(([k, v]) => {
+                const display = (Array.isArray(v) || (v !== null && typeof v === 'object'))
+                    ? JSON.stringify(v)
+                    : String(v);
+                return `<span class="history-field-key">${esc(k)}:</span> <span class="history-field-val">${esc(display)}</span>`;
+            }).join(' · ')}</div>`
             : '';
             return `<div class="history-entry"><span class="history-date">${d}</span>${iaLink}${fieldsHTML}</div>`;
         }).join('');
