@@ -779,7 +779,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-02-28T14:12:06.849586+00:00"
+            "archived_at": "2026-02-28T14:12:06.849586+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T14:14:04.569582+00:00",
+            "ia_identifier": "wacz-267518965-426525964-20260228"
         },
         {
             "url": "https://dspeed.bandcamp.com/album/pc-fx-8088",
@@ -886,7 +889,12 @@
                     "credits": "from PC-FX 8088, released September 29, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T14:14:30.151727+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T14:15:13.046846+00:00",
+            "ia_identifier": "wacz-267518965-344151621-20260228"
         },
         {
             "url": "https://dspeed.bandcamp.com/album/reversilizer",
@@ -1096,7 +1104,12 @@
                     "credits": "from Reversilizer, released June 9, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T14:15:41.678805+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T14:16:14.036412+00:00",
+            "ia_identifier": "wacz-267518965-2808661761-20260228"
         },
         {
             "url": "https://dspeed.bandcamp.com/album/s-s-s-s-sonic-core-e-e-e-e",
@@ -1219,7 +1232,12 @@
                     "credits": "from s(s(S(S(SONIC-CORE)E)E)e)e, released October 21, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T14:16:37.767745+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T14:17:12.379277+00:00",
+            "ia_identifier": "wacz-267518965-2575800960-20260228"
         },
         {
             "url": "https://dspeed.bandcamp.com/album/soundtrack-to-a-non-existant-space-shooter",
@@ -1434,7 +1452,12 @@
                     "credits": "from Soundtrack to a Non-existant Space Shooter, released December 20, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T14:17:41.116743+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T14:18:21.678939+00:00",
+            "ia_identifier": "wacz-267518965-3708454116-20260228"
         },
         {
             "url": "https://dspeed.bandcamp.com/album/zx2000",
@@ -1611,7 +1634,12 @@
                     "credits": "from 未来は今です: ZX2000, released May 23, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T14:18:49.178536+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T14:19:21.265366+00:00",
+            "ia_identifier": "wacz-267518965-1566206736-20260228"
         },
         {
             "url": "https://dspeed.bandcamp.com/track/gradius-challenger-1985-dspeed-remix",
@@ -1655,7 +1683,12 @@
                     "credits": "released April 15, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T14:19:36.066629+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T14:20:05.912759+00:00",
+            "ia_identifier": "wacz-267518965-2279809692-20260228"
         }
     ],
     "_band_id": 267518965
