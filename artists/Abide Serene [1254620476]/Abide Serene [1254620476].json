@@ -48249,7 +48249,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-02-27T22:40:36.702386+00:00"
+            "archived_at": "2026-02-27T22:40:36.702386+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:41:38.183430+00:00",
+            "ia_identifier": "wacz-1254620476-4240815700-20260227"
         },
         {
             "url": "https://abideserene.bandcamp.com/album/0346",
@@ -48501,7 +48504,12 @@
                     "credits": "from 0346, released July 23, 2021",
                     "license": "some rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:48:32.458372+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T00:27:42.976503+00:00",
+            "ia_identifier": "wacz-1254620476-1372642029-20260227"
         },
         {
             "url": "https://abideserene.bandcamp.com/album/0347",
@@ -48678,7 +48686,12 @@
                     "credits": "from 0347, released August 10, 2021",
                     "license": "some rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T00:28:35.512000+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T00:34:47.284006+00:00",
+            "ia_identifier": "wacz-1254620476-1888244094-20260228"
         },
         {
             "url": "https://abideserene.bandcamp.com/album/0348",
@@ -48885,7 +48898,12 @@
                     "credits": "from 0348, released September 4, 2021",
                     "license": "some rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T00:36:00.835236+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T00:36:46.071072+00:00",
+            "ia_identifier": "wacz-1254620476-2358983025-20260228"
         },
         {
             "url": "https://abideserene.bandcamp.com/album/0349",
@@ -49347,7 +49365,9 @@
                     "credits": "from 0349, released September 16, 2021",
                     "license": "some rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T00:37:59.820890+00:00"
         },
         {
             "url": "https://abideserene.bandcamp.com/album/0350",

@@ -19267,7 +19267,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-02-27T23:06:17.426432+00:00"
+            "archived_at": "2026-02-27T23:06:17.426432+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:12:12.428300+00:00",
+            "ia_identifier": "wacz-3630364301-4010800302-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/mountain-meditation",
@@ -19309,7 +19312,12 @@
                     "credits": "released February 2, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:12:36.089721+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:15:58.907652+00:00",
+            "ia_identifier": "wacz-3630364301-2835492714-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/ocean-meditation",
@@ -19351,7 +19359,12 @@
                     "credits": "released February 21, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:16:15.626765+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:16:45.422463+00:00",
+            "ia_identifier": "wacz-3630364301-716064799-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/on-a-desolate-road",
@@ -19393,7 +19406,12 @@
                     "credits": "released May 21, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:17:04.744437+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:19:51.286432+00:00",
+            "ia_identifier": "wacz-3630364301-367396469-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/outside-of-space-and-time",
@@ -19435,7 +19453,12 @@
                     "credits": "released February 12, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:20:24.235612+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:26:17.641944+00:00",
+            "ia_identifier": "wacz-3630364301-264267923-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/pyramids-for-the-new-gods",
@@ -19482,7 +19505,12 @@
                     "credits": "released December 21, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:26:40.196511+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:27:09.928806+00:00",
+            "ia_identifier": "wacz-3630364301-2292939024-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/resistance-is-never-futile",
@@ -19524,7 +19552,12 @@
                     "credits": "released June 4, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:27:25.257167+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:27:52.938252+00:00",
+            "ia_identifier": "wacz-3630364301-3263647158-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/rest-here-awhile",
@@ -19571,7 +19604,12 @@
                     "credits": "released November 30, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:28:11.111415+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:28:37.087568+00:00",
+            "ia_identifier": "wacz-3630364301-3975111563-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/rising-up-from-the-darkness",
@@ -19613,7 +19651,12 @@
                     "credits": "released March 6, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:29:02.715741+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:29:34.940840+00:00",
+            "ia_identifier": "wacz-3630364301-162340412-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/searching-for-the-key",
@@ -19655,7 +19698,12 @@
                     "credits": "released September 25, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:29:51.712066+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:30:18.368845+00:00",
+            "ia_identifier": "wacz-3630364301-2399865578-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/set-your-imagination-free",
@@ -19697,7 +19745,12 @@
                     "credits": "released December 24, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:30:34.982147+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:32:29.202088+00:00",
+            "ia_identifier": "wacz-3630364301-241808373-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/shepherds-delight",
@@ -19739,7 +19792,12 @@
                     "credits": "released September 11, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:32:48.786380+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:33:24.573875+00:00",
+            "ia_identifier": "wacz-3630364301-4047052130-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/slowly-unraveling",
@@ -19781,7 +19839,12 @@
                     "credits": "released July 10, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:33:44.740018+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:34:14.656530+00:00",
+            "ia_identifier": "wacz-3630364301-707898134-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/something-out-of-nothing",
@@ -19823,7 +19886,12 @@
                     "credits": "released December 19, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:34:37.307203+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:35:54.259652+00:00",
+            "ia_identifier": "wacz-3630364301-3105501762-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/somewhere-near-the-end",
@@ -19870,7 +19938,12 @@
                     "credits": "released November 30, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:36:13.966414+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:36:44.772592+00:00",
+            "ia_identifier": "wacz-3630364301-1437562935-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/such-transient-beauty",
@@ -19912,7 +19985,12 @@
                     "credits": "released July 26, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:37:01.983451+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:38:48.788997+00:00",
+            "ia_identifier": "wacz-3630364301-165067534-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/take-pleasure-in-the-never-to-be-seen-again",
@@ -19959,7 +20037,12 @@
                     "credits": "released December 7, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:39:09.246529+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:39:36.518441+00:00",
+            "ia_identifier": "wacz-3630364301-897436049-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/take-the-road-less-travelled",
@@ -20001,7 +20084,12 @@
                     "credits": "released December 18, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:39:52.548850+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:41:12.787018+00:00",
+            "ia_identifier": "wacz-3630364301-4242938166-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/the-light-will-always-find-you",
@@ -20043,7 +20131,12 @@
                     "credits": "released June 13, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:41:33.535956+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:42:11.669639+00:00",
+            "ia_identifier": "wacz-3630364301-1737424840-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/the-strangest-dawn",
@@ -20085,7 +20178,12 @@
                     "credits": "released May 21, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:44:46.052052+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:45:11.520105+00:00",
+            "ia_identifier": "wacz-3630364301-2375566342-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/they-see-everything",
@@ -20127,7 +20225,12 @@
                     "credits": "released December 17, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:45:28.958275+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:47:50.841753+00:00",
+            "ia_identifier": "wacz-3630364301-3951003871-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/tidal-pools",
@@ -20174,7 +20277,12 @@
                     "credits": "released December 31, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:48:07.484469+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:48:32.564409+00:00",
+            "ia_identifier": "wacz-3630364301-3708181958-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/time-has-no-meaning-here",
@@ -20216,7 +20324,12 @@
                     "credits": "released September 4, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:49:08.426709+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:49:38.548147+00:00",
+            "ia_identifier": "wacz-3630364301-2441738406-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/transfiguration",
@@ -20263,7 +20376,12 @@
                     "credits": "released February 11, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:49:57.660995+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:50:29.768227+00:00",
+            "ia_identifier": "wacz-3630364301-3892695370-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/trapped-in-my-own-little-universe",
@@ -20310,7 +20428,12 @@
                     "credits": "released December 12, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:50:45.888660+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:51:13.653015+00:00",
+            "ia_identifier": "wacz-3630364301-1293621479-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/tunguska",
@@ -20352,7 +20475,12 @@
                     "credits": "released February 10, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:51:35.578650+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:52:05.420545+00:00",
+            "ia_identifier": "wacz-3630364301-414450059-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/unfathomable-distances",
@@ -20394,7 +20522,12 @@
                     "credits": "released December 20, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:52:25.513334+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:52:55.660977+00:00",
+            "ia_identifier": "wacz-3630364301-2112683705-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/wake-up-youve-been-asleep-for-far-too-long",
@@ -20436,7 +20569,12 @@
                     "credits": "released May 28, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:53:15.984635+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:53:42.407218+00:00",
+            "ia_identifier": "wacz-3630364301-4256293956-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/waking-from-a-slowly-fading-dream",
@@ -20478,7 +20616,12 @@
                     "credits": "released May 3, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:53:59.699368+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:54:32.712489+00:00",
+            "ia_identifier": "wacz-3630364301-2091370460-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/wandering-through-a-prison-of-my-own-making",
@@ -20525,7 +20668,12 @@
                     "credits": "released March 12, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:54:48.278162+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:57:18.282492+00:00",
+            "ia_identifier": "wacz-3630364301-2719214312-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/watching-westerns-with-my-dad",
@@ -20567,7 +20715,12 @@
                     "credits": "released August 11, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:57:36.456995+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:58:03.313315+00:00",
+            "ia_identifier": "wacz-3630364301-1863506348-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/waxing-and-waning",
@@ -20614,7 +20767,12 @@
                     "credits": "released November 12, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:58:22.302317+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:58:54.156673+00:00",
+            "ia_identifier": "wacz-3630364301-2201097494-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/we-meet-in-dreams",
@@ -20656,7 +20814,12 @@
                     "credits": "released May 6, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-27T23:59:13.177027+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-27T23:59:51.637341+00:00",
+            "ia_identifier": "wacz-3630364301-3891167540-20260227"
         },
         {
             "url": "https://laudanumforwhatailsyou.bandcamp.com/track/wrinkles-in-space-time",
@@ -20703,7 +20866,12 @@
                     "credits": "released January 2, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T00:00:08.754062+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T00:01:32.738589+00:00",
+            "ia_identifier": "wacz-3630364301-278104018-20260228"
         }
     ],
     "_band_id": 3630364301

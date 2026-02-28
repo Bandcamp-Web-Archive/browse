@@ -102,7 +102,7 @@
             ],
             "item_id": 2141347929,
             "art_id": 3381795089,
-            "is_preorder": true,
+            "is_preorder": false,
             "datePublished": "26 Feb 2026 00:00:00 GMT",
             "about": "Architects of Existence prove that third time is indeed a charm. Not that their first two CS releases were chopped liver, mind you. It’s simply that Mick Chillage and Eric \"the\" Taylor pool their collective expertise with such synchronicity you can’t help but be utterly enchanted with the sound design on display. Theirs is a magnificent beauty indeed, as the eye peeks into the gargantuan black holes their synths conjure, sights of epic wonder, infinite expanse, and odysseys in to space that mortal man can but dream of. The opening “C18” distills these motifs with its perpetual gaze, as electronics arc and iris throughout an indifferent cosmos, Chillage and Taylor begging kaleidoscopic microdots of errant pulse and vibrant, interstellar hues that shift about the color spectrum. It’s as if the duo are rendering corporeal the very sounds of stardust itself. The sweeping arias of airbrushed sound underpinning the near 19-minute journey of “Haunted Existence” must circumnavigate a whole array of moods and textures, synths that mimic light rays bent awry, digital phantasms percolating betwixt galaxies, the sensations of massive objects moving forever in a night sky drenched in abject melancholy. Just stupendous.",
             "credits": "releases February 26, 2026\nWritten, performed, and recorded at the Igloo Dublin and ForceField Studios, Rochester, NY.\nMick Chillage would like to thank Dave at Carpe for his patience and support, and \"The” Taylor for his deep dedication, warm communication and for sharing his boundless talents.\n\"The\" Taylor would like to thank my wife and children for letting me escape to the music room, ForceField, Mick Chillage for continuous magic and patience (Good fun Mick, you’re a gentleman!), Charles B. McLaud, Esq., for continued friendship, belief and guidance, and Dave at Carpe Sonum.",
@@ -125,6 +125,66 @@
                     "license": "all rights reserved"
                 },
                 {
+                    "title": "Fragments of Existence",
+                    "duration": "09:50",
+                    "lyrics": null,
+                    "label": "Carpe Sonum Records",
+                    "track_id": 2629953658,
+                    "track_num": "2",
+                    "artist": "Architects of Existence",
+                    "url": "https://architectsofexistence.bandcamp.com/track/fragments-of-existence",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3381795089_0",
+                    "art_id": 3381795089,
+                    "about": null,
+                    "credits": "from Fragments of Existence, released February 26, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Meltwater",
+                    "duration": "09:43",
+                    "lyrics": null,
+                    "label": "Carpe Sonum Records",
+                    "track_id": 3139124793,
+                    "track_num": "3",
+                    "artist": "Architects of Existence",
+                    "url": "https://architectsofexistence.bandcamp.com/track/meltwater",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3381795089_0",
+                    "art_id": 3381795089,
+                    "about": null,
+                    "credits": "from Fragments of Existence, released February 26, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Haunted Existence",
+                    "duration": "18:54",
+                    "lyrics": null,
+                    "label": "Carpe Sonum Records",
+                    "track_id": 3284863205,
+                    "track_num": "4",
+                    "artist": "Architects of Existence",
+                    "url": "https://architectsofexistence.bandcamp.com/track/haunted-existence",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3381795089_0",
+                    "art_id": 3381795089,
+                    "about": null,
+                    "credits": "from Fragments of Existence, released February 26, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Petrichor",
+                    "duration": "09:09",
+                    "lyrics": null,
+                    "label": "Carpe Sonum Records",
+                    "track_id": 2125375613,
+                    "track_num": "5",
+                    "artist": "Architects of Existence",
+                    "url": "https://architectsofexistence.bandcamp.com/track/petrichor",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3381795089_0",
+                    "art_id": 3381795089,
+                    "about": null,
+                    "credits": "from Fragments of Existence, released February 26, 2026",
+                    "license": "all rights reserved"
+                },
+                {
                     "title": "Railroad River Crossing",
                     "duration": "09:04",
                     "lyrics": null,
@@ -138,13 +198,71 @@
                     "about": null,
                     "credits": "from Fragments of Existence, released February 26, 2026",
                     "license": "all rights reserved"
+                },
+                {
+                    "title": "The Missionary",
+                    "duration": "07:18",
+                    "lyrics": null,
+                    "label": "Carpe Sonum Records",
+                    "track_id": 3119755784,
+                    "track_num": "7",
+                    "artist": "Architects of Existence",
+                    "url": "https://architectsofexistence.bandcamp.com/track/the-missionary",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3381795089_0",
+                    "art_id": 3381795089,
+                    "about": null,
+                    "credits": "from Fragments of Existence, released February 26, 2026",
+                    "license": "all rights reserved"
                 }
             ],
             "archived": true,
-            "archived_at": "2026-02-26T23:50:05.169935+00:00",
+            "archived_at": "2026-02-28T00:19:32.237690+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-02-26T23:50:36.965303+00:00",
-            "ia_identifier": "wacz-1554178954-2141347929-20260226"
+            "uploaded_at": "2026-02-28T00:20:03.695965+00:00",
+            "ia_identifier": "wacz-1554178954-2141347929-20260228",
+            "_history": [
+                {
+                    "changed_at": "2026-02-28T00:18:58.237244+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "ia_identifier_at_change": "wacz-1554178954-2141347929-20260226",
+                    "fields": {
+                        "is_preorder": true,
+                        "trackinfo": [
+                            {
+                                "title": "C18",
+                                "duration": "12:35",
+                                "lyrics": null,
+                                "label": "Carpe Sonum Records",
+                                "track_id": 3049909469,
+                                "track_num": "1",
+                                "artist": "Architects of Existence",
+                                "url": "https://architectsofexistence.bandcamp.com/track/c18",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a3381795089_0",
+                                "art_id": 3381795089,
+                                "about": null,
+                                "credits": "from Fragments of Existence, released February 26, 2026",
+                                "license": "all rights reserved"
+                            },
+                            {
+                                "title": "Railroad River Crossing",
+                                "duration": "09:04",
+                                "lyrics": null,
+                                "label": "Carpe Sonum Records",
+                                "track_id": 4053083849,
+                                "track_num": "6",
+                                "artist": "Architects of Existence",
+                                "url": "https://architectsofexistence.bandcamp.com/track/railroad-river-crossing",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a3381795089_0",
+                                "art_id": 3381795089,
+                                "about": null,
+                                "credits": "from Fragments of Existence, released February 26, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://architectsofexistence.bandcamp.com/album/three-deep-breaths",
