@@ -18,9 +18,10 @@ const state = {
     activeArtists:    new Set(),   // artist-name keys OR band_id strings depending on groupBy
     allTagCounts:     {},
     _artistBarData:   {},          // groupKey -> release count (cache)
+    _artistBarHints:  {},          // groupKey -> hint string
     releaseLayout:    'list',      // 'grid' | 'list'
-    viewMode:         'by-artist', // 'by-artist' | 'all-grid' | 'all-list'
-    groupBy:          'artist',    // 'artist' | 'band_id'
+    viewMode:         'by-artist', // 'by-artist' | 'all-releases'
+    groupBy:          'artist',    // 'artist' | 'band_id' | 'album_artist'
     coversEnabled:    false,
     page:             0,
 };
@@ -33,7 +34,9 @@ const PAGE_SIZE = 60;
 // ============================================================
 
 function groupKey(rel) {
-    return state.groupBy === 'band_id' ? String(rel.band_id || '') : rel._artistKey;
+    if (state.groupBy === 'band_id')      return String(rel.band_id || '');
+    if (state.groupBy === 'album_artist') return rel.artist || rel._artistKey;
+    return rel._artistKey;
 }
 
 // ============================================================
@@ -249,6 +252,7 @@ window.setGroupBy = function (mode) {
     state.activeArtists.clear(); // keys changed, clear selection
     document.getElementById('btn-groupby-artist').classList.toggle('active', mode === 'artist');
     document.getElementById('btn-groupby-id').classList.toggle('active', mode === 'band_id');
+    document.getElementById('btn-groupby-album-artist').classList.toggle('active', mode === 'album_artist');
     try { localStorage.setItem('bc-archive-groupby', mode); } catch (_) {}
     buildArtistBar();
     applyFilters();
@@ -363,7 +367,9 @@ function renderByArtist(container) {
         // In band_id mode show the artist name alongside the ID
         const nameLabel = state.groupBy === 'band_id'
         ? `${esc(key)} <span class="artist-name-hint">${esc(releases[0]._artistKey || '')}</span>`
-        : esc(key);
+        : state.groupBy === 'artist'
+        ? `${esc(key)} <span class="artist-name-hint">${esc(String(releases[0].band_id || ''))}</span>`
+        : esc(key); // album_artist: no hint (multiple band_ids could mix)
         const countLabel = nArchived === releases.length
         ? `${releases.length} release${releases.length !== 1 ? 's' : ''}`
         : `${releases.length} release${releases.length !== 1 ? 's' : ''} · ${nArchived} archived`;
@@ -595,20 +601,31 @@ function buildTagBar() {
 }
 
 function buildArtistBar() {
-    // Build count map keyed by current groupBy
+    // Build count map and hints map keyed by current groupBy
     const counts = {};
+    const hints  = {};
     for (const rel of state.allReleases) {
         const k = groupKey(rel);
         counts[k] = (counts[k] || 0) + 1;
+        // artist mode: hint = band_id; band_id mode: hint = page artist name
+        if (state.groupBy === 'artist' && !hints[k]) {
+            hints[k] = String(rel.band_id || '');
+        } else if (state.groupBy === 'band_id' && !hints[k]) {
+            hints[k] = rel._artistKey || '';
+        }
+        // album_artist mode: no hints (multiple band_ids could mix)
     }
-    state._artistBarData = counts;
+    state._artistBarData  = counts;
+    state._artistBarHints = hints;
     renderArtistChips('');
 }
 
 function renderArtistChips(filter) {
     const bar    = document.getElementById('artist-bar');
-    const counts = state._artistBarData || {};
-    const isId   = state.groupBy === 'band_id';
+    const counts = state._artistBarData  || {};
+    const hints  = state._artistBarHints || {};
+    const isId          = state.groupBy === 'band_id';
+    const isAlbumArtist = state.groupBy === 'album_artist';
 
     const sortedKeys = Object.keys(counts).sort((a, b) => a.localeCompare(b));
     const visible    = filter
@@ -620,12 +637,14 @@ function renderArtistChips(filter) {
     ? `<button class="artist-clear-btn" onclick="clearArtistFilter()" title="Clear artist filter">✕ clear</button>`
     : '';
 
-    const label = isId ? 'Band IDs' : 'Artists';
-    const ph    = isId ? 'search IDs…' : 'search artists…';
+    const label = isId ? 'Band IDs' : isAlbumArtist ? 'Album Artists' : 'Artists';
+    const ph    = isId ? 'search IDs…' : isAlbumArtist ? 'search album artists…' : 'search artists…';
 
     const chips = visible.map(k => {
-        const active = state.activeArtists.has(k) ? ' active' : '';
-        return `<button class="artist-chip${active}" data-artist="${escAttr(k)}" onclick="toggleArtist('${escAttr(k)}')">${esc(k)} <span class="artist-chip-count">${counts[k]}</span></button>`;
+        const active   = state.activeArtists.has(k) ? ' active' : '';
+        const hint     = hints[k];
+        const hintHTML = hint ? ` <span class="artist-name-hint">${esc(hint)}</span>` : '';
+        return `<button class="artist-chip${active}" data-artist="${escAttr(k)}" onclick="toggleArtist('${escAttr(k)}')">${esc(k)}${hintHTML} <span class="artist-chip-count">${counts[k]}</span></button>`;
     }).join('');
 
     bar.innerHTML = `
@@ -676,14 +695,15 @@ function restorePreferences() {
         }
 
         const savedGroupBy = localStorage.getItem('bc-archive-groupby');
-        if (savedGroupBy === 'band_id' || savedGroupBy === 'artist') {
+        if (savedGroupBy === 'band_id' || savedGroupBy === 'artist' || savedGroupBy === 'album_artist') {
             state.groupBy = savedGroupBy;
             document.getElementById('btn-groupby-artist').classList.toggle('active', savedGroupBy === 'artist');
             document.getElementById('btn-groupby-id').classList.toggle('active', savedGroupBy === 'band_id');
+            document.getElementById('btn-groupby-album-artist').classList.toggle('active', savedGroupBy === 'album_artist');
         }
 
         const savedView = localStorage.getItem('bc-archive-view');
-        if (savedView && ['by-artist', 'all-grid', 'all-list'].includes(savedView)) {
+        if (savedView && ['by-artist', 'all-releases'].includes(savedView)) {
             state.viewMode = savedView;
             document.getElementById('view-mode-select').value = savedView;
         }
