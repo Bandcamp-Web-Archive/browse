@@ -6248,7 +6248,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-01T02:57:54.539444+00:00"
+            "archived_at": "2026-03-01T02:57:54.539444+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:00:16.020306+00:00",
+            "ia_identifier": "wacz-3999969532-2511151961-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/journey-to-the-edge-of-the-universe-vol-3",
@@ -6409,7 +6412,12 @@
                     "credits": "from Journey to the Edge of the Universe, vol. 3, released November 23, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:01:40.791357+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:04:47.393757+00:00",
+            "ia_identifier": "wacz-3999969532-2961235459-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/letters-to-charon",
@@ -6525,7 +6533,12 @@
                     "credits": "from Letters to Charon, released April 15, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:05:20.444192+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:06:33.025954+00:00",
+            "ia_identifier": "wacz-3999969532-2366989086-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/life-on-jupiter-2012",
@@ -6662,7 +6675,12 @@
                     "credits": "from Life on Jupiter (2012), released August 11, 2013",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:07:18.696216+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:08:10.127709+00:00",
+            "ia_identifier": "wacz-3999969532-731485755-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/mahabhuta",
@@ -6781,7 +6799,12 @@
                     "credits": "from Mahabhuta, released October 27, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:09:20.205569+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:10:00.956053+00:00",
+            "ia_identifier": "wacz-3999969532-1155178517-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/night-sky",
@@ -6882,7 +6905,12 @@
                     "credits": "from Night sky, released July 26, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:10:47.254544+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:12:38.525640+00:00",
+            "ia_identifier": "wacz-3999969532-4229522350-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/nodes-vol-1",
@@ -6998,7 +7026,12 @@
                     "credits": "from Nodes, vol. 1, released April 11, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:12:46.515017+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:13:11.485757+00:00",
+            "ia_identifier": "wacz-3999969532-3238828999-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/nodes-vol-2",
@@ -7114,7 +7147,12 @@
                     "credits": "from Nodes, vol. 2, released May 2, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:13:35.786917+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:16:21.200571+00:00",
+            "ia_identifier": "wacz-3999969532-2056351263-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/nodes-vol-3",
@@ -7230,7 +7268,12 @@
                     "credits": "from Nodes, vol. 3, released May 31, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:17:11.415403+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:17:43.548902+00:00",
+            "ia_identifier": "wacz-3999969532-782210493-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/nodes-vol-4",
@@ -7331,7 +7374,12 @@
                     "credits": "from Nodes, vol. 4, released June 19, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:18:25.592351+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:19:38.511723+00:00",
+            "ia_identifier": "wacz-3999969532-1553079071-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/over-the-clouds",
@@ -7417,7 +7465,12 @@
                     "credits": "from Over The Clouds, released November 7, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:20:08.610236+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:21:08.342295+00:00",
+            "ia_identifier": "wacz-3999969532-1528275722-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/prelude-to-space",
@@ -7518,7 +7571,12 @@
                     "credits": "from Prelude to Space, released August 21, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T04:22:55.858554+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T04:23:27.565971+00:00",
+            "ia_identifier": "wacz-3999969532-680004135-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/quantum-principles",
@@ -7604,7 +7662,12 @@
                     "credits": "from Quantum Principles, released November 5, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T04:24:00.418180+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T04:24:38.600522+00:00",
+            "ia_identifier": "wacz-3999969532-2385613109-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/quiet-saturdays-vol-1",
@@ -7720,7 +7783,12 @@
                     "credits": "from Quiet Saturdays Vol. 1, released December 14, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T04:25:09.314781+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T04:28:46.908956+00:00",
+            "ia_identifier": "wacz-3999969532-2685830927-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/quiet-saturdays-vol-2",
@@ -7836,7 +7904,12 @@
                     "credits": "from Quiet Saturdays Vol. 2, released January 18, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T04:29:23.175480+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T04:29:54.766906+00:00",
+            "ia_identifier": "wacz-3999969532-2656926249-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/quiet-saturdays-vol-3",
@@ -7997,7 +8070,12 @@
                     "credits": "from Quiet Saturdays Vol. 3, released March 16, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T04:30:41.977078+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T04:37:54.291592+00:00",
+            "ia_identifier": "wacz-3999969532-3914170443-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/quiet-saturdays-vol-4",
@@ -8143,7 +8221,12 @@
                     "credits": "from Quiet Saturdays Vol. 4, released April 30, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T04:38:52.050941+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T04:42:51.713479+00:00",
+            "ia_identifier": "wacz-3999969532-3955614550-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/quiet-saturdays-vol-5",
@@ -8289,7 +8372,12 @@
                     "credits": "from Quiet Saturdays Vol. 5, released June 23, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T04:43:31.688619+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T04:44:18.786091+00:00",
+            "ia_identifier": "wacz-3999969532-3871744576-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/quiet-saturdays-vol-6",
@@ -8420,7 +8508,12 @@
                     "credits": "from Quiet Saturdays Vol. 6, released August 6, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T04:44:59.620620+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T04:45:29.013792+00:00",
+            "ia_identifier": "wacz-3999969532-451742371-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/quiet-saturdays-vol-7",
@@ -8656,7 +8749,12 @@
                     "credits": "from Quiet Saturdays Vol. 7, released November 17, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T04:46:46.360765+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T04:51:12.007137+00:00",
+            "ia_identifier": "wacz-3999969532-2038944924-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/quiet-saturdays-vol-8",
@@ -8838,7 +8936,12 @@
                     "credits": "from Quiet Saturdays Vol. 8, released February 16, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T04:51:42.015761+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T04:52:12.180336+00:00",
+            "ia_identifier": "wacz-3999969532-67606847-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/quiet-saturdays-vol-9",
@@ -8909,7 +9012,12 @@
                     "credits": "from Quiet Saturdays Vol. 9, released September 14, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T04:52:47.504008+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T04:53:18.818425+00:00",
+            "ia_identifier": "wacz-3999969532-1821892701-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/quiet-saturdays-vol-x",
@@ -8995,7 +9103,12 @@
                     "credits": "from Quiet Saturdays Vol. X, released December 24, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T04:54:07.012513+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T04:54:43.643876+00:00",
+            "ia_identifier": "wacz-3999969532-3243261197-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/reaching-for-the-stars",
@@ -9051,7 +9164,12 @@
                     "credits": "from Reaching for the Stars, released December 25, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T04:55:07.082239+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T04:55:31.744086+00:00",
+            "ia_identifier": "wacz-3999969532-1679876107-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/realm-of-silence",
@@ -9137,7 +9255,12 @@
                     "credits": "from Realm of Silence, released May 20, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T04:56:10.678283+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T04:57:37.747912+00:00",
+            "ia_identifier": "wacz-3999969532-4050064927-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/requiem",
@@ -9194,7 +9317,12 @@
                     "credits": "from Requiem, released August 7, 2013",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T04:58:14.887995+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T04:58:46.482177+00:00",
+            "ia_identifier": "wacz-3999969532-3639687862-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/rewired-classics-2006",
@@ -9330,7 +9458,12 @@
                     "credits": "from Rewired Classics (2006), released May 5, 2006",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T04:59:10.319478+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T04:59:45.667047+00:00",
+            "ia_identifier": "wacz-3999969532-1525335494-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/rhuthmos-vol-1",
@@ -9416,7 +9549,12 @@
                     "credits": "from Rhuthmos, vol. 1, released September 10, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:00:25.838249+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:01:00.012944+00:00",
+            "ia_identifier": "wacz-3999969532-948515930-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/rhuthmos-vol-2",
@@ -9517,7 +9655,12 @@
                     "credits": "from Rhuthmos, vol. 2, released November 16, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:01:35.151819+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:02:10.568309+00:00",
+            "ia_identifier": "wacz-3999969532-1049272826-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/s3q-2014",
@@ -9654,7 +9797,12 @@
                     "credits": "from S3Q (2014), released January 17, 2014",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:02:39.902158+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:03:10.786236+00:00",
+            "ia_identifier": "wacz-3999969532-1576609429-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/sacramental-confession",
@@ -9770,7 +9918,12 @@
                     "credits": "from Sacramental Confession, released July 9, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:03:42.556775+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:04:22.702834+00:00",
+            "ia_identifier": "wacz-3999969532-2053831088-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/sehnsucht",
@@ -9961,7 +10114,12 @@
                     "credits": "from Sehnsucht, released December 29, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:05:23.941565+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:06:02.937295+00:00",
+            "ia_identifier": "wacz-3999969532-2248429098-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/seqsuite-2019-remastered",
@@ -10035,7 +10193,12 @@
                     "credits": "from SEQSUITE (2019 remastered), released May 13, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:06:27.809049+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:10:01.147379+00:00",
+            "ia_identifier": "wacz-3999969532-1773357880-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/sequencing-virus-disease",
@@ -10091,7 +10254,12 @@
                     "credits": "from Sequencing Virus Disease, released October 10, 2014",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:10:33.098291+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:15:51.461119+00:00",
+            "ia_identifier": "wacz-3999969532-1927718214-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/seven-earths",
@@ -10135,7 +10303,12 @@
                     "credits": "from Seven Earths, released February 23, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:16:22.494347+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:16:52.743637+00:00",
+            "ia_identifier": "wacz-3999969532-2540341460-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/shadows-in-the-dark",
@@ -10221,7 +10394,12 @@
                     "credits": "from Shadows in the Dark, released July 16, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:17:33.286405+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:24:03.418355+00:00",
+            "ia_identifier": "wacz-3999969532-1118123693-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/spectrum",
@@ -10313,7 +10491,12 @@
                     "credits": "from Spectrum, track released July 22, 2014",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:24:42.107324+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:28:05.560848+00:00",
+            "ia_identifier": "wacz-3999969532-1210941531-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/spells",
@@ -10414,7 +10597,12 @@
                     "credits": "from Spells, released December 22, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:28:30.592678+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:28:57.229768+00:00",
+            "ia_identifier": "wacz-3999969532-1225352609-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/spiritual-1999",
@@ -10530,7 +10718,12 @@
                     "credits": "from Spiritual (1999), released December 23, 2019",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:29:22.058049+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:32:34.939346+00:00",
+            "ia_identifier": "wacz-3999969532-513058580-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/stories-from-a-distant-space-vol-1",
@@ -10631,7 +10824,12 @@
                     "credits": "from Stories From a Distant Space, Vol. 1, released August 25, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:33:05.220435+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:33:39.275647+00:00",
+            "ia_identifier": "wacz-3999969532-3773185337-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/stories-from-a-distant-space-vol-2",
@@ -10732,7 +10930,12 @@
                     "credits": "from Stories From a Distant Space, Vol. 2, released October 6, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:34:09.631819+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:34:44.308482+00:00",
+            "ia_identifier": "wacz-3999969532-1987198868-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/studio-collections-1",
@@ -10833,7 +11036,12 @@
                     "credits": "from Studio Collections 1, released April 2, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:35:11.850343+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:38:40.788817+00:00",
+            "ia_identifier": "wacz-3999969532-3069513375-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/studio-collections-2",
@@ -10964,7 +11172,12 @@
                     "credits": "from Studio Collections 2, released March 21, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:39:10.776476+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:42:18.660727+00:00",
+            "ia_identifier": "wacz-3999969532-3523452045-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/studio-collections-3",
@@ -11080,7 +11293,12 @@
                     "credits": "from Studio Collections 3, released September 13, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:42:51.779654+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:43:31.606916+00:00",
+            "ia_identifier": "wacz-3999969532-795734204-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/sublunary",
@@ -11166,7 +11384,12 @@
                     "credits": "from Sublunary, released August 16, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:44:01.391774+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:44:30.675081+00:00",
+            "ia_identifier": "wacz-3999969532-1982948105-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/synergy",
@@ -11267,7 +11490,12 @@
                     "credits": "from Synergy, released June 16, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:44:59.045759+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:48:46.035881+00:00",
+            "ia_identifier": "wacz-3999969532-1045737151-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/synth-collection-vol-1",
@@ -11383,7 +11611,12 @@
                     "credits": "from Synth Collection, Vol. 1, released November 3, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:49:23.430897+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:49:57.761530+00:00",
+            "ia_identifier": "wacz-3999969532-2660197149-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/synth-therapy",
@@ -11589,7 +11822,12 @@
                     "credits": "from Synth Therapy, released April 13, 2019",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:50:25.941168+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:55:16.755019+00:00",
+            "ia_identifier": "wacz-3999969532-3657760619-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/synthethics",
@@ -11690,7 +11928,12 @@
                     "credits": "from Synthethics, released August 23, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T05:56:00.303528+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T05:59:39.280680+00:00",
+            "ia_identifier": "wacz-3999969532-625874672-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/telirium-dremens",
@@ -11791,7 +12034,12 @@
                     "credits": "from Telirium Dremens, released December 24, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:00:02.456697+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T06:02:48.734110+00:00",
+            "ia_identifier": "wacz-3999969532-1113025168-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/ten-stories-vol-1",
@@ -11967,7 +12215,12 @@
                     "credits": "from Ten Stories, Vol. 1, released July 7, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:03:20.270167+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T06:03:57.008215+00:00",
+            "ia_identifier": "wacz-3999969532-2615004836-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/ten-stories-vol-2",
@@ -12143,7 +12396,12 @@
                     "credits": "from Ten Stories, Vol. 2, released November 25, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:04:31.120316+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T06:11:31.334760+00:00",
+            "ia_identifier": "wacz-3999969532-2881148343-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/tension-in-the-string",
@@ -12250,7 +12508,12 @@
                     "credits": "from Tension in the String, released August 24, 2014",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:11:59.656409+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T06:12:49.109903+00:00",
+            "ia_identifier": "wacz-3999969532-3150066217-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-best-of-live-studio-vol-1",
@@ -12426,7 +12689,12 @@
                     "credits": "from The Best of Live Studio, Vol. 1, released March 19, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:13:27.993777+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T06:20:01.707615+00:00",
+            "ia_identifier": "wacz-3999969532-322329577-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-best-of-live-studio-vol-2",
@@ -12587,7 +12855,12 @@
                     "credits": "from The Best of Live Studio, Vol. 2, track released February 17, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:20:43.154858+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T06:24:49.121827+00:00",
+            "ia_identifier": "wacz-3999969532-1066430633-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-best-of-live-studio-vol-3",
@@ -12763,7 +13036,12 @@
                     "credits": "from The Best of Live Studio, Vol. 3, released April 21, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:25:20.274682+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T06:25:50.289608+00:00",
+            "ia_identifier": "wacz-3999969532-238653224-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-best-of-live-studio-vol-4",
@@ -12864,7 +13142,12 @@
                     "credits": "from The Best of Live Studio, Vol. 4, released July 23, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:26:24.440166+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T06:27:04.140924+00:00",
+            "ia_identifier": "wacz-3999969532-1070592169-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-best-of-live-studio-vol-5",
@@ -12980,7 +13263,12 @@
                     "credits": "from The Best of Live Studio, Vol. 5, released December 1, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:27:36.220375+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T06:28:11.055517+00:00",
+            "ia_identifier": "wacz-3999969532-1383480424-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-best-of-vol-1",
@@ -13096,7 +13384,12 @@
                     "credits": "from The Best Of, Vol.1, released June 19, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:28:38.664771+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T06:29:15.822047+00:00",
+            "ia_identifier": "wacz-3999969532-910409009-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-best-of-vol-2",
@@ -13197,7 +13490,12 @@
                     "credits": "from The Best Of, Vol​.​ 2, released July 3, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:29:54.847068+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T06:36:27.873957+00:00",
+            "ia_identifier": "wacz-3999969532-3308035798-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-dome",
@@ -13319,7 +13617,12 @@
                     "credits": "from The Dome, released April 9, 2014",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:37:17.904292+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T06:42:04.149000+00:00",
+            "ia_identifier": "wacz-3999969532-2426071418-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-epsilon-project-2013",
@@ -13456,7 +13759,12 @@
                     "credits": "from The Epsilon Project (2013), released June 18, 2013",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:42:38.320910+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T06:43:20.416435+00:00",
+            "ia_identifier": "wacz-3999969532-2027712352-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-fields-of-mars-2012",
@@ -13593,7 +13901,12 @@
                     "credits": "from The Fields of Mars (2012), released June 11, 2013",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:43:45.992564+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T06:44:42.487284+00:00",
+            "ia_identifier": "wacz-3999969532-1287682592-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-floating-body",
@@ -13634,7 +13947,12 @@
                     "credits": "from The Floating Body, released October 3, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:45:02.224891+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T06:47:28.832356+00:00",
+            "ia_identifier": "wacz-3999969532-2453653328-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-long-way-to-mars",
@@ -13750,7 +14068,12 @@
                     "credits": "from The Long Way to Mars, released October 2, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:48:06.779071+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T06:52:35.525589+00:00",
+            "ia_identifier": "wacz-3999969532-4093382380-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-moons-of-monday-v-1",
@@ -13896,7 +14219,12 @@
                     "credits": "from The Moons of Monday V.1, released May 19, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:53:14.306976+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T06:53:54.154310+00:00",
+            "ia_identifier": "wacz-3999969532-2558542630-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-moons-of-monday-v-2",
@@ -14027,7 +14355,12 @@
                     "credits": "from The Moons of Monday V.2, released July 6, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:54:39.169833+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T06:57:58.919071+00:00",
+            "ia_identifier": "wacz-3999969532-862104045-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-moons-of-monday-v-3",
@@ -14158,7 +14491,12 @@
                     "credits": "from The Moons of Monday V​.​3, released December 9, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:58:27.871933+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T06:59:11.241809+00:00",
+            "ia_identifier": "wacz-3999969532-4098136307-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-night-shift",
@@ -14289,7 +14627,12 @@
                     "credits": "from The Night Shift, released October 13, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T06:59:47.384273+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:02:39.351343+00:00",
+            "ia_identifier": "wacz-3999969532-2147402748-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-quest",
@@ -14420,7 +14763,12 @@
                     "credits": "from The Quest, released March 8, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:03:23.628745+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:07:11.964898+00:00",
+            "ia_identifier": "wacz-3999969532-707852843-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-realm-of-a-spotless-mind",
@@ -14581,7 +14929,12 @@
                     "credits": "from The Realm of a Spotless Mind, released December 13, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:07:41.850464+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:08:31.185351+00:00",
+            "ia_identifier": "wacz-3999969532-2531583550-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-reckoning-of-time",
@@ -14757,7 +15110,12 @@
                     "credits": "from The Reckoning of Time, released July 4, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:09:10.043966+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:09:58.452353+00:00",
+            "ia_identifier": "wacz-3999969532-209495391-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-secret-collection-vol-1",
@@ -14843,7 +15201,12 @@
                     "credits": "from The Secret Collection, Vol. 1, released July 26, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:10:38.145252+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:12:46.950212+00:00",
+            "ia_identifier": "wacz-3999969532-628219156-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-stargazer",
@@ -14914,7 +15277,12 @@
                     "credits": "from The Stargazer, released December 25, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:13:12.979202+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:14:55.982733+00:00",
+            "ia_identifier": "wacz-3999969532-1808292406-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-story-of-a-dying-sun",
@@ -15000,7 +15368,12 @@
                     "credits": "from The Story of a Dying Sun, released April 26, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:15:23.507883+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:15:59.332029+00:00",
+            "ia_identifier": "wacz-3999969532-2681157162-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-storyteller",
@@ -15161,7 +15534,12 @@
                     "credits": "from The Storyteller, released September 10, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:16:24.850120+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:21:15.889133+00:00",
+            "ia_identifier": "wacz-3999969532-684919936-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-strings-of-hades-2015",
@@ -15219,7 +15597,12 @@
                     "credits": "from The Strings of Hades (2015), released February 10, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:21:50.990780+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:26:23.494507+00:00",
+            "ia_identifier": "wacz-3999969532-606863992-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/the-untitled-album",
@@ -15305,7 +15688,12 @@
                     "credits": "from The Untitled Album, released September 17, 2014",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:26:56.078809+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:27:28.216778+00:00",
+            "ia_identifier": "wacz-3999969532-30370044-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/this-flow-is-not-real",
@@ -15421,7 +15809,12 @@
                     "credits": "from This Flow Is Not Real, released April 2, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:28:01.882194+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:30:51.423724+00:00",
+            "ia_identifier": "wacz-3999969532-3767025342-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/time-machine",
@@ -15522,7 +15915,12 @@
                     "credits": "from Time Machine, released October 24, 2014",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:31:16.513062+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:34:00.309129+00:00",
+            "ia_identifier": "wacz-3999969532-668683287-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/time-variant",
@@ -15653,7 +16051,12 @@
                     "credits": "from Time Variant, released March 7, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:34:33.720660+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:35:14.725750+00:00",
+            "ia_identifier": "wacz-3999969532-1446559938-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/to-nowhere-and-back",
@@ -15754,7 +16157,12 @@
                     "credits": "from To Nowhere and Back, released March 3, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:35:39.341731+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:36:09.195635+00:00",
+            "ia_identifier": "wacz-3999969532-1952886733-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/twentyone",
@@ -15855,7 +16263,12 @@
                     "credits": "from TwentyOne, released August 5, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:36:29.748058+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:39:54.351088+00:00",
+            "ia_identifier": "wacz-3999969532-4050355259-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/unidentified-sounds-from-space-vol-1",
@@ -15926,7 +16339,12 @@
                     "credits": "from Unidentified Sounds from Space, Vol. 1, released January 14, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:40:40.220628+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:46:09.148430+00:00",
+            "ia_identifier": "wacz-3999969532-291595495-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/unidentified-sounds-from-space-vol-2",
@@ -16012,7 +16430,12 @@
                     "credits": "from Unidentified Sounds from Space, Vol. 2, released April 1, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:46:47.815863+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:47:22.352074+00:00",
+            "ia_identifier": "wacz-3999969532-2440004013-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/unpredictable-intersections-over-the-time-and-now-2015",
@@ -16101,7 +16524,12 @@
                     "credits": "from Unpredictable Intersections Over the Time and Now (2015), released January 20, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:47:52.883226+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:50:28.681896+00:00",
+            "ia_identifier": "wacz-3999969532-3787750330-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/voices-from-the-past-2016",
@@ -16206,7 +16634,12 @@
                     "credits": "from Voices from the Past (2016), released January 10, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:50:59.504386+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:53:51.224420+00:00",
+            "ia_identifier": "wacz-3999969532-1528216114-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/vox-of-sequencing",
@@ -16292,7 +16725,12 @@
                     "credits": "from Vox of Sequencing, released June 1, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:54:14.830920+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:54:46.334644+00:00",
+            "ia_identifier": "wacz-3999969532-26370007-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/voyager-2015",
@@ -16393,7 +16831,12 @@
                     "credits": "from Voyager (2015), released January 9, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:55:09.516511+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:55:38.822286+00:00",
+            "ia_identifier": "wacz-3999969532-2003892383-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/when-the-silence-continues",
@@ -16509,7 +16952,12 @@
                     "credits": "from When The Silence Continues, released May 14, 2019",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:56:00.832030+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:56:31.052571+00:00",
+            "ia_identifier": "wacz-3999969532-637527435-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/where-are-the-quiet-saturdays-vol-1",
@@ -16595,7 +17043,12 @@
                     "credits": "from Where Are The Quiet Saturdays? Vol. 1, released July 27, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:56:55.958117+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:57:40.930316+00:00",
+            "ia_identifier": "wacz-3999969532-556116309-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/where-are-the-quiet-saturdays-vol-2",
@@ -16666,7 +17119,12 @@
                     "credits": "from Where Are The Quiet Saturdays? Vol. 2, released September 8, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T07:58:08.253756+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T07:59:40.017630+00:00",
+            "ia_identifier": "wacz-3999969532-2066462036-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/where-are-the-quiet-saturdays-vol-3",
@@ -16737,7 +17195,12 @@
                     "credits": "from Where Are The Quiet Saturdays? Vol. 3, released October 10, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T08:00:15.209183+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T08:01:41.322093+00:00",
+            "ia_identifier": "wacz-3999969532-2909879761-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/x-edition",
@@ -16823,7 +17286,12 @@
                     "credits": "from X Edition, released March 3, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T08:02:08.257588+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T08:05:00.931246+00:00",
+            "ia_identifier": "wacz-3999969532-2430683446-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/album/y-edition",
@@ -16909,7 +17377,12 @@
                     "credits": "from Y Edition, released November 4, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T08:05:26.178550+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T08:06:44.298539+00:00",
+            "ia_identifier": "wacz-3999969532-1502224702-20260301"
         },
         {
             "url": "https://albaecstasy.bandcamp.com/track/a-space-journey",
@@ -16950,7 +17423,12 @@
                     "credits": "released February 27, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T08:06:59.764684+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T08:07:33.409178+00:00",
+            "ia_identifier": "wacz-3999969532-1263231740-20260301"
         }
     ],
     "_band_id": 3999969532

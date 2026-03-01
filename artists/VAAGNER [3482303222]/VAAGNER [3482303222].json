@@ -1,7 +1,7 @@
 {
     "VAAGNER": [
         {
-            "url": "https://canadian-rifles.bandcamp.com/album/eastern-nurseries-expanded-edition-2?label=3482303222&tab=music",
+            "url": "https://canadian-rifles.bandcamp.com/album/eastern-nurseries-expanded-edition-2?label=3482303222",
             "title": "Eastern Nurseries (Expanded Edition)",
             "artist": "Canadian Rifles",
             "label": "VAAGNER",
@@ -95,10 +95,15 @@
                     "credits": "from Eastern Nurseries (Expanded Edition), released June 12, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T15:45:04.279493+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T15:52:10.564917+00:00",
+            "ia_identifier": "wacz-3482303222-1215178645-20260301"
         },
         {
-            "url": "https://christophdebabalon.bandcamp.com/album/vale?label=3482303222&tab=music",
+            "url": "https://christophdebabalon.bandcamp.com/album/vale?label=3482303222",
             "title": "Vale",
             "artist": "Christoph de Babalon",
             "label": "VAAGNER",
@@ -304,10 +309,15 @@
                     "credits": "from Vale, released October 6, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T15:45:32.409014+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T16:02:25.229168+00:00",
+            "ia_identifier": "wacz-3482303222-2154737036-20260301"
         },
         {
-            "url": "https://christopherwhitley.bandcamp.com/album/landscape-shifts-slight-return?label=3482303222&tab=music",
+            "url": "https://christopherwhitley.bandcamp.com/album/landscape-shifts-slight-return?label=3482303222",
             "title": "Landscape Shifts (Slight Return)",
             "artist": "Christopher Whitley",
             "label": "VAAGNER",
@@ -359,10 +369,15 @@
                     "credits": "from Landscape Shifts (Slight Return), released November 20, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T15:45:50.155282+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T15:54:47.655986+00:00",
+            "ia_identifier": "wacz-3482303222-2767434227-20260301"
         },
         {
-            "url": "https://oake.bandcamp.com/album/live-in-marseille?label=3482303222&tab=music",
+            "url": "https://oake.bandcamp.com/album/live-in-marseille?label=3482303222",
             "title": "Live in Marseille",
             "artist": "OAKE",
             "label": "VAAGNER",
@@ -420,10 +435,15 @@
                     "credits": "from Live in Marseille, released February 14, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T15:46:07.652754+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T15:55:22.612255+00:00",
+            "ia_identifier": "wacz-3482303222-3754630233-20260301"
         },
         {
-            "url": "https://sofiebirch.bandcamp.com/album/themes-for-a-better-tomorrow-vol-ii-hidden-terraces?label=3482303222&tab=music",
+            "url": "https://sofiebirch.bandcamp.com/album/themes-for-a-better-tomorrow-vol-ii-hidden-terraces?label=3482303222",
             "title": "Themes For A Better Tomorrow Vol. II 'Hidden Terraces'",
             "artist": "Sofie Birch",
             "label": "VAAGNER",
@@ -462,10 +482,15 @@
                     "credits": "from Themes For A Better Tomorrow Vol. II 'Hidden Terraces', released June 12, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T15:46:26.203726+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T15:55:55.624779+00:00",
+            "ia_identifier": "wacz-3482303222-2341501602-20260301"
         },
         {
-            "url": "https://thme-sound.bandcamp.com/album/a-grasp-of-wonder-2?label=3482303222&tab=music",
+            "url": "https://thme-sound.bandcamp.com/album/a-grasp-of-wonder-2?label=3482303222",
             "title": "A Grasp of Wonder",
             "artist": "Thme",
             "label": "VAAGNER",
@@ -564,7 +589,12 @@
                     "credits": "from A Grasp of Wonder, released September 23, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T15:46:45.656725+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T15:49:41.247677+00:00",
+            "ia_identifier": "wacz-3482303222-1699290627-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/120121",
@@ -3999,7 +4029,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-01T02:58:11.122516+00:00"
+            "archived_at": "2026-03-01T02:58:11.122516+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:00:29.845165+00:00",
+            "ia_identifier": "wacz-3482303222-1791830132-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/neither-here-nor-there",
@@ -4113,7 +4146,12 @@
                     "credits": "from Neither Here Nor There, released January 3, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:02:14.740693+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:08:01.680807+00:00",
+            "ia_identifier": "wacz-3482303222-869651280-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/noter-om-angst",
@@ -4156,7 +4194,12 @@
                     "credits": "from Noter Om Angst, released April 5, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:08:26.880704+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:08:59.438192+00:00",
+            "ia_identifier": "wacz-3482303222-2220831516-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/our-last-days",
@@ -4222,7 +4265,12 @@
                     "credits": "from Our Last Days, released February 12, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:09:34.571141+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:10:04.040263+00:00",
+            "ia_identifier": "wacz-3482303222-883451812-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/patience-2",
@@ -4273,7 +4321,12 @@
                     "credits": "from Patience, released December 1, 2019",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:10:49.043410+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:11:23.822850+00:00",
+            "ia_identifier": "wacz-3482303222-210835927-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/pillars-of-cadence",
@@ -4339,7 +4392,12 @@
                     "credits": "from Pillars of Cadence, released February 12, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:11:42.965378+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:12:08.576884+00:00",
+            "ia_identifier": "wacz-3482303222-211442706-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/receding-tides",
@@ -4405,7 +4463,12 @@
                     "credits": "from Receding Tides, released May 7, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:12:27.093430+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:12:58.330136+00:00",
+            "ia_identifier": "wacz-3482303222-442162029-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/rejoice",
@@ -4576,7 +4639,12 @@
                     "credits": "from Rejoice!, released March 1, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:13:06.902209+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:13:38.696235+00:00",
+            "ia_identifier": "wacz-3482303222-1963994317-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/remnants",
@@ -4658,7 +4726,12 @@
                     "credits": "from remnants, released March 24, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:13:59.335419+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:14:37.138495+00:00",
+            "ia_identifier": "wacz-3482303222-3032512491-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/reworks-rewoven",
@@ -4772,7 +4845,12 @@
                     "credits": "from Reworks (Rewoven), released December 1, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:15:00.236445+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:17:10.351027+00:00",
+            "ia_identifier": "wacz-3482303222-1793909798-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/satrunus-ost",
@@ -4856,7 +4934,12 @@
                     "credits": "from Satrunus (OST), released July 11, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:17:29.684054+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:18:02.380410+00:00",
+            "ia_identifier": "wacz-3482303222-3795269417-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/selected-organ-works",
@@ -5087,7 +5170,12 @@
                     "credits": "from Selected Organ Works, released May 28, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:18:38.328621+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:19:18.017149+00:00",
+            "ia_identifier": "wacz-3482303222-1220620488-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/seta",
@@ -5260,7 +5348,12 @@
                     "credits": "from Seta, released May 4, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:19:42.299746+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:20:13.605193+00:00",
+            "ia_identifier": "wacz-3482303222-4178104983-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/setting-thoughts-on-fire",
@@ -5371,7 +5464,12 @@
                     "credits": "from Setting Thoughts On Fire, released August 5, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:20:37.126220+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:21:07.938246+00:00",
+            "ia_identifier": "wacz-3482303222-2585714935-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/solitary-hymns",
@@ -5527,7 +5625,12 @@
                     "credits": "from Solitary Hymns, released April 1, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:21:46.064476+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:25:30.049387+00:00",
+            "ia_identifier": "wacz-3482303222-2474494387-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/speak-you-also",
@@ -5685,7 +5788,12 @@
                     "credits": "from Speak, You Also, released July 15, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:25:53.069357+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:26:32.459764+00:00",
+            "ia_identifier": "wacz-3482303222-994178949-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/spor-af-intet",
@@ -5736,7 +5844,12 @@
                     "credits": "from Spor Af Intet, released April 2, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:27:08.758000+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:28:31.613464+00:00",
+            "ia_identifier": "wacz-3482303222-1848895549-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/stages-of-grief-vol-1-convalescence",
@@ -5817,7 +5930,12 @@
                     "credits": "from Stages of Grief Vol. 1 'Convalescence', track released May 28, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:28:55.215035+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:29:26.391736+00:00",
+            "ia_identifier": "wacz-3482303222-1027691748-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/stages-of-grief-vol-2-solace",
@@ -5898,7 +6016,12 @@
                     "credits": "from Stages of Grief Vol. 2 'Solace', released July 15, 2019",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:29:47.728632+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:30:21.253491+00:00",
+            "ia_identifier": "wacz-3482303222-1171142989-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/stages-of-grief-vol-3-acceptance-part-1",
@@ -5979,7 +6102,12 @@
                     "credits": "from Stages of Grief Vol. 3 'Acceptance' (Part 1), released August 27, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:30:40.242215+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:31:20.844038+00:00",
+            "ia_identifier": "wacz-3482303222-2990324605-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/stages-of-grief-vol-3-acceptance-part-2",
@@ -6045,7 +6173,12 @@
                     "credits": "from Stages of Grief Vol. 3 'Acceptance' (Part 2), released August 27, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:31:39.183837+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:32:15.064307+00:00",
+            "ia_identifier": "wacz-3482303222-2901089436-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/surging-waves",
@@ -6141,7 +6274,12 @@
                     "credits": "from Surging Waves, released August 24, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:32:37.501262+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:33:18.087399+00:00",
+            "ia_identifier": "wacz-3482303222-192272361-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/sv-nyr-l",
@@ -6207,7 +6345,12 @@
                     "credits": "from Ösvényről, released December 1, 2019",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:33:44.406186+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:34:15.953824+00:00",
+            "ia_identifier": "wacz-3482303222-1846429143-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/the-air-outside-feels-crazy-right-now",
@@ -6349,7 +6492,12 @@
                     "credits": "from The Air Outside Feels Crazy Right Now, released April 3, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:34:43.464720+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:35:16.234624+00:00",
+            "ia_identifier": "wacz-3482303222-3440295098-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/the-cormorant",
@@ -6445,7 +6593,12 @@
                     "credits": "from The Cormorant, released June 4, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:35:39.416496+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:36:09.364562+00:00",
+            "ia_identifier": "wacz-3482303222-4070862831-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/the-eyeless-sea",
@@ -6496,7 +6649,12 @@
                     "credits": "from The Eyeless Sea, released July 15, 2019",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:36:27.910163+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:37:32.855130+00:00",
+            "ia_identifier": "wacz-3482303222-2709215161-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/the-journey",
@@ -6592,7 +6750,12 @@
                     "credits": "from The Journey, released June 12, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:37:57.124348+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:38:44.506574+00:00",
+            "ia_identifier": "wacz-3482303222-3448404474-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/the-male-activity-years",
@@ -6688,7 +6851,12 @@
                     "credits": "from The Male Activity Years, released February 12, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:39:06.976399+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:41:30.840733+00:00",
+            "ia_identifier": "wacz-3482303222-1892336777-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/the-same-demons-drawn-on-a-crumpled-piece-of-paper",
@@ -6769,7 +6937,12 @@
                     "credits": "from The Same Demons Drawn On A Crumpled Piece Of Paper, released February 12, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:41:52.627166+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:42:43.388441+00:00",
+            "ia_identifier": "wacz-3482303222-1516094294-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/the-voyeurs-gambit",
@@ -6789,7 +6962,12 @@
             "credits": "released February 12, 2021",
             "license": "all rights reserved",
             "coverUrl_0": "https://f4.bcbits.com/img/a2362810780_0",
-            "trackinfo": []
+            "trackinfo": [],
+            "archived": true,
+            "archived_at": "2026-03-01T03:43:02.475243+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:43:31.365773+00:00",
+            "ia_identifier": "wacz-3482303222-4285465080-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/the-warmest-hum",
@@ -7110,7 +7288,12 @@
                     "credits": "from The Warmest Hum, released February 18, 2019",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:44:17.701441+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:44:58.936709+00:00",
+            "ia_identifier": "wacz-3482303222-1219085626-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/their-arms-surround-me-like-chains-made-of-velvet",
@@ -7206,7 +7389,12 @@
                     "credits": "from Their Arms Surround Me Like Chains Made of Velvet, released April 8, 2019",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:45:20.641676+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:45:50.846129+00:00",
+            "ia_identifier": "wacz-3482303222-1392749419-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/their-arms-surround-me-like-chains-made-of-velvet-angelo-harmsworths-and-dis-figs-reworks",
@@ -7242,7 +7430,12 @@
                     "credits": "from Their Arms Surround Me Like Chains Made of Velvet (Angelo Harmsworth's and Dis Fig's Reworks), released April 1, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:46:08.133367+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:46:33.191572+00:00",
+            "ia_identifier": "wacz-3482303222-2673440455-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/themes-for-a-better-tomorrow-vol-i-in-full-bloom",
@@ -7323,7 +7516,12 @@
                     "credits": "from Themes For A Better Tomorrow Vol. I 'In Full Bloom', released September 16, 2019",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:46:53.034984+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:47:42.252584+00:00",
+            "ia_identifier": "wacz-3482303222-910951787-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/threat-behaviour",
@@ -7389,7 +7587,12 @@
                     "credits": "from Threat Behaviour, released December 3, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:48:03.898202+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:48:31.039684+00:00",
+            "ia_identifier": "wacz-3482303222-2024670908-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/time-for-no-memory",
@@ -7563,7 +7766,12 @@
                     "credits": "from Time for No Memory, released October 4, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:48:57.022308+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:49:32.621384+00:00",
+            "ia_identifier": "wacz-3482303222-2340369372-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/untitled",
@@ -7629,7 +7837,12 @@
                     "credits": "from Untitled, released November 30, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:49:58.428303+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:50:32.372022+00:00",
+            "ia_identifier": "wacz-3482303222-824243414-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/vaagner-event-series-aalburg",
@@ -7695,7 +7908,12 @@
                     "credits": "from Vaagner Event Series - Aalburg, released February 28, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:51:06.286180+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:51:42.697501+00:00",
+            "ia_identifier": "wacz-3482303222-3236486453-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/vaagner-event-series-berlin",
@@ -7715,7 +7933,12 @@
             "credits": "released August 24, 2018",
             "license": "all rights reserved",
             "coverUrl_0": "https://f4.bcbits.com/img/a1254827897_0",
-            "trackinfo": []
+            "trackinfo": [],
+            "archived": true,
+            "archived_at": "2026-03-01T03:52:01.443447+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:52:25.804599+00:00",
+            "ia_identifier": "wacz-3482303222-1049146497-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/vessels",
@@ -7815,7 +8038,12 @@
                     "credits": "from Vessels, released July 7, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:52:47.509111+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:53:16.434060+00:00",
+            "ia_identifier": "wacz-3482303222-870453027-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/when-the-night-ends",
@@ -7867,7 +8095,12 @@
                     "credits": "from When The Night Ends, released September 10, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:53:35.266366+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:54:12.393356+00:00",
+            "ia_identifier": "wacz-3482303222-866413633-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/winter-olympics",
@@ -7887,7 +8120,12 @@
             "credits": "released December 4, 2020",
             "license": "all rights reserved",
             "coverUrl_0": "https://f4.bcbits.com/img/a1775807468_0",
-            "trackinfo": []
+            "trackinfo": [],
+            "archived": true,
+            "archived_at": "2026-03-01T03:54:30.573420+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:54:59.337910+00:00",
+            "ia_identifier": "wacz-3482303222-1483504742-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/winter-olympics-ii",
@@ -7907,7 +8145,12 @@
             "credits": "released January 21, 2022\nMastered by Ian Hawgood",
             "license": null,
             "coverUrl_0": "https://f4.bcbits.com/img/a4066077391_0",
-            "trackinfo": []
+            "trackinfo": [],
+            "archived": true,
+            "archived_at": "2026-03-01T03:55:16.091849+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:55:45.257828+00:00",
+            "ia_identifier": "wacz-3482303222-2476625902-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/winter-olympics-iii",
@@ -7944,7 +8187,12 @@
                     "credits": "from Winter Olympics III, released December 1, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:56:07.101063+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:57:13.939690+00:00",
+            "ia_identifier": "wacz-3482303222-3644553180-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/winter-orbit",
@@ -8025,7 +8273,12 @@
                     "credits": "from Winter Orbit, released June 18, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:57:39.120432+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:58:13.718233+00:00",
+            "ia_identifier": "wacz-3482303222-2620922425-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/album/you-only",
@@ -8106,7 +8359,12 @@
                     "credits": "from You, Only, released July 15, 2019",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:58:34.003272+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:59:07.243849+00:00",
+            "ia_identifier": "wacz-3482303222-1399240764-20260301"
         },
         {
             "url": "https://vaagner.bandcamp.com/track/being-held-jefre-cantu-ledesma-rework",
@@ -8142,7 +8400,12 @@
                     "credits": "released May 6, 2022\nMastered by Ian Hawgood",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T03:59:23.201758+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:59:53.982125+00:00",
+            "ia_identifier": "wacz-3482303222-2579198871-20260301"
         }
     ],
     "_band_id": 3482303222

@@ -125,7 +125,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-02-28T21:56:14.780701+00:00"
+            "archived_at": "2026-02-28T21:56:14.780701+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:07:06.464199+00:00",
+            "ia_identifier": "wacz-3048864814-3854314149-20260228"
         },
         {
             "url": "https://andrewliles.bandcamp.com/album/--2",
@@ -219,7 +222,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-02-28T21:56:46.665704+00:00"
+            "archived_at": "2026-02-28T21:56:46.665704+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:07:40.131675+00:00",
+            "ia_identifier": "wacz-3048864814-1267706939-20260228"
         },
         {
             "url": "https://andrewliles.bandcamp.com/album/1221",
@@ -872,7 +878,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-02-28T21:59:01.724214+00:00"
+            "archived_at": "2026-02-28T21:59:01.724214+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:06:39.812193+00:00",
+            "ia_identifier": "wacz-3048864814-2247127314-20260228"
         },
         {
             "url": "https://andrewliles.bandcamp.com/album/acedia",
@@ -5907,7 +5916,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-02-28T22:27:01.643798+00:00"
+            "archived_at": "2026-02-28T22:27:01.643798+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:06:07.498705+00:00",
+            "ia_identifier": "wacz-3048864814-2758404348-20260228"
         },
         {
             "url": "https://andrewliles.bandcamp.com/album/der-brennende-acker",
@@ -35685,7 +35697,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-02-28T23:53:26.728415+00:00"
+            "archived_at": "2026-02-28T23:53:26.728415+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:01:22.199008+00:00",
+            "ia_identifier": "wacz-3048864814-2440948212-20260228"
         },
         {
             "url": "https://andrewliles.bandcamp.com/album/where-the-long-shadows-fall-expanded",
@@ -35750,7 +35765,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-02-28T23:53:53.197667+00:00"
+            "archived_at": "2026-02-28T23:53:53.197667+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:02:24.396414+00:00",
+            "ia_identifier": "wacz-3048864814-891258023-20260228"
         },
         {
             "url": "https://andrewliles.bandcamp.com/album/without-season",
@@ -35863,7 +35881,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-02-28T23:54:20.008144+00:00"
+            "archived_at": "2026-02-28T23:54:20.008144+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:02:57.925822+00:00",
+            "ia_identifier": "wacz-3048864814-2905499739-20260228"
         },
         {
             "url": "https://andrewliles.bandcamp.com/album/without-wisdom",
@@ -36014,7 +36035,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-02-28T23:54:44.433194+00:00"
+            "archived_at": "2026-02-28T23:54:44.433194+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:04:14.665016+00:00",
+            "ia_identifier": "wacz-3048864814-1214006665-20260228"
         },
         {
             "url": "https://andrewliles.bandcamp.com/album/zenerphobia",
@@ -36322,7 +36346,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-02-28T23:55:20.692181+00:00"
+            "archived_at": "2026-02-28T23:55:20.692181+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T03:05:32.129710+00:00",
+            "ia_identifier": "wacz-3048864814-279976353-20260228"
         },
         {
             "url": "https://andrewliles.bandcamp.com/track/the-frightened-city-new-moon-over-manhattan-mix",
