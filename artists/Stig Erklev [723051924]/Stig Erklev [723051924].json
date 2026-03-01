@@ -2827,7 +2827,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-02-28T15:24:47.728132+00:00"
+            "archived_at": "2026-02-28T15:24:47.728132+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:29:32.817566+00:00",
+            "ia_identifier": "wacz-723051924-3051993026-20260228"
         },
         {
             "url": "https://stigerklev.bandcamp.com/album/in-sickness-remastered",
@@ -3280,7 +3283,12 @@
                     "credits": "from In Sickness (Remastered), released December 14, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:30:28.309910+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:36:23.658434+00:00",
+            "ia_identifier": "wacz-723051924-1078210197-20260228"
         },
         {
             "url": "https://stigerklev.bandcamp.com/album/monolith",
@@ -3434,7 +3442,12 @@
                     "credits": "from Monolith, released May 30, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:37:05.440881+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:38:57.659490+00:00",
+            "ia_identifier": "wacz-723051924-1195536742-20260228"
         },
         {
             "url": "https://stigerklev.bandcamp.com/album/monolith-instrumental",
@@ -3581,7 +3594,12 @@
                     "credits": "from Monolith (Instrumental), released May 30, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:39:31.706131+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:43:11.964352+00:00",
+            "ia_identifier": "wacz-723051924-580054219-20260228"
         },
         {
             "url": "https://stigerklev.bandcamp.com/album/my-blood-hates-me-short-edit",
@@ -3646,7 +3664,12 @@
                     "credits": "from My Blood Hates Me (Short Edit), released May 9, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:43:28.014509+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:43:56.957258+00:00",
+            "ia_identifier": "wacz-723051924-3917345026-20260228"
         },
         {
             "url": "https://stigerklev.bandcamp.com/album/plague-diaries",
@@ -3814,7 +3837,12 @@
                     "credits": "from Plague Diaries, released May 5, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:44:23.938523+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:45:26.534542+00:00",
+            "ia_identifier": "wacz-723051924-1345909710-20260228"
         },
         {
             "url": "https://stigerklev.bandcamp.com/album/plague-diaries-instrumental",
@@ -3984,7 +4012,12 @@
                     "credits": "from Plague Diaries (Instrumental), released May 5, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:45:53.162688+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:46:32.095339+00:00",
+            "ia_identifier": "wacz-723051924-2400251196-20260228"
         },
         {
             "url": "https://stigerklev.bandcamp.com/album/sorrow",
@@ -4090,7 +4123,12 @@
                     "credits": "from Sorrow, released December 2, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:46:53.129321+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:47:27.089151+00:00",
+            "ia_identifier": "wacz-723051924-236670359-20260228"
         },
         {
             "url": "https://stigerklev.bandcamp.com/album/the-loser-tapes-instrumental",
@@ -4274,7 +4312,12 @@
                     "credits": "from The Loser Tapes (Instrumental), released December 22, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:47:50.355804+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:49:34.110634+00:00",
+            "ia_identifier": "wacz-723051924-1578484158-20260228"
         },
         {
             "url": "https://stigerklev.bandcamp.com/album/the-loser-tapes-pt-2-instrumental",
@@ -4455,7 +4498,12 @@
                     "credits": "from The Loser Tapes, Pt. 2 (Instrumental), released January 22, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:49:56.968574+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:50:46.371379+00:00",
+            "ia_identifier": "wacz-723051924-4045886355-20260228"
         },
         {
             "url": "https://stigerklev.bandcamp.com/album/there-are-things-growing",
@@ -4595,7 +4643,12 @@
                     "credits": "from There Are Things Growing, released July 14, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:51:05.900590+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:51:38.872353+00:00",
+            "ia_identifier": "wacz-723051924-2130723043-20260228"
         },
         {
             "url": "https://stigerklev.bandcamp.com/album/there-are-things-growing-instrumental",
@@ -4735,7 +4788,12 @@
                     "credits": "from There Are Things Growing (Instrumental), released July 14, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:51:58.251023+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:52:50.848657+00:00",
+            "ia_identifier": "wacz-723051924-1091845607-20260228"
         },
         {
             "url": "https://stigerklev.bandcamp.com/album/when-everyone-leaves",
@@ -4978,7 +5036,12 @@
                     "credits": "from When Everyone Leaves, released August 25, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:53:22.465292+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:54:01.117774+00:00",
+            "ia_identifier": "wacz-723051924-1736982508-20260228"
         },
         {
             "url": "https://stigerklev.bandcamp.com/album/when-everyone-leaves-instrumental",
@@ -5223,7 +5286,12 @@
                     "credits": "from When Everyone Leaves (Instrumental), released January 2, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:54:28.950789+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:55:56.357726+00:00",
+            "ia_identifier": "wacz-723051924-1891036354-20260228"
         },
         {
             "url": "https://stigerklev.bandcamp.com/album/wither",
@@ -5451,7 +5519,12 @@
                     "credits": "from Wither, released April 28, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:56:23.250644+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:56:57.642295+00:00",
+            "ia_identifier": "wacz-723051924-376472269-20260228"
         },
         {
             "url": "https://stigerklev.bandcamp.com/album/wounds",
@@ -5586,7 +5659,12 @@
                     "credits": "from Wounds, released October 11, 2013",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:57:17.150696+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:57:44.586802+00:00",
+            "ia_identifier": "wacz-723051924-1474082934-20260228"
         },
         {
             "url": "https://stigerklev.bandcamp.com/track/anima-single",
@@ -5633,7 +5711,12 @@
                     "credits": "released August 4, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:58:01.214803+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:58:26.694753+00:00",
+            "ia_identifier": "wacz-723051924-192333127-20260228"
         },
         {
             "url": "https://stigerklev.bandcamp.com/track/call-of-the-void-single",
@@ -5678,7 +5761,12 @@
                     "credits": "released August 26, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:58:41.803893+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:59:10.843561+00:00",
+            "ia_identifier": "wacz-723051924-4126469788-20260228"
         },
         {
             "url": "https://stigerklev.bandcamp.com/track/grandfather-clock-single",
@@ -5725,7 +5813,12 @@
                     "credits": "released August 11, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:59:25.583230+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:59:58.397063+00:00",
+            "ia_identifier": "wacz-723051924-2563462136-20260228"
         }
     ],
     "_band_id": 723051924

@@ -284,7 +284,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-02-28T15:24:34.915388+00:00"
+            "archived_at": "2026-02-28T15:24:34.915388+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:25:12.887553+00:00",
+            "ia_identifier": "wacz-497541848-3924420434-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/cassettes-for-cain",
@@ -491,7 +494,12 @@
                     "credits": "from Cassettes for Cain, released July 9, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:25:38.840540+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:27:43.467104+00:00",
+            "ia_identifier": "wacz-497541848-812465717-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/changeling",
@@ -728,7 +736,12 @@
                     "credits": "from Changeling, released October 10, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:28:12.165110+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:28:44.633379+00:00",
+            "ia_identifier": "wacz-497541848-4254700045-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/cover-to-cover-ep",
@@ -845,7 +858,12 @@
                     "credits": "from Cover to Cover (EP), released December 16, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:29:06.201743+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:29:37.428604+00:00",
+            "ia_identifier": "wacz-497541848-1458017123-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/earthbound-canopy",
@@ -1022,7 +1040,12 @@
                     "credits": "from Earthbound Canopy, released March 1, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:30:09.236139+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:30:45.242919+00:00",
+            "ia_identifier": "wacz-497541848-3428469449-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/eight-hours-of-night",
@@ -1289,7 +1312,12 @@
                     "credits": "from Eight Hours Of Night, released January 17, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:31:13.210685+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:32:29.316591+00:00",
+            "ia_identifier": "wacz-497541848-1722646104-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/evidence-for-ghosts",
@@ -1481,7 +1509,12 @@
                     "credits": "from Evidence For Ghosts, released April 7, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:32:55.481268+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:33:40.083801+00:00",
+            "ia_identifier": "wacz-497541848-4227460405-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/immortalised-daffodils",
@@ -1868,7 +1901,12 @@
                     "credits": "from Immortalised Daffodils, released August 8, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:34:14.425080+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:34:55.328938+00:00",
+            "ia_identifier": "wacz-497541848-1895390556-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/inheritance",
@@ -2090,7 +2128,12 @@
                     "credits": "from Inheritance, released November 28, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:35:21.639326+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:38:33.486567+00:00",
+            "ia_identifier": "wacz-497541848-693798781-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/innerexternal",
@@ -2417,7 +2460,12 @@
                     "credits": "from Innerexternal, released October 11, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:39:04.557485+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:44:14.201609+00:00",
+            "ia_identifier": "wacz-497541848-1397770375-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/innerviolent",
@@ -2564,7 +2612,12 @@
                     "credits": "from Innerviolent, released March 23, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:44:43.900774+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:45:23.690645+00:00",
+            "ia_identifier": "wacz-497541848-528530781-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/leaves-for-u",
@@ -2741,7 +2794,12 @@
                     "credits": "from leaves for u, released January 14, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:45:53.048755+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:46:27.499703+00:00",
+            "ia_identifier": "wacz-497541848-3173545924-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/mesmerised-by-the-mess",
@@ -3068,7 +3126,12 @@
                     "credits": "from mesmerised by the mess, released November 18, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:46:58.782266+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:49:48.891750+00:00",
+            "ia_identifier": "wacz-497541848-3206244362-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/mixtape-2",
@@ -3365,7 +3428,12 @@
                     "credits": "from Mixtape #2, released January 21, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:50:27.527637+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:54:43.064838+00:00",
+            "ia_identifier": "wacz-497541848-1740004201-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/namesake",
@@ -3572,7 +3640,12 @@
                     "credits": "from namesake, released October 24, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:55:11.118444+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:57:36.996200+00:00",
+            "ia_identifier": "wacz-497541848-152709400-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/one-take",
@@ -3704,7 +3777,12 @@
                     "credits": "from One Take, released April 21, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:58:02.014117+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:58:37.459546+00:00",
+            "ia_identifier": "wacz-497541848-3623724749-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/outside",
@@ -3881,7 +3959,12 @@
                     "credits": "from Outside, released June 12, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:59:01.934268+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T15:59:30.571335+00:00",
+            "ia_identifier": "wacz-497541848-802141044-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/re-bonfire-evening",
@@ -4058,7 +4141,12 @@
                     "credits": "from Re: Bonfire Evening, released October 2, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T15:59:53.667328+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T16:01:01.444950+00:00",
+            "ia_identifier": "wacz-497541848-1731368557-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/self-titled",
@@ -4265,7 +4353,12 @@
                     "credits": "from Self-Titled, released July 30, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T16:01:25.680687+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T16:02:25.335411+00:00",
+            "ia_identifier": "wacz-497541848-3324822537-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/the-sound",
@@ -4472,7 +4565,12 @@
                     "credits": "from The Sound, released August 27, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T16:02:52.019067+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T16:04:44.624918+00:00",
+            "ia_identifier": "wacz-497541848-3122760449-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/the-view-from-earth",
@@ -4679,7 +4777,12 @@
                     "credits": "from The View From Earth, released January 1, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T16:05:14.128459+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T16:07:41.893560+00:00",
+            "ia_identifier": "wacz-497541848-3418741553-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/time-enough",
@@ -4886,7 +4989,12 @@
                     "credits": "from Time Enough, released August 1, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T16:08:05.432730+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T16:08:39.964931+00:00",
+            "ia_identifier": "wacz-497541848-2750494593-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/troubles-ep",
@@ -4988,7 +5096,12 @@
                     "credits": "from Troubles EP, released February 13, 2026",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T16:08:59.579277+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T16:09:41.999475+00:00",
+            "ia_identifier": "wacz-497541848-2328008990-20260228"
         },
         {
             "url": "https://terrapin27.bandcamp.com/album/untethered",
@@ -5135,7 +5248,12 @@
                     "credits": "from Untethered, released February 23, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T16:10:10.071188+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T16:10:42.679902+00:00",
+            "ia_identifier": "wacz-497541848-3379547109-20260228"
         }
     ],
     "_band_id": 497541848

@@ -1,0 +1,52 @@
+{
+    "big city orchestra": [
+        {
+            "url": "https://bigcityorchestra.bandcamp.com/album/childs-garden-of-noize-ep",
+            "title": "child's garden of NOIZE ep",
+            "artist": "big city orchestra",
+            "label": null,
+            "band_id": 4267310,
+            "classification": "nyp",
+            "tags": [
+                "Experimental",
+                "drone",
+                "electronic",
+                "experimental",
+                "noise",
+                "radio",
+                "California"
+            ],
+            "item_id": 1034699557,
+            "art_id": 3363977481,
+            "is_preorder": false,
+            "datePublished": "01 Jan 1903 00:00:00 GMT",
+            "about": null,
+            "credits": "released January 1, 1903",
+            "license": "some rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a3363977481_0",
+            "trackinfo": [
+                {
+                    "title": "child's garden of NOIZE",
+                    "duration": "15:36",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 753558147,
+                    "track_num": "1",
+                    "artist": "bigcityorcheestrea",
+                    "url": "https://bigcityorchestra.bandcamp.com/track/childs-garden-of-noize",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2086977349_0",
+                    "art_id": 2086977349,
+                    "about": null,
+                    "credits": "from child's garden of NOIZE ep, track released January 1, 1903",
+                    "license": "some rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-02-28T20:01:49.785266+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-02-28T20:02:18.530367+00:00",
+            "ia_identifier": "wacz-4267310-1034699557-20260228"
+        }
+    ],
+    "_band_id": 4267310
+}
