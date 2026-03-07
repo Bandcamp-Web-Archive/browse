@@ -1,6 +1,6 @@
 /* ============================================================
- *  BANDCAMP WEB ARCHIVE — app.js
- *  ============================================================ */
+ * BANDCAMP WEB ARCHIVE — app.js
+ * ============================================================ */
 
 'use strict';
 
@@ -79,11 +79,7 @@ async function loadArchive() {
         const batch = artistFiles.slice(i, i + BATCH);
         await Promise.all(batch.map(async (entry) => {
             try {
-                const safePath = (entry.path || '').trim()
-                .split('/')
-                .map(seg => encodeURIComponent(seg))
-                .join('/');
-                const r = await fetch(safePath);
+                const r = await fetch(entry.path);
                 if (!r.ok) throw new Error(r.status);
                 const data = await r.json();
 
@@ -111,7 +107,7 @@ async function loadArchive() {
     // Pre-compute cached fields once — avoids repeated new Date(), status checks, etc.
     for (const rel of state.allReleases) {
         rel._dateVal       = rel.datePublished ? (new Date(rel.datePublished).getTime() || 0) : 0;
-        rel._status        = (rel.uploaded && rel.pd_wacz_id) ? 'archived' : rel.archived ? 'queued' : 'pending';
+        rel._status        = (rel.uploaded && (rel.pd_wacz_id || rel.ia_identifier)) ? 'archived' : rel.archived ? 'queued' : 'pending';
         rel._tagsLower     = (rel.tags || []).map(t => t.toLowerCase());
         rel._dateFormatted = formatDate(rel.datePublished);
     }
@@ -141,7 +137,7 @@ async function loadArchive() {
 
 function pipelineStatus(rel) {
     return rel._status !== undefined ? rel._status
-    : (rel.uploaded && rel.pd_wacz_id) ? 'archived' : rel.archived ? 'queued' : 'pending';
+    : (rel.uploaded && (rel.pd_wacz_id || rel.ia_identifier)) ? 'archived' : rel.archived ? 'queued' : 'pending';
 }
 
 
@@ -556,16 +552,19 @@ function releaseCardHTML(rel) {
 
     const badgeClass = BADGE_CLASS[cls] || '';
 
-    // Primary link: Pixeldrain if uploaded, else Bandcamp
+    // Primary link: Archive if uploaded, else Bandcamp
     const pdUrl      = rel.pd_wacz_id ? `https://pixeldrain.com/u/${rel.pd_wacz_id}` : null;
+    const iaUrl      = rel.ia_identifier ? `https://archive.org/details/${rel.ia_identifier}` : null;
+    const archiveUrl = pdUrl || iaUrl;
     const bcUrl      = rel.url || '#';
-    const primaryUrl = pdUrl || bcUrl;
+    const primaryUrl = archiveUrl || bcUrl;
 
     // Pipeline status
     const status = pipelineStatus(rel);
     let statusHTML;
     if (status === 'archived') {
-        statusHTML = `<a class="status-badge status-archived" href="${escAttr(pdUrl)}" target="_blank" rel="noopener" title="View on Pixeldrain">ARCHIVED</a>`;
+        const platformName = rel.pd_wacz_id ? 'Pixeldrain' : 'Internet Archive';
+        statusHTML = `<a class="status-badge status-archived" href="${escAttr(archiveUrl)}" target="_blank" rel="noopener" title="View on ${platformName}">ARCHIVED</a>`;
     } else if (status === 'queued') {
         statusHTML = `<span class="status-badge status-queued" title="Crawled — awaiting upload to Pixeldrain">QUEUED</span>`;
     } else {
