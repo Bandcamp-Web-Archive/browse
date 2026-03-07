@@ -1,0 +1,49 @@
+{
+    "Celer&Hakobune": [
+        {
+            "url": "https://celerhakobune.bandcamp.com/album/vain-shapes-and-intricate-parapets",
+            "title": "Vain Shapes and Intricate Parapets",
+            "artist": "Celer&Hakobune",
+            "label": "PURRE GOOHN",
+            "band_id": 1151542991,
+            "classification": "paid",
+            "tags": [
+                "Ambient",
+                "ambient",
+                "drone",
+                "Japan"
+            ],
+            "item_id": 1394808230,
+            "art_id": 536393523,
+            "is_preorder": false,
+            "datePublished": "18 Jun 2015 00:00:00 GMT",
+            "about": null,
+            "credits": "released June 18, 2015",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a0536393523_0",
+            "trackinfo": [
+                {
+                    "title": "Merges of Hysterical Exhilaration",
+                    "duration": "19:23",
+                    "lyrics": null,
+                    "label": "PURRE GOOHN",
+                    "track_id": 843962344,
+                    "track_num": "1",
+                    "artist": "Celer&Hakobune",
+                    "url": "https://celerhakobune.bandcamp.com/track/merges-of-hysterical-exhilaration",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0536393523_0",
+                    "art_id": 536393523,
+                    "about": null,
+                    "credits": "from Vain Shapes and Intricate Parapets, released June 18, 2015",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-03-01T18:22:20.022748+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-01T18:23:11.590258+00:00",
+            "ia_identifier": "wacz-1151542991-1394808230-20260301"
+        }
+    ],
+    "_band_id": 1151542991
+}
