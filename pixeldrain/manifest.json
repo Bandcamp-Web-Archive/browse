@@ -6,7 +6,7 @@ layout: null
   "artists": [
     {% assign is_first = true %}
     {% for f in site.static_files %}
-      {% if f.path contains '/internetarchive/artists/' and f.extname == '.json' %}
+      {% if f.path contains '/pixeldrain/artists/' and f.extname == '.json' %}
         {% unless is_first %},{% endunless %}
         {
           "path": "{{ f.path | relative_url }}",
