@@ -111,7 +111,7 @@ async function loadArchive() {
     // Pre-compute cached fields once — avoids repeated new Date(), status checks, etc.
     for (const rel of state.allReleases) {
         rel._dateVal       = rel.datePublished ? (new Date(rel.datePublished).getTime() || 0) : 0;
-        rel._status        = (rel.uploaded && rel.ia_identifier) ? 'archived' : rel.archived ? 'queued' : 'pending';
+        rel._status        = (rel.uploaded && rel.pd_wacz_id) ? 'archived' : rel.archived ? 'queued' : 'pending';
         rel._tagsLower     = (rel.tags || []).map(t => t.toLowerCase());
         rel._dateFormatted = formatDate(rel.datePublished);
     }
@@ -141,7 +141,7 @@ async function loadArchive() {
 
 function pipelineStatus(rel) {
     return rel._status !== undefined ? rel._status
-        : (rel.uploaded && rel.ia_identifier) ? 'archived' : rel.archived ? 'queued' : 'pending';
+    : (rel.uploaded && rel.pd_wacz_id) ? 'archived' : rel.archived ? 'queued' : 'pending';
 }
 
 
@@ -152,10 +152,10 @@ function pipelineStatus(rel) {
 function hasActiveFilter() {
     const q = document.getElementById('search').value.trim();
     return q.length > 0
-        || state.activeTags.size > 0
-        || state.activeClasses.size > 0
-        || state.activeStatuses.size > 0
-        || state.activeArtists.size > 0;
+    || state.activeTags.size > 0
+    || state.activeClasses.size > 0
+    || state.activeStatuses.size > 0
+    || state.activeArtists.size > 0;
 }
 
 function applyFilters() {
@@ -394,9 +394,9 @@ function renderPlaceholder() {
     lmWrap.style.display = 'none';
     if (_sectionObserver) { _sectionObserver.disconnect(); _sectionObserver = null; }
     content.innerHTML = `<div class="load-all-placeholder">
-        <p>${state.allReleases.length.toLocaleString()} releases across ${Object.keys(state.artistMap).length} artists.</p>
-        <p>Use the search or filters above to find releases, or
-        <button class="load-all-inline-btn" onclick="setLoadAll(true)">load everything</button>.</p>
+    <p>${state.allReleases.length.toLocaleString()} releases across ${Object.keys(state.artistMap).length} artists.</p>
+    <p>Use the search or filters above to find releases, or
+    <button class="load-all-inline-btn" onclick="setLoadAll(true)">load everything</button>.</p>
     </div>`;
 }
 
@@ -556,18 +556,18 @@ function releaseCardHTML(rel) {
 
     const badgeClass = BADGE_CLASS[cls] || '';
 
-    // Primary link: IA if uploaded, else Bandcamp
-    const iaUrl      = rel.ia_identifier ? `https://archive.org/details/${rel.ia_identifier}` : null;
+    // Primary link: Pixeldrain if uploaded, else Bandcamp
+    const pdUrl      = rel.pd_wacz_id ? `https://pixeldrain.com/u/${rel.pd_wacz_id}` : null;
     const bcUrl      = rel.url || '#';
-    const primaryUrl = iaUrl || bcUrl;
+    const primaryUrl = pdUrl || bcUrl;
 
     // Pipeline status
     const status = pipelineStatus(rel);
     let statusHTML;
     if (status === 'archived') {
-        statusHTML = `<a class="status-badge status-archived" href="${escAttr(iaUrl)}" target="_blank" rel="noopener" title="View archived copy on archive.org">ARCHIVED</a>`;
+        statusHTML = `<a class="status-badge status-archived" href="${escAttr(pdUrl)}" target="_blank" rel="noopener" title="View on Pixeldrain">ARCHIVED</a>`;
     } else if (status === 'queued') {
-        statusHTML = `<span class="status-badge status-queued" title="Crawled — awaiting upload to archive.org">QUEUED</span>`;
+        statusHTML = `<span class="status-badge status-queued" title="Crawled — awaiting upload to Pixeldrain">QUEUED</span>`;
     } else {
         statusHTML = `<span class="status-badge status-pending" title="Not yet crawled">PENDING</span>`;
     }
@@ -600,9 +600,9 @@ function releaseCardHTML(rel) {
     if (history.length) {
         const entries = history.slice().reverse().map(h => {
             const d     = h.changed_at ? formatDate(h.changed_at) : '?';
-            const iaId  = h.ia_identifier_at_change;
-            const iaLink = iaId
-            ? `<a class="history-ia-link" href="https://archive.org/details/${escAttr(iaId)}" target="_blank" rel="noopener">${esc(iaId)}</a>`
+            const pdId  = h.pd_wacz_id_at_change;
+            const pdLink = pdId
+            ? `<a class="history-ia-link" href="https://pixeldrain.com/u/${escAttr(pdId)}" target="_blank" rel="noopener">${esc(pdId)}</a>`
             : `<span class="history-no-ia">no archive at change</span>`;
             const changedFields = Object.entries(h.fields || {});
             const fieldsHTML = changedFields.length
@@ -611,12 +611,12 @@ function releaseCardHTML(rel) {
                     return `<div class="history-trackinfo"><span class="history-field-key">trackinfo:</span><div class="track-list track-list--history">${renderTrackList(v)}</div></div>`;
                 }
                 const display = (Array.isArray(v) || (v !== null && typeof v === 'object'))
-                    ? JSON.stringify(v)
-                    : String(v);
+                ? JSON.stringify(v)
+                : String(v);
                 return `<span class="history-field-key">${esc(k)}:</span> <span class="history-field-val">${esc(display)}</span>`;
             }).join(' · ')}</div>`
             : '';
-            return `<div class="history-entry"><span class="history-date">${d}</span>${iaLink}${fieldsHTML}</div>`;
+            return `<div class="history-entry"><span class="history-date">${d}</span>${pdLink}${fieldsHTML}</div>`;
         }).join('');
         historyHTML = `<details class="release-history"><summary class="history-toggle">↺ ${history.length} version${history.length !== 1 ? 's' : ''}</summary><div class="history-list">${entries}</div></details>`;
     }
@@ -892,7 +892,7 @@ function artistId(name) { return sectionId(name); }
 
 function dateVal(rel) {
     return rel._dateVal !== undefined ? rel._dateVal
-        : rel.datePublished ? (new Date(rel.datePublished).getTime() || 0) : 0;
+    : rel.datePublished ? (new Date(rel.datePublished).getTime() || 0) : 0;
 }
 
 function formatDate(str) {
