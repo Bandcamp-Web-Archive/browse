@@ -34,7 +34,7 @@
                     "url": "https://alicewhenshecries.bandcamp.com/track/river-s-remorse",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a2135765336_0",
                     "art_id": 2135765336,
-                    "about": "River’s Remorse",
+                    "about": null,
                     "credits": "from Baptized in Backwater, released March 31, 2025",
                     "license": "all rights reserved"
                 },
@@ -55,10 +55,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-07T21:06:29.342727+00:00",
+            "archived_at": "2026-03-12T02:49:30.999940+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-07T21:06:36.872626+00:00",
-            "pd_wacz_id": "16GoFm1e"
+            "uploaded_at": "2026-03-12T02:49:42.069892+00:00",
+            "pd_wacz_id": "637CYrdb"
         }
     ],
     "_band_id": 2784256131

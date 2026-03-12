@@ -553,7 +553,7 @@ function releaseCardHTML(rel) {
     const badgeClass = BADGE_CLASS[cls] || '';
 
     // Primary link: Archive if uploaded, else Bandcamp
-    const pdUrl      = rel.pd_wacz_id ? `https://pixeldrain.com/u/${rel.pd_wacz_id}` : null;
+    const pdUrl      = rel.pd_wacz_id ? `https://pixeldrain.com/d/${rel.pd_wacz_id}` : null;
     const iaUrl      = rel.ia_identifier ? `https://archive.org/details/${rel.ia_identifier}` : null;
     const archiveUrl = pdUrl || iaUrl;
     const bcUrl      = rel.url || '#';
@@ -601,7 +601,7 @@ function releaseCardHTML(rel) {
             const d     = h.changed_at ? formatDate(h.changed_at) : '?';
             const pdId  = h.pd_wacz_id_at_change;
             const pdLink = pdId
-            ? `<a class="history-ia-link" href="https://pixeldrain.com/u/${escAttr(pdId)}" target="_blank" rel="noopener">${esc(pdId)}</a>`
+            ? `<a class="history-ia-link" href="https://pixeldrain.com/d/${escAttr(pdId)}" target="_blank" rel="noopener">${esc(pdId)}</a>`
             : `<span class="history-no-ia">no archive at change</span>`;
             const changedFields = Object.entries(h.fields || {});
             const fieldsHTML = changedFields.length
@@ -917,3 +917,4 @@ function debounce(fn, ms) {
     let t;
     return (...args) => { clearTimeout(t); t = setTimeout(() => fn(...args), ms); };
 }
+
