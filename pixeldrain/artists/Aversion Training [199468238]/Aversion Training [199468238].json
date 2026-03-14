@@ -54,7 +54,12 @@
                     "credits": "from Balcony Stage Take II, released May 21, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-13T04:10:05.604796+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-13T04:11:47.457917+00:00",
+            "pd_wacz_id": "qMPdnmPz"
         },
         {
             "url": "https://aversiontraining.bandcamp.com/album/find-jodi",
@@ -110,7 +115,12 @@
                     "credits": "from Find Jodi, released May 21, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-13T04:10:49.692493+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-13T04:11:56.033727+00:00",
+            "pd_wacz_id": "1TbyLs2s"
         },
         {
             "url": "https://aversiontraining.bandcamp.com/album/the-anti-stalin-paradigm",
@@ -211,7 +221,12 @@
                     "credits": "from The Anti-Stalin Paradigm, released May 21, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-13T04:11:31.404258+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-13T04:12:15.863773+00:00",
+            "pd_wacz_id": "7QHnNKc6"
         }
     ],
     "_band_id": 199468238
