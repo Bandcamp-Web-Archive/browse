@@ -105,7 +105,12 @@
                     "credits": "from Blacksands OST, released September 1, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T09:19:15.405958+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T09:20:33.621152+00:00",
+            "pd_wacz_id": "Rm7dCrWc"
         },
         {
             "url": "https://aidan-baker.bandcamp.com/album/demo-tape-2-summer-2015",
@@ -238,7 +243,12 @@
                     "credits": "from Demo Tape 2 - Summer 2015, released September 19, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T09:20:08.752683+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T09:20:44.518141+00:00",
+            "pd_wacz_id": "txSfGesB"
         },
         {
             "url": "https://aidan-baker.bandcamp.com/track/brockville-single",
@@ -280,7 +290,12 @@
                     "credits": "released September 19, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T09:20:24.905494+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T09:20:50.820620+00:00",
+            "pd_wacz_id": "LzzKSymf"
         }
     ],
     "_band_id": 955692271

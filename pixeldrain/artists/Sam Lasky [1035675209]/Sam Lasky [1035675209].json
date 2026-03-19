@@ -147,7 +147,12 @@
                     "credits": "from Circuitry, released May 28, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T13:07:00.500022+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T13:59:14.830307+00:00",
+            "pd_wacz_id": "QumKW2b7"
         },
         {
             "url": "https://lastkeymusic.bandcamp.com/album/color-the-sky",
@@ -293,7 +298,12 @@
                     "credits": "from Color The Sky, released July 9, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T13:08:00.605093+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T13:59:32.427208+00:00",
+            "pd_wacz_id": "FJrLqh3z"
         },
         {
             "url": "https://lastkeymusic.bandcamp.com/album/demo-disc",
@@ -427,7 +437,12 @@
                     "credits": "from Demo Disc, released March 28, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T13:08:56.605393+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T13:59:49.766939+00:00",
+            "pd_wacz_id": "BxX4BnBd"
         },
         {
             "url": "https://lastkeymusic.bandcamp.com/album/promenade",
@@ -515,7 +530,12 @@
                     "credits": "from Promenade, released September 4, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T13:09:32.359854+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T14:00:06.451498+00:00",
+            "pd_wacz_id": "EpXDHAA3"
         },
         {
             "url": "https://lastkeymusic.bandcamp.com/album/shards-of-dusk",
@@ -588,7 +608,12 @@
                     "credits": "from Shards of Dusk, released July 2, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T13:10:03.708756+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T14:00:14.288592+00:00",
+            "pd_wacz_id": "jhAfYAt9"
         },
         {
             "url": "https://lastkeymusic.bandcamp.com/album/sonic-sounds-volume-1",
@@ -839,7 +864,12 @@
                     "credits": "from Sonic Sounds (Volume 1), released February 2, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T13:11:44.586443+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T14:00:33.255110+00:00",
+            "pd_wacz_id": "m8NhpAsB"
         },
         {
             "url": "https://lastkeymusic.bandcamp.com/album/spellbound",
@@ -988,7 +1018,12 @@
                     "credits": "from Spellbound, released February 28, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T13:12:44.751015+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T14:00:45.940880+00:00",
+            "pd_wacz_id": "eyXWjbUB"
         },
         {
             "url": "https://lastkeymusic.bandcamp.com/album/stereo-eight",
@@ -1133,7 +1168,12 @@
                     "credits": "from Stereo Eight, released August 11, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T13:52:00.080952+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T14:01:12.143715+00:00",
+            "pd_wacz_id": "9Kp8kmEP"
         },
         {
             "url": "https://lastkeymusic.bandcamp.com/album/treasure-trove",
@@ -1372,7 +1412,12 @@
                     "credits": "from Treasure Trove, released February 26, 2026",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T13:53:35.993326+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T14:01:31.377236+00:00",
+            "pd_wacz_id": "zM2W3gv7"
         },
         {
             "url": "https://lastkeymusic.bandcamp.com/album/vacance-and-vacancies",
@@ -1506,7 +1551,12 @@
                     "credits": "from Vacance and Vacancies, released February 8, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T13:54:29.784934+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T14:01:47.445125+00:00",
+            "pd_wacz_id": "aebyhBDh"
         },
         {
             "url": "https://lastkeymusic.bandcamp.com/album/vault-1",
@@ -1668,7 +1718,12 @@
                     "credits": "from Vault 1, released January 2, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T13:55:34.873038+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T14:01:55.489504+00:00",
+            "pd_wacz_id": "6tXeCUXn"
         },
         {
             "url": "https://lastkeymusic.bandcamp.com/album/vault-2",
@@ -1816,7 +1871,12 @@
                     "credits": "from Vault 2, released January 11, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T13:56:38.636782+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T14:02:25.364780+00:00",
+            "pd_wacz_id": "GHfrjeMo"
         },
         {
             "url": "https://lastkeymusic.bandcamp.com/album/vault-3",
@@ -1964,7 +2024,12 @@
                     "credits": "from Vault 3, released January 19, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T13:57:35.393651+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T14:02:52.484301+00:00",
+            "pd_wacz_id": "Thz8LcA1"
         },
         {
             "url": "https://lastkeymusic.bandcamp.com/album/vault-4",
@@ -2113,7 +2178,12 @@
                     "credits": "from Vault 4, released January 26, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T13:58:34.733298+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T14:03:15.902147+00:00",
+            "pd_wacz_id": "vpFgg9nT"
         },
         {
             "url": "https://lastkeymusic.bandcamp.com/track/nightime-nights-fansong",
@@ -2157,7 +2227,12 @@
                     "credits": "released September 20, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T13:58:53.554502+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T14:01:01.442525+00:00",
+            "pd_wacz_id": "K4o8SSmY"
         }
     ],
     "_band_id": 1035675209

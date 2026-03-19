@@ -86,7 +86,12 @@
                     "credits": "from 杂曲, track released June 11, 2023",
                     "license": "Attribution Non-commercial Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T12:01:46.603647+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T12:02:54.254652+00:00",
+            "pd_wacz_id": "ZGKKnR1N"
         },
         {
             "url": "https://phuxu.bandcamp.com/album/selected-noise-works-22-23",
@@ -175,7 +180,12 @@
                     "credits": "from Selected Noise Works 22-23, track released September 16, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T12:02:25.187472+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T12:02:44.085870+00:00",
+            "pd_wacz_id": "gDBs9DRY"
         }
     ],
     "_band_id": 3562258562

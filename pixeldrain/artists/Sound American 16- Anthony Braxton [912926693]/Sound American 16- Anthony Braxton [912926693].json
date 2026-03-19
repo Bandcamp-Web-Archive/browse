@@ -218,7 +218,12 @@
                     "credits": "from Sound American 16: The Complete Language Music Solos, released September 12, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T14:00:25.908735+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T14:00:38.135999+00:00",
+            "pd_wacz_id": "rRV4Dbo6"
         }
     ],
     "_band_id": 912926693

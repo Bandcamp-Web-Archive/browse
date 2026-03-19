@@ -54,7 +54,12 @@
                     "credits": "from Duo Palindrome 2002, Vol. 1, released January 1, 2004\nComposition: Andrew Cyrille",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T20:44:20.195329+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T20:46:16.942998+00:00",
+            "pd_wacz_id": "DmQwhVTy"
         },
         {
             "url": "https://anthonybraxton.bandcamp.com/album/duo-palindrome-2002-vol-2",
@@ -106,7 +111,12 @@
                     "credits": "from Duo Palindrome 2002, Vol. 2, released January 1, 2004\nComposition: Andrew Cyrille, Anthony Braxton",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T20:45:09.867003+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T20:46:26.930232+00:00",
+            "pd_wacz_id": "6UXBYWBi"
         },
         {
             "url": "https://anthonybraxton.bandcamp.com/album/solo-willisau",
@@ -163,7 +173,12 @@
                     "credits": "from Solo Willisau, released January 1, 2007\nComposition: Anthony Braxton",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T20:46:06.933376+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T20:46:38.871920+00:00",
+            "pd_wacz_id": "BhaKJw3b"
         }
     ],
     "_band_id": 1838222942

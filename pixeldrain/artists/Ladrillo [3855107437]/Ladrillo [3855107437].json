@@ -167,7 +167,12 @@
                     "credits": "from Amarcord, released August 16, 2025",
                     "license": "Attribution Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T02:30:49.146010+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T02:36:45.996660+00:00",
+            "pd_wacz_id": "oJwWibcX"
         },
         {
             "url": "https://ladrillooficial.bandcamp.com/album/lotus-simulacrum",
@@ -441,7 +446,12 @@
                     "credits": "from Lotus Simulacrum, released January 10, 2026",
                     "license": "Attribution Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T02:32:34.390842+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T02:36:57.512525+00:00",
+            "pd_wacz_id": "MJAoivEa"
         },
         {
             "url": "https://ladrillooficial.bandcamp.com/album/ozark-spectre",
@@ -640,7 +650,12 @@
                     "credits": "from Ozark Spectre, released May 29, 2025",
                     "license": "Attribution Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T02:33:51.825764+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T02:37:15.788996+00:00",
+            "pd_wacz_id": "neu5DHdo"
         },
         {
             "url": "https://ladrillooficial.bandcamp.com/album/permanent-opium",
@@ -718,7 +733,12 @@
                     "credits": "from Permanent Opium, released October 13, 2025",
                     "license": "Attribution Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T02:34:25.703424+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T02:37:33.926583+00:00",
+            "pd_wacz_id": "vKvaf8PK"
         },
         {
             "url": "https://ladrillooficial.bandcamp.com/album/talking-without-speaking",
@@ -856,7 +876,12 @@
                     "credits": "from Talking Without Speaking, released April 14, 2025",
                     "license": "Attribution Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T02:35:21.536941+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T02:37:44.803141+00:00",
+            "pd_wacz_id": "DyEqcwxV"
         },
         {
             "url": "https://ladrillooficial.bandcamp.com/album/technological-atomization",
@@ -977,7 +1002,12 @@
                     "credits": "from Technological Atomization, released February 9, 2025",
                     "license": "Attribution Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T02:36:12.646373+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T02:38:01.678384+00:00",
+            "pd_wacz_id": "2cpe25UH"
         },
         {
             "url": "https://ladrillooficial.bandcamp.com/track/new-madrid-2",
@@ -1021,7 +1051,12 @@
                     "credits": "released December 7, 2024\nMixed, arranged and produced by Ladrillo",
                     "license": "Attribution Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T02:36:30.289691+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T02:37:05.776100+00:00",
+            "pd_wacz_id": "r9XGPpKK"
         }
     ],
     "_band_id": 3855107437

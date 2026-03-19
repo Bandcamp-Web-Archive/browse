@@ -219,7 +219,12 @@
                     "credits": "from Echoes, released February 18, 2022\nthemuseumofviralmemory.bandcamp.com",
                     "license": "Attribution Non-commercial No Derivatives"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T06:13:16.195616+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T06:14:15.221002+00:00",
+            "pd_wacz_id": "ziBMWTnC"
         },
         {
             "url": "https://agonysoultrader.bandcamp.com/album/self-titled-ep",
@@ -320,7 +325,12 @@
                     "credits": "from Self-titled EP, released June 25, 2011",
                     "license": "Attribution Non-commercial No Derivatives"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T06:13:56.845720+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T06:14:25.928696+00:00",
+            "pd_wacz_id": "HweEE4WN"
         }
     ],
     "_band_id": 1156010290

@@ -110,7 +110,12 @@
                     "credits": "from First Take, released January 28, 2005",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T21:32:26.474801+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T21:40:01.274648+00:00",
+            "pd_wacz_id": "HuN3A5ML"
         },
         {
             "url": "https://archieshepp.bandcamp.com/album/gemini",
@@ -372,7 +377,12 @@
                     "credits": "from Gemini, released May 24, 2007",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T21:34:21.065278+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T21:40:16.118943+00:00",
+            "pd_wacz_id": "ELM5pHdf"
         },
         {
             "url": "https://archieshepp.bandcamp.com/album/i-hear-the-sound",
@@ -559,7 +569,12 @@
                     "credits": "from I Hear the Sound, released November 14, 2013",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T21:35:39.638020+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T21:40:27.343805+00:00",
+            "pd_wacz_id": "bAwofe3q"
         },
         {
             "url": "https://archieshepp.bandcamp.com/album/kindred-spirits",
@@ -671,7 +686,12 @@
                     "credits": "from Kindred Spirits, released December 20, 2005",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T21:36:32.463208+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T21:40:36.336435+00:00",
+            "pd_wacz_id": "m6M5z9Gq"
         },
         {
             "url": "https://archieshepp.bandcamp.com/album/let-my-people-go",
@@ -821,7 +841,12 @@
                     "credits": "from Let My People Go, track released December 18, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T21:37:35.026176+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T21:40:47.237335+00:00",
+            "pd_wacz_id": "B8cDD1gS"
         },
         {
             "url": "https://archieshepp.bandcamp.com/album/phat-jam-in-milano",
@@ -948,7 +973,12 @@
                     "credits": "from Phat Jam in Milano, released May 9, 2009",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T21:38:31.520840+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T21:40:54.470707+00:00",
+            "pd_wacz_id": "JLDxRVEF"
         },
         {
             "url": "https://archieshepp.bandcamp.com/album/wo-man",
@@ -1090,7 +1120,12 @@
                     "credits": "from Wo!man, released May 11, 2011",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T21:39:34.545735+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T21:41:04.278673+00:00",
+            "pd_wacz_id": "cNQxhFoq"
         }
     ],
     "_band_id": 2512016725

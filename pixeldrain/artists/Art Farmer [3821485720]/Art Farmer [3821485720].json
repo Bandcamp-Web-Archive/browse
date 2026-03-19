@@ -96,7 +96,12 @@
                     "credits": "from 2 Trumpets, released January 1, 1956\n1992, © 1992 Fantasy, Inc.",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T23:25:43.459553+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T23:30:58.635972+00:00",
+            "pd_wacz_id": "Dx8bRgqs"
         },
         {
             "url": "https://artfarmer.bandcamp.com/album/art-farmer-quintet-featuring-gigi-gryce",
@@ -209,7 +214,12 @@
                     "credits": "from Art Farmer Quintet featuring Gigi Gryce, released January 1, 1956\n1992, © 1992 Fantasy, Inc.",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T23:26:41.155691+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T23:31:07.625541+00:00",
+            "pd_wacz_id": "Q2SkKJyJ"
         },
         {
             "url": "https://artfarmer.bandcamp.com/album/farmers-market-rudy-van-gelder-remaster",
@@ -322,7 +332,12 @@
                     "credits": "from Farmer's Market (Rudy Van Gelder Remaster), released January 1, 2007\n2007, © 2007 Concord Music Group, Inc.",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T23:27:35.372906+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T23:31:16.770934+00:00",
+            "pd_wacz_id": "qjJaXiMP"
         },
         {
             "url": "https://artfarmer.bandcamp.com/album/gentle-eyes",
@@ -496,7 +511,12 @@
                     "credits": "from Gentle Eyes, released January 1, 1973",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T23:28:48.077038+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T23:31:31.420887+00:00",
+            "pd_wacz_id": "xriErz1Y"
         },
         {
             "url": "https://artfarmer.bandcamp.com/album/homecoming",
@@ -598,7 +618,12 @@
                     "credits": "from Homecoming, released July 31, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T23:29:30.898908+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T23:31:39.092015+00:00",
+            "pd_wacz_id": "LirQBpnP"
         },
         {
             "url": "https://artfarmer.bandcamp.com/album/the-many-faces-of-art-farmer",
@@ -727,7 +752,12 @@
                     "credits": "from The Many Faces Of Art Farmer, released April 8, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T23:30:37.033860+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T23:31:52.221965+00:00",
+            "pd_wacz_id": "zYYmp82a"
         }
     ],
     "_band_id": 3821485720

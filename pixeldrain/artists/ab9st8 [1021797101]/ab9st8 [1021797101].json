@@ -69,7 +69,12 @@
                     "credits": "from Glory to the Victor, released May 29, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T03:45:26.486108+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T03:49:22.930522+00:00",
+            "pd_wacz_id": "h3Hvhr7f"
         },
         {
             "url": "https://ab9st8.bandcamp.com/album/hilcomparatee",
@@ -217,7 +222,12 @@
                     "credits": "from Hilcomparatee, released April 14, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T03:46:23.243405+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T03:49:34.220664+00:00",
+            "pd_wacz_id": "KcQbH7Re"
         },
         {
             "url": "https://ab9st8.bandcamp.com/album/santer-clause-flying-over-b-onia-tonight",
@@ -291,7 +301,12 @@
                     "credits": "from Santer Clause Flying over Błonia Tonight, released December 6, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T03:46:55.625500+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T03:49:55.006002+00:00",
+            "pd_wacz_id": "YZnD7CkP"
         },
         {
             "url": "https://ab9st8.bandcamp.com/album/warden-against",
@@ -482,7 +497,12 @@
                     "credits": "from Warden-against, released April 20, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T03:48:13.861322+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T03:51:01.447170+00:00",
+            "pd_wacz_id": "ChNmf5cv"
         },
         {
             "url": "https://ab9st8.bandcamp.com/track/gill-tap",
@@ -523,7 +543,12 @@
                     "credits": "released October 18, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T03:48:31.784914+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T03:49:17.088248+00:00",
+            "pd_wacz_id": "n1go4Exf"
         },
         {
             "url": "https://ab9st8.bandcamp.com/track/overwhelmings",
@@ -566,7 +591,12 @@
                     "credits": "released January 15, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T03:48:49.748581+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T03:49:43.264845+00:00",
+            "pd_wacz_id": "rZ5nLGAF"
         },
         {
             "url": "https://ab9st8.bandcamp.com/track/speaking-in-snow",
@@ -605,7 +635,12 @@
                     "credits": "released October 16, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T03:49:06.633405+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T03:50:02.719696+00:00",
+            "pd_wacz_id": "rUgsMc36"
         }
     ],
     "_band_id": 1021797101

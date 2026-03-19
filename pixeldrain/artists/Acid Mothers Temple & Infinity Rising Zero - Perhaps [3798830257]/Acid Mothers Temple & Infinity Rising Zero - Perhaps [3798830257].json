@@ -54,7 +54,12 @@
                     "credits": "from Acid Mothers Temple & Infinity Rising Zero / Perhaps, released September 24, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T04:07:06.869619+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T04:07:27.911579+00:00",
+            "pd_wacz_id": "XG9EqfZ1"
         }
     ],
     "_band_id": 3798830257

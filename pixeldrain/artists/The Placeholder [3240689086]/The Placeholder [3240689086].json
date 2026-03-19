@@ -280,7 +280,12 @@
                     "credits": "from A pleasant turmoil throughout every planet, released March 23, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T02:04:16.239930+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T02:20:23.658433+00:00",
+            "pd_wacz_id": "1CbFWM6N"
         },
         {
             "url": "https://theplaceholder1.bandcamp.com/album/among-the-stars",
@@ -516,7 +521,12 @@
                     "credits": "from Among the Stars, released February 5, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T02:05:49.477789+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T02:20:36.708752+00:00",
+            "pd_wacz_id": "y3zYjwop"
         },
         {
             "url": "https://theplaceholder1.bandcamp.com/album/collected-pieces-from-the-abandoned-monastery",
@@ -917,7 +927,12 @@
                     "credits": "from Collected Pieces from the Abandoned Monastery, released January 29, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T02:08:11.696334+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T02:20:46.065694+00:00",
+            "pd_wacz_id": "sF617tWi"
         },
         {
             "url": "https://theplaceholder1.bandcamp.com/album/inability-to-recall-words",
@@ -1078,7 +1093,12 @@
                     "credits": "from Inability to recall words, released December 9, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T02:09:14.762393+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T02:21:03.581898+00:00",
+            "pd_wacz_id": "EtSNg1pW"
         },
         {
             "url": "https://theplaceholder1.bandcamp.com/album/patched-glitches-broken-stitches",
@@ -1165,7 +1185,12 @@
                     "credits": "from Patched glitches / broken stitches, released August 6, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T02:09:53.632257+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T02:21:19.291813+00:00",
+            "pd_wacz_id": "1s6ybDtS"
         },
         {
             "url": "https://theplaceholder1.bandcamp.com/album/patched-glitches-broken-stitches-free-dlc",
@@ -1221,7 +1246,12 @@
                     "credits": "from Patched glitches / broken stitches (Free DLC!), released August 11, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T02:10:22.217806+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T02:21:10.722891+00:00",
+            "pd_wacz_id": "2EgThRKG"
         },
         {
             "url": "https://theplaceholder1.bandcamp.com/album/the-nothing-it-all-turns-into",
@@ -1879,7 +1909,12 @@
                     "credits": "from The nothing it all turns into, track released December 30, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T02:14:38.393208+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T02:21:41.252365+00:00",
+            "pd_wacz_id": "EV5BWTBb"
         },
         {
             "url": "https://theplaceholder1.bandcamp.com/album/the-placeholder-may-ceholder",
@@ -2371,7 +2406,12 @@
                     "credits": "from The Placeholder May-ceholder, track released May 31, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T02:17:45.271296+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T02:21:29.027353+00:00",
+            "pd_wacz_id": "HES3a7Uw"
         },
         {
             "url": "https://theplaceholder1.bandcamp.com/album/the-race-of-a-thousand-ants",
@@ -2637,7 +2677,12 @@
                     "credits": "from The race of a thousand ants, released February 17, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T02:19:26.541398+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T02:21:49.353929+00:00",
+            "pd_wacz_id": "LwCjxE8h"
         },
         {
             "url": "https://theplaceholder1.bandcamp.com/album/various-sets",
@@ -2738,7 +2783,12 @@
                     "credits": "from Various sets, track released November 22, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T02:20:15.334957+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T02:21:59.180371+00:00",
+            "pd_wacz_id": "UhQegK5h"
         }
     ],
     "_band_id": 3240689086

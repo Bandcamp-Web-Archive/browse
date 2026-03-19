@@ -70,7 +70,12 @@
                     "credits": "from 0 BPM, released May 28, 2025",
                     "license": "Attribution Non-commercial Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T11:54:50.723501+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T12:00:25.608895+00:00",
+            "pd_wacz_id": "uLMEYQje"
         },
         {
             "url": "https://nosf.bandcamp.com/album/celsius",
@@ -116,7 +121,12 @@
                     "credits": "from Celsius, released February 14, 2023",
                     "license": "Attribution Non-commercial Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T11:55:16.424048+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T12:01:01.682063+00:00",
+            "pd_wacz_id": "RCwwj23b"
         },
         {
             "url": "https://nosf.bandcamp.com/album/electrode",
@@ -181,7 +191,12 @@
                     "credits": "from Electrode, released March 14, 2025",
                     "license": "Attribution Non-commercial Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T11:55:44.045476+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T12:01:09.779614+00:00",
+            "pd_wacz_id": "dkvHjbcn"
         },
         {
             "url": "https://nosf.bandcamp.com/album/epique",
@@ -241,7 +256,12 @@
                     "credits": "from Epique, track released November 15, 2016",
                     "license": "Attribution Non-commercial Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T11:56:12.269533+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T12:01:16.315642+00:00",
+            "pd_wacz_id": "odWTiNfv"
         },
         {
             "url": "https://nosf.bandcamp.com/album/erratique",
@@ -314,7 +334,12 @@
                     "credits": "from Erratique, track released January 1, 2009",
                     "license": "Attribution Non-commercial Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T11:56:47.070999+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T12:01:27.990955+00:00",
+            "pd_wacz_id": "Yb5ukQhV"
         },
         {
             "url": "https://nosf.bandcamp.com/album/erratum",
@@ -407,7 +432,12 @@
                     "credits": "from Erratum, track released April 1, 2008",
                     "license": "Attribution Non-commercial Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T11:57:27.535455+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T12:01:37.183222+00:00",
+            "pd_wacz_id": "TEmvEYqx"
         },
         {
             "url": "https://nosf.bandcamp.com/album/night-freight",
@@ -473,7 +503,12 @@
                     "credits": "from Night Freight, released September 19, 2025",
                     "license": "Attribution Non-commercial Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T11:57:56.214970+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T12:02:01.895654+00:00",
+            "pd_wacz_id": "B8jTvuuK"
         },
         {
             "url": "https://nosf.bandcamp.com/album/nosfalgique",
@@ -593,7 +628,12 @@
                     "credits": "from Nosfalgique, released December 31, 2020",
                     "license": "Attribution Non-commercial Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T11:58:46.392432+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T12:02:19.351745+00:00",
+            "pd_wacz_id": "b7VAhbY9"
         },
         {
             "url": "https://nosf.bandcamp.com/album/not-a-forest",
@@ -670,7 +710,12 @@
                     "credits": "from Not A Forest, released November 21, 2025",
                     "license": "Attribution Non-commercial Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T11:59:21.569764+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T12:02:55.303176+00:00",
+            "pd_wacz_id": "K992QiSZ"
         },
         {
             "url": "https://nosf.bandcamp.com/track/a-very-quiet-acceleration",
@@ -720,7 +765,12 @@
                     "credits": "released January 17, 2025",
                     "license": "Attribution Non-commercial Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T11:59:39.572713+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T12:00:36.877119+00:00",
+            "pd_wacz_id": "WHWa7Gqj"
         },
         {
             "url": "https://nosf.bandcamp.com/track/guernica",
@@ -762,7 +812,12 @@
                     "credits": "released February 10, 2026",
                     "license": "Attribution Non-commercial Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T11:59:58.136938+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T12:01:45.044646+00:00",
+            "pd_wacz_id": "j3RjRij3"
         },
         {
             "url": "https://nosf.bandcamp.com/track/solstice",
@@ -808,7 +863,12 @@
                     "credits": "released October 31, 2025",
                     "license": "Attribution Non-commercial Share Alike"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T12:00:16.037839+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T12:03:03.121009+00:00",
+            "pd_wacz_id": "hkHdHFNN"
         }
     ],
     "_band_id": 2205339708

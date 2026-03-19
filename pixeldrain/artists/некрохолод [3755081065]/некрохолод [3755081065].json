@@ -208,7 +208,12 @@
                     "credits": "from Elegy of faded glass eyes, released March 15, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T06:45:00.852401+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T06:50:22.175731+00:00",
+            "pd_wacz_id": "EFNxoNHB"
         },
         {
             "url": "https://necroholod.bandcamp.com/album/f-ll",
@@ -316,7 +321,12 @@
                     "credits": "from ∅f Λll, released December 1, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T06:45:44.627921+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T06:51:08.434395+00:00",
+            "pd_wacz_id": "xfvc2ict"
         },
         {
             "url": "https://necroholod.bandcamp.com/album/fragments-of-edward-munchs-the-sick-girl",
@@ -494,7 +504,12 @@
                     "credits": "from Fragments of Edward Munch's \"The sick girl\", released June 7, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T06:46:53.777448+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T06:50:36.292758+00:00",
+            "pd_wacz_id": "D5gJmizZ"
         },
         {
             "url": "https://necroholod.bandcamp.com/album/khladna-reka",
@@ -687,7 +702,12 @@
                     "credits": "from Khladna reka, released November 22, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T06:48:10.458273+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T06:50:44.952563+00:00",
+            "pd_wacz_id": "1uyCYukX"
         },
         {
             "url": "https://necroholod.bandcamp.com/album/on-the-other-side-of-the-north",
@@ -779,7 +799,12 @@
                     "credits": "from On the other side of the north, released January 11, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T06:48:51.112404+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T06:50:50.801994+00:00",
+            "pd_wacz_id": "ZEK5su3C"
         },
         {
             "url": "https://necroholod.bandcamp.com/album/und-lebenden-und-toten-und-wiedergeborenen",
@@ -929,7 +954,12 @@
                     "credits": "from Und Lebenden, und Toten, und Wiedergeborenen, released May 29, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T06:49:52.418305+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T06:50:58.022644+00:00",
+            "pd_wacz_id": "ZLk8VdKm"
         }
     ],
     "_band_id": 3755081065

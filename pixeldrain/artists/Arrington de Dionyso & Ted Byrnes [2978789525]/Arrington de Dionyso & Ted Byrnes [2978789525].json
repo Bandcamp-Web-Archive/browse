@@ -80,7 +80,12 @@
                     "credits": "from The Ballot or the Bullet, released September 22, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T21:42:41.696147+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T21:42:57.647783+00:00",
+            "pd_wacz_id": "L1X1e3pN"
         }
     ],
     "_band_id": 2978789525

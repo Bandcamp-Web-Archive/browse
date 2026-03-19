@@ -324,7 +324,12 @@
                     "credits": "from 宇宙の謎, released June 9, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T06:52:05.465420+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T07:01:07.881840+00:00",
+            "pd_wacz_id": "9GoZfg8x"
         },
         {
             "url": "https://themysteryoftheuniverse.bandcamp.com/album/--10",
@@ -365,7 +370,12 @@
                     "credits": "from ネプチューン, released February 16, 2026",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T06:52:27.359548+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T07:00:05.130196+00:00",
+            "pd_wacz_id": "vAjHzjhD"
         },
         {
             "url": "https://themysteryoftheuniverse.bandcamp.com/album/--2",
@@ -451,7 +461,12 @@
                     "credits": "from 星間航行, released January 2, 2026",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T06:53:06.886788+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T07:01:26.397325+00:00",
+            "pd_wacz_id": "HEXzxuXk"
         },
         {
             "url": "https://themysteryoftheuniverse.bandcamp.com/album/--3",
@@ -612,7 +627,12 @@
                     "credits": "from コスモス, released February 22, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T06:54:42.523555+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T06:59:48.171411+00:00",
+            "pd_wacz_id": "dXeoiP9a"
         },
         {
             "url": "https://themysteryoftheuniverse.bandcamp.com/album/--4",
@@ -698,7 +718,12 @@
                     "credits": "from スペース, released December 25, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T06:55:18.902921+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T06:59:58.871656+00:00",
+            "pd_wacz_id": "NguHYZ1b"
         },
         {
             "url": "https://themysteryoftheuniverse.bandcamp.com/album/--5",
@@ -739,7 +764,12 @@
                     "credits": "from ブラックホール, released December 22, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T06:55:43.712477+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T07:00:14.996377+00:00",
+            "pd_wacz_id": "hgfDZJRd"
         },
         {
             "url": "https://themysteryoftheuniverse.bandcamp.com/album/--7",
@@ -780,7 +810,12 @@
                     "credits": "from 宇宙背景放射, released January 7, 2026",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T06:56:04.250779+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T07:01:16.504030+00:00",
+            "pd_wacz_id": "QNQ5MgKW"
         },
         {
             "url": "https://themysteryoftheuniverse.bandcamp.com/album/--8",
@@ -821,7 +856,12 @@
                     "credits": "from 発見, released January 16, 2026",
                     "license": "Attribution No Derivatives"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T06:56:30.284969+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T07:01:35.365118+00:00",
+            "pd_wacz_id": "khWNHe6w"
         },
         {
             "url": "https://themysteryoftheuniverse.bandcamp.com/album/kentaro-hirugami",
@@ -846,7 +886,12 @@
             "credits": "released July 19, 2021",
             "license": null,
             "coverUrl_0": "https://f4.bcbits.com/img/a0109572817_0",
-            "trackinfo": []
+            "trackinfo": [],
+            "archived": true,
+            "archived_at": "2026-03-18T06:56:47.284640+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T07:00:22.819424+00:00",
+            "pd_wacz_id": "vewzPBxi"
         },
         {
             "url": "https://themysteryoftheuniverse.bandcamp.com/album/the-silent-void",
@@ -992,7 +1037,12 @@
                     "credits": "from 宇宙の謎 / The Silent Void, released January 7, 2026",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T06:57:44.915366+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T07:00:39.012900+00:00",
+            "pd_wacz_id": "qEjrRjzs"
         },
         {
             "url": "https://themysteryoftheuniverse.bandcamp.com/album/trev-r",
@@ -1048,7 +1098,12 @@
                     "credits": "from TREVØR / 宇宙の謎, released January 10, 2026",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-18T06:58:11.948599+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-18T06:58:29.552934+00:00",
+            "pd_wacz_id": "L3A7MjD6"
         }
     ],
     "_band_id": 3975933159

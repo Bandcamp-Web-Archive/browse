@@ -177,7 +177,12 @@
                     "credits": "from Aurora, released June 11, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T12:03:36.681307+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T12:04:59.277683+00:00",
+            "pd_wacz_id": "rmZ7pTVM"
         },
         {
             "url": "https://ray-marcher.bandcamp.com/album/spectrum",
@@ -356,7 +361,12 @@
                     "credits": "from Spectrum, released May 24, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T12:04:48.187881+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T12:05:08.779460+00:00",
+            "pd_wacz_id": "dieo2NGk"
         }
     ],
     "_band_id": 1674103306

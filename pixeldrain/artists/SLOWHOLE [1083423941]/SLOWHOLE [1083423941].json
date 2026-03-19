@@ -136,7 +136,12 @@
                     "credits": "from SLOWHOLE, released October 4, 2024\nWRITTEN AND PERFORMED BY SLOWHOLE",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T12:26:52.321305+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T12:27:37.072063+00:00",
+            "pd_wacz_id": "KuSK6bSv"
         },
         {
             "url": "https://slowhole.bandcamp.com/track/im-going-to-kill-you-until-you-die",
@@ -184,7 +189,12 @@
                     "credits": "released September 13, 2024\nDavid Hunter (Guitar)\nShannon Arsenault (Vox / Lyrics)\nDante Galliano (Guitar)\nJoey Laborde (Bass)\nMateo Molina (Drums)\nRecorded by Rob Lovell at High Tower Recordings in July 2023\nMixed by James Witten\nMastered by James Plotkin",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T12:27:08.908690+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T12:27:24.023512+00:00",
+            "pd_wacz_id": "3U3ymh7h"
         }
     ],
     "_band_id": 1083423941

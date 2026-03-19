@@ -130,7 +130,12 @@
                     "credits": "from Dream Dream Beam Beam, track released January 29, 2018\nMusic by Julius Gabriel [tenor saxophone / fx]\nRecorded by Rui Leal & Julius Gabriel in December 2016\nMixed and mastered by José Arantes at B-House studio\nAll tracks composed by Julius Gabriel (GEMA)\nL&L#085",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T02:06:34.311925+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T02:11:51.298474+00:00",
+            "pd_wacz_id": "U4enpbWG"
         },
         {
             "url": "https://juliusgabriel.bandcamp.com/album/eyes-in-orbits",
@@ -180,7 +185,12 @@
                     "credits": "from Eyes In Orbits, released November 6, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T02:07:00.244501+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T02:12:08.018705+00:00",
+            "pd_wacz_id": "ps6MtnRr"
         },
         {
             "url": "https://juliusgabriel.bandcamp.com/album/geminga",
@@ -360,7 +370,12 @@
                     "credits": "from Geminga, released April 30, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T02:08:11.994810+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T02:12:18.106155+00:00",
+            "pd_wacz_id": "2D9pXCjf"
         },
         {
             "url": "https://juliusgabriel.bandcamp.com/album/tales-from-the-subterranean",
@@ -567,7 +582,12 @@
                     "credits": "from Tales from the Subterranean, released March 28, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T02:09:35.148742+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T02:12:28.774489+00:00",
+            "pd_wacz_id": "WE26Vb3Z"
         },
         {
             "url": "https://juliusgabriel.bandcamp.com/album/therhallen",
@@ -647,7 +667,12 @@
                     "credits": "from ÆTHERHALLEN, released June 13, 2019",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-17T02:10:09.626106+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-17T02:12:44.365307+00:00",
+            "pd_wacz_id": "WU4k78AY"
         }
     ],
     "_band_id": 1882858492

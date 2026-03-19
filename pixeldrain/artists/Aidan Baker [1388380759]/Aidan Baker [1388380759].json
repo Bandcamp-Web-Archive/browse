@@ -247,7 +247,12 @@
                     "credits": "from aberration, released December 8, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T06:59:49.503142+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T07:00:53.785661+00:00",
+            "pd_wacz_id": "zoxttJLK"
         },
         {
             "url": "https://aidanbakerswc.bandcamp.com/album/you-are-all-at-once",
@@ -316,7 +321,12 @@
                     "credits": "from You Are All At Once, released March 25, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T07:00:26.003908+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T07:00:42.094929+00:00",
+            "pd_wacz_id": "BkPk1AfB"
         }
     ],
     "_band_id": 1388380759

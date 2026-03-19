@@ -35,7 +35,12 @@
                     "credits": "from Quartet (Bristol) 1985, released June 4, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T20:46:40.788773+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T20:50:04.229102+00:00",
+            "pd_wacz_id": "kdA1tQc4"
         },
         {
             "url": "https://anthonybraxton-bam.bandcamp.com/album/quartet-england-1985",
@@ -117,7 +122,12 @@
                     "credits": "from Quartet (England) 1985, released June 4, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T20:48:06.495963+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T20:50:30.746022+00:00",
+            "pd_wacz_id": "co44TMnp"
         },
         {
             "url": "https://anthonybraxton-bam.bandcamp.com/album/quartet-leicester-1985",
@@ -154,7 +164,12 @@
                     "credits": "from Quartet (Leicester) 1985, released June 4, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T20:48:35.881863+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T20:50:42.541988+00:00",
+            "pd_wacz_id": "5Pd1ZJHW"
         },
         {
             "url": "https://anthonybraxton-bam.bandcamp.com/album/quartet-sheffield-1985",
@@ -191,7 +206,12 @@
                     "credits": "from Quartet (Sheffield) 1985, released June 4, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T20:49:02.497588+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T20:50:49.221027+00:00",
+            "pd_wacz_id": "3dQrgVU6"
         },
         {
             "url": "https://anthonybraxton-bam.bandcamp.com/album/quartet-southampton-1985",
@@ -228,7 +248,12 @@
                     "credits": "from Quartet (Southampton) 1985, released June 4, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T20:49:30.596844+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T20:50:59.162809+00:00",
+            "pd_wacz_id": "MtciWT8f"
         }
     ],
     "_band_id": 2104362460

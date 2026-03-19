@@ -278,7 +278,12 @@
                     "credits": "from Japanese New Music Festival Japan Tour 2022, released May 6, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T04:09:40.851868+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T04:17:37.565210+00:00",
+            "pd_wacz_id": "NVdGL27E"
         },
         {
             "url": "https://acidmotherstempleswr.bandcamp.com/album/sax-the-city",
@@ -424,7 +429,12 @@
                     "credits": "from Sax & The City, released February 15, 2012",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T04:10:40.895566+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T04:17:50.070972+00:00",
+            "pd_wacz_id": "undhexUK"
         },
         {
             "url": "https://acidmotherstempleswr.bandcamp.com/album/stones-women-records",
@@ -722,7 +732,12 @@
                     "credits": "from Stones, Women & Records, released May 25, 2007",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T04:15:57.672813+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T04:18:00.915184+00:00",
+            "pd_wacz_id": "GhdPzCo4"
         },
         {
             "url": "https://acidmotherstempleswr.bandcamp.com/album/yes-no-perhaps",
@@ -912,7 +927,12 @@
                     "credits": "from Yes, No & Perhaps, released October 1, 2014",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T04:17:19.639078+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T04:18:12.531971+00:00",
+            "pd_wacz_id": "Kzmegw87"
         }
     ],
     "_band_id": 3992744410

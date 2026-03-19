@@ -83,7 +83,12 @@
                     "credits": "from Acid Mothers Temple & The Melting Paraiso UFO, released April 12, 2019",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T06:11:38.466863+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T06:11:56.791760+00:00",
+            "pd_wacz_id": "vdQto3fn"
         }
     ],
     "_band_id": 4146764861

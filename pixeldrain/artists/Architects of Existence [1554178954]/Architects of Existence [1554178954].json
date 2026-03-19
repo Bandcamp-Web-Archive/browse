@@ -81,7 +81,12 @@
                     "credits": "from Architects of Existence, released May 16, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T21:40:19.645505+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T21:42:17.666582+00:00",
+            "pd_wacz_id": "cqZ4SyZp"
         },
         {
             "url": "https://architectsofexistence.bandcamp.com/album/fragments-of-existence",
@@ -209,7 +214,12 @@
                     "credits": "from Fragments of Existence, released February 26, 2026",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T21:41:16.365937+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T21:42:39.668730+00:00",
+            "pd_wacz_id": "s43ZSvg5"
         },
         {
             "url": "https://architectsofexistence.bandcamp.com/album/three-deep-breaths",
@@ -292,7 +302,12 @@
                     "credits": "from Three Deep Breaths, released September 13, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-15T21:41:58.120053+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-15T21:42:57.974466+00:00",
+            "pd_wacz_id": "af2sQw2i"
         }
     ],
     "_band_id": 1554178954

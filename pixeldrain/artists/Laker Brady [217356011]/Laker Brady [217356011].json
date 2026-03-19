@@ -1,0 +1,103 @@
+{
+    "Laker Brady": [
+        {
+            "url": "https://lakerbrady.bandcamp.com/album/this-town",
+            "title": "This Town",
+            "artist": "Laker Brady",
+            "label": null,
+            "band_id": 217356011,
+            "classification": "paid",
+            "tags": [
+                "Alternative",
+                "Rock",
+                "United States"
+            ],
+            "item_id": 1941939111,
+            "art_id": 315470574,
+            "is_preorder": false,
+            "datePublished": "03 Oct 2025 04:07:14 GMT",
+            "about": null,
+            "credits": "released October 3, 2025",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a0315470574_0",
+            "trackinfo": [
+                {
+                    "title": "Fall",
+                    "duration": "01:13",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 4187552751,
+                    "track_num": "1",
+                    "artist": "Laker Brady",
+                    "url": "https://lakerbrady.bandcamp.com/track/fall",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0315470574_0",
+                    "art_id": 315470574,
+                    "about": null,
+                    "credits": "from This Town, released October 3, 2025",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Stone Island",
+                    "duration": "01:15",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 658373995,
+                    "track_num": "2",
+                    "artist": "Laker Brady",
+                    "url": "https://lakerbrady.bandcamp.com/track/stone-island",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0315470574_0",
+                    "art_id": 315470574,
+                    "about": null,
+                    "credits": "from This Town, released October 3, 2025",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Something Else",
+                    "duration": "02:06",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1358444656,
+                    "track_num": "3",
+                    "artist": "Laker Brady",
+                    "url": "https://lakerbrady.bandcamp.com/track/something-else",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0315470574_0",
+                    "art_id": 315470574,
+                    "about": null,
+                    "credits": "from This Town, released October 3, 2025",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Hollow",
+                    "duration": "01:53",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1615639425,
+                    "track_num": "4",
+                    "artist": "Laker Brady",
+                    "url": "https://lakerbrady.bandcamp.com/track/hollow",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0315470574_0",
+                    "art_id": 315470574,
+                    "about": null,
+                    "credits": "from This Town, released October 3, 2025",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Misery (Like the Movie): \"Horses Ride By\"",
+                    "duration": "03:34",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 68803458,
+                    "track_num": "5",
+                    "artist": "Laker Brady",
+                    "url": "https://lakerbrady.bandcamp.com/track/misery-like-the-movie-horses-ride-by",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0315470574_0",
+                    "art_id": 315470574,
+                    "about": null,
+                    "credits": "from This Town, released October 3, 2025",
+                    "license": "all rights reserved"
+                }
+            ]
+        }
+    ],
+    "_band_id": 217356011
+}
