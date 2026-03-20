@@ -98,7 +98,9 @@
                     "credits": "from Live at Nelsonica & Clothworkers Hall, released February 13, 2026",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-19T17:52:27.694903+00:00"
         }
     ],
     "_band_id": 479165168

@@ -51,7 +51,12 @@
                     "credits": "from All Dressed Up In Your Art School Clothes, released October 30, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-19T14:26:14.201489+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-19T14:27:34.667612+00:00",
+            "pd_wacz_id": "dZUUkey7"
         },
         {
             "url": "https://billnelsoncharitysingles.bandcamp.com/track/a-million-whistling-milkmen",
@@ -89,7 +94,12 @@
                     "credits": "released October 30, 2023\nWritten, performed and produced by Bill Nelson.",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-19T14:26:29.980748+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-19T14:27:19.254768+00:00",
+            "pd_wacz_id": "Y9NyBkKz"
         },
         {
             "url": "https://billnelsoncharitysingles.bandcamp.com/track/rocket-to-the-moon",
@@ -127,7 +137,12 @@
                     "credits": "released October 30, 2023\nWritten, performed and produced by Bill Nelson.",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-19T14:26:47.177338+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-19T14:27:47.331430+00:00",
+            "pd_wacz_id": "NtQ6E5pr"
         },
         {
             "url": "https://billnelsoncharitysingles.bandcamp.com/track/six-strings-for-sara",
@@ -165,7 +180,12 @@
                     "credits": "released October 30, 2023\nWritten, performed and produced by Bill Nelson.",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-19T14:27:04.836937+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-19T14:27:55.368476+00:00",
+            "pd_wacz_id": "YDxq1HXr"
         }
     ],
     "_band_id": 216721187
