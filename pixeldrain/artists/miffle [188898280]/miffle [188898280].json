@@ -195,7 +195,12 @@
                     "credits": "from goodbye, world!, released September 5, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:52:35.450431+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:53:15.854567+00:00",
+            "pd_wacz_id": "bcm15vot"
         },
         {
             "url": "https://miffle.bandcamp.com/album/static-snow",
@@ -251,7 +256,12 @@
                     "credits": "from static snow, released August 22, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:53:03.881090+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:53:40.853536+00:00",
+            "pd_wacz_id": "H2Gv7yCY"
         }
     ],
     "_band_id": 188898280

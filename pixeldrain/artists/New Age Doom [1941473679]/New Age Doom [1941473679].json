@@ -175,7 +175,12 @@
                     "credits": "from Angels Against Angels, released March 6, 2026",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:24:21.748373+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:33:16.254295+00:00",
+            "pd_wacz_id": "SXJ1S3bZ"
         },
         {
             "url": "https://newagedoom.bandcamp.com/album/himalayan-dream-techno",
@@ -292,7 +297,12 @@
                     "credits": "from Himalayan Dream Techno, released December 11, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:25:14.662695+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:33:24.762397+00:00",
+            "pd_wacz_id": "5dYknC9f"
         },
         {
             "url": "https://newagedoom.bandcamp.com/album/lee-scratch-perrys-guide-to-the-universe",
@@ -415,7 +425,12 @@
                     "credits": "from Lee \"Scratch\" Perry's Guide to the Universe, released November 5, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:26:09.304217+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:33:35.752314+00:00",
+            "pd_wacz_id": "CoztTDNs"
         },
         {
             "url": "https://newagedoom.bandcamp.com/album/new-age-doom",
@@ -642,7 +657,12 @@
                     "credits": "from NEW AGE DOOM, released September 20, 2019",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:27:42.706203+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:33:51.643392+00:00",
+            "pd_wacz_id": "XE56qWpD"
         },
         {
             "url": "https://newagedoom.bandcamp.com/album/remix-the-universe",
@@ -849,7 +869,12 @@
                     "credits": "from Remix The Universe, released January 27, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:29:12.817357+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:34:16.401322+00:00",
+            "pd_wacz_id": "iJmbUdUf"
         },
         {
             "url": "https://newagedoom.bandcamp.com/album/remix-the-universe-extended-edition",
@@ -1131,7 +1156,12 @@
                     "credits": "from Remix the Universe (Extended Edition), released March 24, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:31:09.440061+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:34:31.285091+00:00",
+            "pd_wacz_id": "gSSw8TJg"
         },
         {
             "url": "https://newagedoom.bandcamp.com/album/there-is-no-end",
@@ -1248,7 +1278,12 @@
                     "credits": "from There Is No End, released October 27, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:32:00.520094+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:34:41.020632+00:00",
+            "pd_wacz_id": "i7xhxDGW"
         },
         {
             "url": "https://newagedoom.bandcamp.com/track/12march",
@@ -1290,7 +1325,12 @@
                     "credits": "released March 21, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:32:19.073806+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:33:06.020924+00:00",
+            "pd_wacz_id": "tpkL64dc"
         },
         {
             "url": "https://newagedoom.bandcamp.com/track/new-orders-album-megamix-new-age-doom-remix",
@@ -1335,7 +1375,12 @@
                     "credits": "released May 12, 2023\nTuva Hellum Marschhäuser, Eric J. Breitenbach, Greg Valou",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:32:37.910307+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:33:58.175699+00:00",
+            "pd_wacz_id": "aJBKySu1"
         },
         {
             "url": "https://newagedoom.bandcamp.com/track/portal-of-freedom",
@@ -1377,7 +1422,12 @@
                     "credits": "released May 19, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:32:55.881343+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:34:03.845627+00:00",
+            "pd_wacz_id": "3DdCetVG"
         }
     ],
     "_band_id": 1941473679

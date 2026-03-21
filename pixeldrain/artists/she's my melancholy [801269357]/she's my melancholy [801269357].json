@@ -195,7 +195,12 @@
                     "credits": "from An Ode To What Everything Once Was, And What It Will Forever Be., released August 11, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:54:25.882591+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:56:14.632187+00:00",
+            "pd_wacz_id": "vfjSitDU"
         },
         {
             "url": "https://shesmymelancholy.bandcamp.com/album/our-time-you-and-the-stars",
@@ -314,7 +319,12 @@
                     "credits": "from our time, you, and the stars, released March 7, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:55:18.680081+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:56:38.341868+00:00",
+            "pd_wacz_id": "Ch6nGBcu"
         },
         {
             "url": "https://shesmymelancholy.bandcamp.com/track/our-time",
@@ -357,7 +367,12 @@
                     "credits": "released February 9, 2021\nLeo - Voice",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:55:36.663902+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:56:20.150836+00:00",
+            "pd_wacz_id": "JKY7KVqU"
         },
         {
             "url": "https://shesmymelancholy.bandcamp.com/track/outer-peace",
@@ -398,7 +413,12 @@
                     "credits": "released February 5, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:55:55.961453+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:56:47.705495+00:00",
+            "pd_wacz_id": "Fb4uCA9A"
         }
     ],
     "_band_id": 801269357

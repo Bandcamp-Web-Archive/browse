@@ -119,7 +119,12 @@
                     "credits": "from A Dream Within A Dream, track released April 7, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:33:49.678588+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:35:13.370493+00:00",
+            "pd_wacz_id": "3XjsiRRV"
         },
         {
             "url": "https://bsemusic.bandcamp.com/album/reprise",
@@ -235,7 +240,12 @@
                     "credits": "from Reprise, released December 22, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:34:39.029637+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:35:19.995533+00:00",
+            "pd_wacz_id": "3Ym1S9VQ"
         },
         {
             "url": "https://bsemusic.bandcamp.com/track/untitled-black-on-grey",
@@ -280,7 +290,12 @@
                     "credits": "released July 1, 2023\nComposed & Produced by böse",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:34:56.928944+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:35:35.352792+00:00",
+            "pd_wacz_id": "zA4bJ7va"
         }
     ],
     "_band_id": 3818154647

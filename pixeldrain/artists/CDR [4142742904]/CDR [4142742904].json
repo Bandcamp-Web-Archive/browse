@@ -50,7 +50,12 @@
                     "credits": "from Back At Plastic (Mr Beatnick Remix) / Into The Dark, released June 18, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T19:36:54.442920+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T19:43:39.432094+00:00",
+            "pd_wacz_id": "PJAtd4xQ"
         },
         {
             "url": "https://createdefinerelease.bandcamp.com/album/create-define-release-vol-1",
@@ -332,7 +337,12 @@
                     "credits": "from Create Define Release Vol. 1, released July 7, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T19:38:53.831124+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T19:43:55.839242+00:00",
+            "pd_wacz_id": "4aM9BeZ2"
         },
         {
             "url": "https://createdefinerelease.bandcamp.com/album/creatrix-gunga-pea-fonk",
@@ -386,7 +396,12 @@
                     "credits": "from Creatrix / Gunga Pea Fonk, released May 21, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T19:39:23.336208+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T19:44:01.751362+00:00",
+            "pd_wacz_id": "tXyHqPfL"
         },
         {
             "url": "https://createdefinerelease.bandcamp.com/album/pathways-year-1-remixes",
@@ -497,7 +512,12 @@
                     "credits": "from Pathways Year 1 Remixes, released January 28, 2026",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T19:40:15.620498+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T19:44:25.541629+00:00",
+            "pd_wacz_id": "imNoQuA2"
         },
         {
             "url": "https://createdefinerelease.bandcamp.com/album/sdwadlo-intsila",
@@ -551,7 +571,12 @@
                     "credits": "from Sdwadlo / iNtsila, released October 22, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T19:40:45.005617+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T19:44:33.131122+00:00",
+            "pd_wacz_id": "6U8CJ6o3"
         },
         {
             "url": "https://iitsniix.bandcamp.com/album/mmotd?label=4142742904",
@@ -659,7 +684,12 @@
                     "credits": "from mmotd, released October 1, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T19:41:33.865875+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T19:44:40.757892+00:00",
+            "pd_wacz_id": "3FsMzFuZ"
         },
         {
             "url": "https://mjsb.bandcamp.com/album/5-rhythms-2?label=4142742904",
@@ -762,7 +792,12 @@
                     "credits": "from 5 Rhythms, released June 6, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T19:42:20.811907+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T19:43:32.607443+00:00",
+            "pd_wacz_id": "WyajKNHt"
         },
         {
             "url": "https://zar-musics.bandcamp.com/album/light-stain-at-dawn-ep?label=4142742904",
@@ -881,7 +916,12 @@
                     "credits": "from Light Stain At Dawn - EP, released March 28, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T19:43:16.710192+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T19:44:14.261213+00:00",
+            "pd_wacz_id": "CeRDVUDp"
         }
     ],
     "_band_id": 4142742904

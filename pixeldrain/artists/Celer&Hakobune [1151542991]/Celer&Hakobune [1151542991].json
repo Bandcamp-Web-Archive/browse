@@ -37,7 +37,12 @@
                     "credits": "from Vain Shapes and Intricate Parapets, released June 18, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T19:47:07.396712+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T19:47:26.994725+00:00",
+            "pd_wacz_id": "aYn2rHwF"
         }
     ],
     "_band_id": 1151542991

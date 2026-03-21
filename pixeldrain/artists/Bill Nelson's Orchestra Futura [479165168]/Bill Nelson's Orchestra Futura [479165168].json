@@ -100,7 +100,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-19T17:52:27.694903+00:00"
+            "archived_at": "2026-03-19T17:52:27.694903+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T13:57:37.433564+00:00",
+            "pd_wacz_id": "xSpxKjdY"
         }
     ],
     "_band_id": 479165168

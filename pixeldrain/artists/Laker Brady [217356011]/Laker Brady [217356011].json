@@ -96,7 +96,12 @@
                     "credits": "from This Town, released October 3, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:23:05.658929+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:23:13.664524+00:00",
+            "pd_wacz_id": "nKgPCwDe"
         }
     ],
     "_band_id": 217356011

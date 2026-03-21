@@ -314,7 +314,12 @@
                     "credits": "from ZOFF. Soli-Sampler für feministische und antifaschistische Strukturen in Ostdeutschland, released January 8, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T23:37:01.751042+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T23:37:34.962314+00:00",
+            "pd_wacz_id": "1EaCos9r"
         }
     ],
     "_band_id": 188047592

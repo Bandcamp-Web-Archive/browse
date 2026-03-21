@@ -3865,7 +3865,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-19T14:28:48.348938+00:00"
+            "archived_at": "2026-03-19T14:28:48.348938+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T13:57:43.225225+00:00",
+            "pd_wacz_id": "qcugyTM2"
         },
         {
             "url": "https://billnelson.bandcamp.com/album/drive-this-comet-across-the-sky",
@@ -3982,7 +3985,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-19T14:30:09.898116+00:00"
+            "archived_at": "2026-03-19T14:30:09.898116+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T13:57:46.471396+00:00",
+            "pd_wacz_id": "dAQnbB6k"
         },
         {
             "url": "https://billnelson.bandcamp.com/album/dynamos-and-tremolos",
@@ -16175,7 +16181,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-19T17:51:40.145369+00:00"
+            "archived_at": "2026-03-19T17:51:40.145369+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T13:57:35.951898+00:00",
+            "pd_wacz_id": "4WcYjUr9"
         }
     ],
     "_band_id": 3061657484

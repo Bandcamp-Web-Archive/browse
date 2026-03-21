@@ -147,7 +147,12 @@
                     "credits": "from Les Magnifiques, released October 18, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T22:26:37.311920+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T22:30:57.644786+00:00",
+            "pd_wacz_id": "FLwy7RKV"
         },
         {
             "url": "https://francoismerlin.bandcamp.com/album/magnifique-iv-callas-la-mer-remixes",
@@ -253,7 +258,12 @@
                     "credits": "from Magnifique IV (Callas à la mer) [REMIXES], released November 28, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T22:27:23.903330+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T22:31:24.377073+00:00",
+            "pd_wacz_id": "Mmweu8EL"
         },
         {
             "url": "https://francoismerlin.bandcamp.com/album/nous-autres-i-music-composed-for-show",
@@ -434,7 +444,12 @@
                     "credits": "from Nous Autres I [Music Composed for Show], released October 15, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T22:28:38.895115+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T22:31:33.081951+00:00",
+            "pd_wacz_id": "cNvNEaSU"
         },
         {
             "url": "https://francoismerlin.bandcamp.com/album/nous-autres-ii-music-composed-for-show",
@@ -616,7 +631,12 @@
                     "credits": "from Nous Autres II [Music Composed for Show], released November 12, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T22:29:53.458799+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T22:31:44.840925+00:00",
+            "pd_wacz_id": "yyGKZDfA"
         },
         {
             "url": "https://francoismerlin.bandcamp.com/album/persona",
@@ -737,7 +757,12 @@
                     "credits": "from Persona, released November 20, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T22:30:46.782341+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T22:31:56.948589+00:00",
+            "pd_wacz_id": "fSQquLha"
         }
     ],
     "_band_id": 1726858599

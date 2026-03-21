@@ -105,7 +105,12 @@
                     "credits": "from CHROMANIN 1, released June 19, 2020\nWritten and produced by Deniz Altun. Mastered by Philipp Pettauer.",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T18:16:40.840930+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T18:17:37.288443+00:00",
+            "pd_wacz_id": "UgFqYxcj"
         },
         {
             "url": "https://boeserecords.bandcamp.com/album/chromanin-2",
@@ -207,7 +212,12 @@
                     "credits": "from CHROMANIN 2, released June 14, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T18:17:24.023728+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T18:17:49.741550+00:00",
+            "pd_wacz_id": "KLMVXqKE"
         }
     ],
     "_band_id": 1993419681

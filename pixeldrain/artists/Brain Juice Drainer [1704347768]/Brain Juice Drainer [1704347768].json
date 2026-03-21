@@ -157,7 +157,12 @@
                     "credits": "from S/T, released August 1, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T14:37:59.238543+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T14:38:16.599230+00:00",
+            "pd_wacz_id": "JSZ8pWUD"
         }
     ],
     "_band_id": 1704347768

@@ -159,7 +159,12 @@
                     "credits": "from CDR Process #001, released January 30, 2017\nBahahs",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T19:44:33.644221+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T19:46:21.988625+00:00",
+            "pd_wacz_id": "fco6Pm2U"
         },
         {
             "url": "https://cdr-projects.bandcamp.com/album/dimension-sounds-2015",
@@ -380,7 +385,12 @@
                     "credits": "from Dimension Sounds 2015, released October 18, 2017\nTapir",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-20T19:46:08.296948+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-20T19:46:39.812113+00:00",
+            "pd_wacz_id": "Y6D8xK8L"
         }
     ],
     "_band_id": 922097367
