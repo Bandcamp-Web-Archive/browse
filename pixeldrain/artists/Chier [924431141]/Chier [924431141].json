@@ -68,7 +68,9 @@
                     "credits": "from ., released July 7, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T18:55:23.653664+00:00"
         },
         {
             "url": "https://chier.bandcamp.com/album/abraded",
@@ -123,7 +125,9 @@
                     "credits": "from Abraded, released August 30, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T18:56:03.783549+00:00"
         },
         {
             "url": "https://chier.bandcamp.com/album/adventice",
@@ -208,7 +212,9 @@
                     "credits": "from Adventice, released June 9, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T18:56:45.278705+00:00"
         },
         {
             "url": "https://chier.bandcamp.com/album/anima-spiritus-corpus",
@@ -278,7 +284,9 @@
                     "credits": "from Anima spiritus corpus, released February 20, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T18:57:21.830911+00:00"
         },
         {
             "url": "https://chier.bandcamp.com/album/bliss",
@@ -423,7 +431,12 @@
                     "credits": "from Bliss, released December 3, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T18:59:13.077584+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:47:21.369897+00:00",
+            "pd_wacz_id": "oUEBdh8Y"
         },
         {
             "url": "https://chier.bandcamp.com/album/cabaret-du-neant",
@@ -480,7 +493,12 @@
                     "credits": "from Cabaret du neant, released April 5, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T18:59:52.875074+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:50:18.602358+00:00",
+            "pd_wacz_id": "6284qQjZ"
         },
         {
             "url": "https://chier.bandcamp.com/album/caprices-de-luxe",
@@ -550,7 +568,12 @@
                     "credits": "from Caprices de luxe, released August 8, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:00:31.281102+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:50:29.886790+00:00",
+            "pd_wacz_id": "YqTBn3do"
         },
         {
             "url": "https://chier.bandcamp.com/album/cellar-masturbatorium",
@@ -620,7 +643,12 @@
                     "credits": "from Cellar masturbatorium, released March 17, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:01:08.013783+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:50:45.040398+00:00",
+            "pd_wacz_id": "f1fq5ZD2"
         },
         {
             "url": "https://chier.bandcamp.com/album/chant-de-morte",
@@ -690,7 +718,12 @@
                     "credits": "from Chant de morte, released November 13, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:01:43.469325+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:50:51.554558+00:00",
+            "pd_wacz_id": "naTwoKyq"
         },
         {
             "url": "https://chier.bandcamp.com/album/chier-asleep-in-the-lake-split",
@@ -730,7 +763,12 @@
                     "credits": "from Chier/Asleep in the lake SPLIT, released December 23, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:02:06.825344+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:50:57.871613+00:00",
+            "pd_wacz_id": "p7Y28YZB"
         },
         {
             "url": "https://chier.bandcamp.com/album/chier-clp-la-jeune-fille-et-la-mort",
@@ -785,7 +823,12 @@
                     "credits": "from CHIER/CLP-La jeune fille et la mort, released June 18, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:02:34.299828+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:47:30.088395+00:00",
+            "pd_wacz_id": "gqXmTFBq"
         },
         {
             "url": "https://chier.bandcamp.com/album/chier-grvd-split",
@@ -840,7 +883,12 @@
                     "credits": "from Chier/GRVD split, released February 25, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:03:02.246908+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:51:04.557990+00:00",
+            "pd_wacz_id": "BPdsQhi7"
         },
         {
             "url": "https://chier.bandcamp.com/album/chier-p-rn-split",
@@ -895,7 +943,12 @@
                     "credits": "from Chier/PÖÖRNÖÖ split, released December 8, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:03:34.282776+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:51:11.122224+00:00",
+            "pd_wacz_id": "qFKaeGTN"
         },
         {
             "url": "https://chier.bandcamp.com/album/chiereich",
@@ -965,7 +1018,12 @@
                     "credits": "from chiereich, released February 16, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:04:11.283893+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:56:29.158486+00:00",
+            "pd_wacz_id": "zRM9S9W8"
         },
         {
             "url": "https://chier.bandcamp.com/album/cold-moon-over-the-swamp",
@@ -1022,7 +1080,12 @@
                     "credits": "from cold moon over the swamp, released January 6, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:04:40.886424+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:56:37.865517+00:00",
+            "pd_wacz_id": "yjPhgJPX"
         },
         {
             "url": "https://chier.bandcamp.com/album/connexion",
@@ -1095,7 +1158,12 @@
                     "credits": "from Connexion, released June 12, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:05:13.896544+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:51:41.660146+00:00",
+            "pd_wacz_id": "Zf6e1QiV"
         },
         {
             "url": "https://chier.bandcamp.com/album/dad-deep-in-our-hearts-you-ll-always-stay-loved-and-missed-every-day",
@@ -1165,7 +1233,12 @@
                     "credits": "from Dad deep in our hearts you ll always stay.Loved and missed every day..., released October 5, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:05:53.122037+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:51:50.036414+00:00",
+            "pd_wacz_id": "Yypbo2nk"
         },
         {
             "url": "https://chier.bandcamp.com/album/deconstructed",
@@ -1280,7 +1353,12 @@
                     "credits": "from Deconstructed, released February 6, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:06:47.046888+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:51:58.500613+00:00",
+            "pd_wacz_id": "Ar12UCft"
         },
         {
             "url": "https://chier.bandcamp.com/album/dollface",
@@ -1323,7 +1401,12 @@
                     "credits": "from dollface, released February 20, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:07:10.871209+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:56:44.948533+00:00",
+            "pd_wacz_id": "GpGXP6wJ"
         },
         {
             "url": "https://chier.bandcamp.com/album/education-de-la-baronne",
@@ -1393,7 +1476,12 @@
                     "credits": "from Education de la Baronne, released August 13, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:07:53.179486+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:52:08.088039+00:00",
+            "pd_wacz_id": "N4DC6ezD"
         },
         {
             "url": "https://chier.bandcamp.com/album/exorcismo",
@@ -1466,7 +1554,12 @@
                     "credits": "from exorcismo, released January 12, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:08:31.308783+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:57:12.980443+00:00",
+            "pd_wacz_id": "kWc4fhYr"
         },
         {
             "url": "https://chier.bandcamp.com/album/exuvie",
@@ -1536,7 +1629,12 @@
                     "credits": "from exuvie, released February 26, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:09:09.364056+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:57:27.018226+00:00",
+            "pd_wacz_id": "5RUsQtWE"
         },
         {
             "url": "https://chier.bandcamp.com/album/femme-au-miroir",
@@ -1609,7 +1707,9 @@
                     "credits": "from femme au miroir, released March 8, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:09:47.333206+00:00"
         },
         {
             "url": "https://chier.bandcamp.com/album/fleur",
@@ -1665,7 +1765,12 @@
                     "credits": "from Fleur, released June 27, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:10:17.593910+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:52:14.113955+00:00",
+            "pd_wacz_id": "A2XvKorG"
         },
         {
             "url": "https://chier.bandcamp.com/album/fleurdelysage",
@@ -1735,7 +1840,12 @@
                     "credits": "from Fleurdelysage, released March 15, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:10:57.324451+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:52:23.861294+00:00",
+            "pd_wacz_id": "YWr7a9rK"
         },
         {
             "url": "https://chier.bandcamp.com/album/french-cancan",
@@ -1805,7 +1915,12 @@
                     "credits": "from French cancan, released February 25, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:11:36.785232+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:52:30.664818+00:00",
+            "pd_wacz_id": "6ibH4YQA"
         },
         {
             "url": "https://chier.bandcamp.com/album/funeral-fog",
@@ -1845,7 +1960,12 @@
                     "credits": "from Funeral fog, released August 10, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:12:01.411961+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:52:39.092657+00:00",
+            "pd_wacz_id": "4fhq5USw"
         },
         {
             "url": "https://chier.bandcamp.com/album/i-will-be-back",
@@ -1916,7 +2036,12 @@
                     "credits": "from I will be back..., released September 11, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:12:35.552813+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:52:48.419609+00:00",
+            "pd_wacz_id": "hvp33VU2"
         },
         {
             "url": "https://chier.bandcamp.com/album/kaptur",
@@ -1971,7 +2096,9 @@
                     "credits": "from kaptur, released January 23, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:13:07.835659+00:00"
         },
         {
             "url": "https://chier.bandcamp.com/album/la-belle-et-la-b-te",
@@ -2043,7 +2170,12 @@
                     "credits": "from La belle et la bête, released June 5, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:13:46.026393+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:52:56.066352+00:00",
+            "pd_wacz_id": "EbeNFZ33"
         },
         {
             "url": "https://chier.bandcamp.com/album/la-jeune-fille-et-la-mort",
@@ -2084,7 +2216,12 @@
                     "credits": "from La jeune fille et la mort, released July 6, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:14:09.356625+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:53:04.898290+00:00",
+            "pd_wacz_id": "1eGXe321"
         },
         {
             "url": "https://chier.bandcamp.com/album/la-notti-del-terrore",
@@ -2124,7 +2261,12 @@
                     "credits": "from La notti del terrore, released July 23, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:14:37.555537+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:53:11.961013+00:00",
+            "pd_wacz_id": "ziQmZGSn"
         },
         {
             "url": "https://chier.bandcamp.com/album/la-veuve-au-vagin-dent",
@@ -2210,7 +2352,12 @@
                     "credits": "from la veuve au vagin denté, released September 27, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:15:23.845662+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:08:08.998064+00:00",
+            "pd_wacz_id": "1cuPSoCK"
         },
         {
             "url": "https://chier.bandcamp.com/album/lamour-de-catherine",
@@ -2266,7 +2413,12 @@
                     "credits": "from l'amour de catherine, released June 13, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:15:54.205736+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:08:02.594640+00:00",
+            "pd_wacz_id": "aGEmT87A"
         },
         {
             "url": "https://chier.bandcamp.com/album/leather-goods",
@@ -2321,7 +2473,12 @@
                     "credits": "from Leather goods, released August 24, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:16:27.094365+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:53:20.638396+00:00",
+            "pd_wacz_id": "om9gctHy"
         },
         {
             "url": "https://chier.bandcamp.com/album/les-corps-du-christ",
@@ -2391,7 +2548,12 @@
                     "credits": "from Les corps du Christ, released October 21, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:17:06.223242+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:53:43.250169+00:00",
+            "pd_wacz_id": "gUgGDwS3"
         },
         {
             "url": "https://chier.bandcamp.com/album/loordhemol",
@@ -2432,7 +2594,12 @@
                     "credits": "from LoordhemoL, released June 11, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:17:29.285627+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:53:53.988657+00:00",
+            "pd_wacz_id": "ssS451QF"
         },
         {
             "url": "https://chier.bandcamp.com/album/lovebath",
@@ -2472,7 +2639,12 @@
                     "credits": "from LoveBath, released March 29, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:17:56.300066+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:54:04.518416+00:00",
+            "pd_wacz_id": "1AFEtDmJ"
         },
         {
             "url": "https://chier.bandcamp.com/album/maitresse-des-pendus",
@@ -2542,7 +2714,12 @@
                     "credits": "from Maitresse des pendus, released August 22, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:18:43.435527+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:54:21.139787+00:00",
+            "pd_wacz_id": "JU68Kq6s"
         },
         {
             "url": "https://chier.bandcamp.com/album/malediction",
@@ -2597,7 +2774,12 @@
                     "credits": "from Malediction, released March 12, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:19:14.812065+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:54:27.376860+00:00",
+            "pd_wacz_id": "f5UBAHt7"
         },
         {
             "url": "https://chier.bandcamp.com/album/maleficesp",
@@ -2655,7 +2837,12 @@
                     "credits": "from MaleficesP, released July 22, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:19:44.403954+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:54:36.042587+00:00",
+            "pd_wacz_id": "xpoLQnQf"
         },
         {
             "url": "https://chier.bandcamp.com/album/maximum-perversum",
@@ -2849,7 +3036,12 @@
                     "credits": "from Maximum Perversum, released November 23, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:21:30.776394+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:54:50.604936+00:00",
+            "pd_wacz_id": "Ut2j1ZKh"
         },
         {
             "url": "https://chier.bandcamp.com/album/meat",
@@ -2919,7 +3111,12 @@
                     "credits": "from meat, released December 4, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:22:06.935059+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:08:17.264075+00:00",
+            "pd_wacz_id": "yt5dzXoh"
         },
         {
             "url": "https://chier.bandcamp.com/album/nature-morte",
@@ -2960,7 +3157,12 @@
                     "credits": "from Nature Morte, released December 28, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:22:44.929329+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:55:00.992888+00:00",
+            "pd_wacz_id": "Pkozs46L"
         },
         {
             "url": "https://chier.bandcamp.com/album/nazi-porn-fuck-off",
@@ -3000,7 +3202,12 @@
                     "credits": "from Nazi porn fuck off, released May 13, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:23:17.239074+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:55:08.952962+00:00",
+            "pd_wacz_id": "ZDNozd4j"
         },
         {
             "url": "https://chier.bandcamp.com/album/necronymphomaniacs",
@@ -3056,7 +3263,12 @@
                     "credits": "from Necronymphomaniacs, released September 29, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:23:49.449630+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:55:20.063939+00:00",
+            "pd_wacz_id": "w6BTvzBp"
         },
         {
             "url": "https://chier.bandcamp.com/album/new-wave-hookers",
@@ -3126,7 +3338,12 @@
                     "credits": "from New wave hookers, released April 3, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:24:29.184863+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:55:26.687476+00:00",
+            "pd_wacz_id": "uc3sMGPf"
         },
         {
             "url": "https://chier.bandcamp.com/album/no-presents-for-christmas",
@@ -3166,7 +3383,12 @@
                     "credits": "from no presents for Christmas, released December 13, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:25:00.773326+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:08:24.332221+00:00",
+            "pd_wacz_id": "wucb78S2"
         },
         {
             "url": "https://chier.bandcamp.com/album/noir-et-sang",
@@ -3236,7 +3458,12 @@
                     "credits": "from Noir et sang, released July 5, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:25:40.678849+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:55:48.528629+00:00",
+            "pd_wacz_id": "NJQBu1fo"
         },
         {
             "url": "https://chier.bandcamp.com/album/o",
@@ -3307,7 +3534,9 @@
                     "credits": "from -//o, released September 26, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:26:17.486857+00:00"
         },
         {
             "url": "https://chier.bandcamp.com/album/p",
@@ -3363,7 +3592,9 @@
                     "credits": "from \"P\", released June 11, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:26:45.702199+00:00"
         },
         {
             "url": "https://chier.bandcamp.com/album/pissing-fun",
@@ -3418,7 +3649,12 @@
                     "credits": "from Pissing fun, released June 20, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:27:14.968127+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T19:56:01.452320+00:00",
+            "pd_wacz_id": "p9RDw6S8"
         },
         {
             "url": "https://chier.bandcamp.com/album/polar-era-i",
@@ -3492,7 +3728,12 @@
                     "credits": "from Polar era I, released October 2, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:29:40.837167+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:08:49.883233+00:00",
+            "pd_wacz_id": "cyusS4AL"
         },
         {
             "url": "https://chier.bandcamp.com/album/polar-era-ii",
@@ -3565,7 +3806,12 @@
                     "credits": "from polar era II, released October 5, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:30:17.158110+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:12:51.378102+00:00",
+            "pd_wacz_id": "me/Chier [924431141]/polar era II [3942094217].wacz"
         },
         {
             "url": "https://chier.bandcamp.com/album/polar-era-iii",
@@ -3622,7 +3868,9 @@
                     "credits": "from polar era III, released October 22, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:30:46.812148+00:00"
         },
         {
             "url": "https://chier.bandcamp.com/album/regulations",
@@ -3738,7 +3986,9 @@
                     "credits": "from regulations, released August 25, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:31:37.305603+00:00"
         },
         {
             "url": "https://chier.bandcamp.com/album/ringer",
@@ -3793,7 +4043,12 @@
                     "credits": "from Ringer, released April 7, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:32:10.517996+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:08:58.405919+00:00",
+            "pd_wacz_id": "fKRB4aPu"
         },
         {
             "url": "https://chier.bandcamp.com/album/salvatrice-part-i",
@@ -3848,7 +4103,12 @@
                     "credits": "from Salvatrice (part I), released November 22, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:32:46.450831+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:09:13.706638+00:00",
+            "pd_wacz_id": "xCn7pkcH"
         },
         {
             "url": "https://chier.bandcamp.com/album/salvatrice-part-ii",
@@ -3903,7 +4163,12 @@
                     "credits": "from Salvatrice (Part II), released November 27, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:33:21.426707+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:09:06.747548+00:00",
+            "pd_wacz_id": "vHQC6EVa"
         },
         {
             "url": "https://chier.bandcamp.com/album/sloth-chier-split",
@@ -3945,7 +4210,12 @@
                     "credits": "from Sloth/Chier split, released November 18, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:33:50.036596+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:09:29.722214+00:00",
+            "pd_wacz_id": "afKnrhfN"
         },
         {
             "url": "https://chier.bandcamp.com/album/static-phantasy-i",
@@ -4015,7 +4285,12 @@
                     "credits": "from Static phantasy I, released December 15, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:34:27.735417+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:09:36.690350+00:00",
+            "pd_wacz_id": "j7crsSsp"
         },
         {
             "url": "https://chier.bandcamp.com/album/static-phantasy-ii",
@@ -4085,7 +4360,12 @@
                     "credits": "from Static phantasy II, released December 16, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:35:05.817114+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:09:50.579162+00:00",
+            "pd_wacz_id": "yKvJn5xD"
         },
         {
             "url": "https://chier.bandcamp.com/album/statische-bestimmtheit",
@@ -4140,7 +4420,12 @@
                     "credits": "from Statische Bestimmtheit, released September 12, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:35:46.624157+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:10:07.995277+00:00",
+            "pd_wacz_id": "2YSTELBn"
         },
         {
             "url": "https://chier.bandcamp.com/album/t-tm",
@@ -4198,7 +4483,12 @@
                     "credits": "from tÖtM, released November 24, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:36:20.960846+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:28:02.022819+00:00",
+            "pd_wacz_id": "17c1tg86"
         },
         {
             "url": "https://chier.bandcamp.com/album/teenage-vi-sex-1975",
@@ -4283,7 +4573,12 @@
                     "credits": "from Teenage VI sex 1975, released February 18, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:37:03.335885+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:10:17.010924+00:00",
+            "pd_wacz_id": "pmw5eDYE"
         },
         {
             "url": "https://chier.bandcamp.com/album/tendresse",
@@ -4354,7 +4649,9 @@
                     "credits": "from tendresse, released June 20, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:37:39.009569+00:00"
         },
         {
             "url": "https://chier.bandcamp.com/album/themadnessisthemethod",
@@ -4529,7 +4826,12 @@
                     "credits": "from Themadnessisthemethod, released August 29, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:40:04.964817+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:10:34.607655+00:00",
+            "pd_wacz_id": "jUS8tb1K"
         },
         {
             "url": "https://chier.bandcamp.com/album/tunnel-clair",
@@ -4584,7 +4886,12 @@
                     "credits": "from tunnel clair, released November 28, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:40:34.432793+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:27:44.195481+00:00",
+            "pd_wacz_id": "me/Chier [924431141]/tunnel clair [747446587].wacz"
         },
         {
             "url": "https://chier.bandcamp.com/album/tunnel-of-love",
@@ -4639,7 +4946,12 @@
                     "credits": "from Tunnel of love, released September 27, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:41:09.325323+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:10:43.217794+00:00",
+            "pd_wacz_id": "7ZSJEPj5"
         },
         {
             "url": "https://chier.bandcamp.com/album/untitled",
@@ -4729,7 +5041,12 @@
                     "credits": "from Untitled, released August 3, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:41:50.736664+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:11:00.428390+00:00",
+            "pd_wacz_id": "irDKAzvN"
         },
         {
             "url": "https://chier.bandcamp.com/album/untitled-2",
@@ -4784,7 +5101,12 @@
                     "credits": "from untitled, released February 18, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:42:19.940857+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:28:14.735208+00:00",
+            "pd_wacz_id": "eQSynAya"
         },
         {
             "url": "https://chier.bandcamp.com/album/untitled-4",
@@ -4854,7 +5176,12 @@
                     "credits": "from Untitled, released May 19, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:42:58.936359+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:10:51.959559+00:00",
+            "pd_wacz_id": "fwjAWsGG"
         },
         {
             "url": "https://chier.bandcamp.com/album/visions-nocturne",
@@ -4924,7 +5251,12 @@
                     "credits": "from Visions nocturne, released October 31, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:43:34.508222+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:11:09.916035+00:00",
+            "pd_wacz_id": "btmKPKkd"
         },
         {
             "url": "https://chier.bandcamp.com/album/wet-nurse",
@@ -4980,7 +5312,12 @@
                     "credits": "from Wet nurse, released May 12, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:44:05.647739+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:11:43.852567+00:00",
+            "pd_wacz_id": "SrqPeNZJ"
         },
         {
             "url": "https://chier.bandcamp.com/album/your-daughter-s-so-pretty-in-that-dress",
@@ -5037,7 +5374,12 @@
                     "credits": "from your daughter s so pretty in that dress, released January 26, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:44:34.500054+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:28:27.601244+00:00",
+            "pd_wacz_id": "RJj7yGnL"
         },
         {
             "url": "https://chier.bandcamp.com/track/976-am",
@@ -5082,7 +5424,12 @@
                     "credits": "released December 7, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:44:57.434809+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:08:33.530988+00:00",
+            "pd_wacz_id": "gDjnvzs2"
         },
         {
             "url": "https://chier.bandcamp.com/track/gimpburl-rrr-chier-phyllomedusa-split",
@@ -5122,7 +5469,12 @@
                     "credits": "released December 11, 2015\nRRR\nrequiredrateofreturn.bandcamp.com\nPhyllomedusa\nphyllomedusa.bandcamp.com\nArtwork:Big frog",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-21T19:45:18.628922+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-21T20:08:39.657839+00:00",
+            "pd_wacz_id": "r8t29Uzf"
         }
     ],
     "_band_id": 924431141
