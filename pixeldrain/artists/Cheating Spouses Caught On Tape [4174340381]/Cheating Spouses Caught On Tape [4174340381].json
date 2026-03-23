@@ -9136,7 +9136,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-21T18:53:50.229091+00:00"
+            "archived_at": "2026-03-21T18:53:50.229091+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-22T14:39:14.820883+00:00",
+            "pd_wacz_id": "xFJExvUU"
         },
         {
             "url": "https://cscot.bandcamp.com/album/your-emotions-make-you-a-monster-the-dubious-autobiography-of-a-drama-queen",
@@ -9274,7 +9277,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-21T18:54:43.106329+00:00"
+            "archived_at": "2026-03-21T18:54:43.106329+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-22T14:39:34.203221+00:00",
+            "pd_wacz_id": "Stx11kZo"
         }
     ],
     "_band_id": 4174340381

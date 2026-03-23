@@ -99,7 +99,12 @@
                     "credits": "from МЁРТВЫЕ ПИСЬМА, released January 1, 1970",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-22T17:52:29.969277+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-22T18:05:47.953079+00:00",
+            "pd_wacz_id": "hau8oo6x"
         },
         {
             "url": "https://vhiari.bandcamp.com/album/--6",
@@ -230,7 +235,12 @@
                     "credits": "from 𝟶ꭗ𝟿𝟼𝙵𝟼, released January 1, 1970",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-22T17:53:28.468992+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-22T18:06:40.316038+00:00",
+            "pd_wacz_id": "T4jMM9z2"
         },
         {
             "url": "https://vhiari.bandcamp.com/album/--8",
@@ -496,7 +506,12 @@
                     "credits": "from ערפל, released January 1, 1970",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-22T17:55:20.142187+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-22T18:06:10.873940+00:00",
+            "pd_wacz_id": "BKaAiCw4"
         },
         {
             "url": "https://vhiari.bandcamp.com/album/afropessimism",
@@ -567,7 +582,12 @@
                     "credits": "from AFROPESSIMISM, released January 1, 1970",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-22T17:56:00.041676+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-22T18:03:56.273315+00:00",
+            "pd_wacz_id": "oUuxSj2x"
         },
         {
             "url": "https://vhiari.bandcamp.com/album/beast-of-burden-2",
@@ -653,7 +673,12 @@
                     "credits": "from BEAST OF BURDEN, released January 1, 1970",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-22T17:56:41.177271+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-22T18:04:17.419064+00:00",
+            "pd_wacz_id": "ZSHKrugX"
         },
         {
             "url": "https://vhiari.bandcamp.com/album/cruelty",
@@ -784,7 +809,12 @@
                     "credits": "from CRUELTY, released January 1, 1970",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-22T17:57:45.469870+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-22T18:04:42.734770+00:00",
+            "pd_wacz_id": "kyqFpRpp"
         },
         {
             "url": "https://vhiari.bandcamp.com/album/dasein",
@@ -840,7 +870,12 @@
                     "credits": "from DASEIN, released January 1, 1970",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-22T17:58:15.394980+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-22T18:04:54.207690+00:00",
+            "pd_wacz_id": "Hu7zTsGe"
         },
         {
             "url": "https://vhiari.bandcamp.com/album/dynastinae-2",
@@ -926,7 +961,12 @@
                     "credits": "from DYNASTINAE, released January 1, 1970",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-22T17:58:56.948178+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-22T18:05:17.137832+00:00",
+            "pd_wacz_id": "vdFNKZx9"
         },
         {
             "url": "https://vhiari.bandcamp.com/album/l-anti-dipe",
@@ -1493,7 +1533,12 @@
                     "credits": "from L’ANTI-ŒDIPE, released January 1, 1970",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-22T18:02:41.780364+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-22T18:05:39.823095+00:00",
+            "pd_wacz_id": "k7yRSz8V"
         },
         {
             "url": "https://vhiari.bandcamp.com/track/--35",
@@ -1534,7 +1579,12 @@
                     "credits": "released January 1, 1970",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-22T18:03:04.982360+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-22T18:06:26.999240+00:00",
+            "pd_wacz_id": "curU5pgb"
         },
         {
             "url": "https://vhiari.bandcamp.com/track/dirac-sea-fanged-noumena",
@@ -1575,7 +1625,12 @@
                     "credits": "released January 1, 1970",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-22T18:03:36.441175+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-22T18:05:02.161623+00:00",
+            "pd_wacz_id": "nKGh1HHb"
         }
     ],
     "_band_id": 3839952603
