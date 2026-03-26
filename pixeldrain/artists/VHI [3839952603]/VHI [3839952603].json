@@ -1631,6 +1631,52 @@
             "uploaded": true,
             "uploaded_at": "2026-03-22T18:05:02.161623+00:00",
             "pd_wacz_id": "nKGh1HHb"
+        },
+        {
+            "url": "https://vhiari.bandcamp.com/track/stoneburner",
+            "title": "STONEBURNER",
+            "artist": "VHI",
+            "label": null,
+            "band_id": 3839952603,
+            "classification": "paid",
+            "tags": [
+                "Ambient",
+                "ancient medical archive",
+                "drone",
+                "hardvapour",
+                "musique concrète",
+                "static wind"
+            ],
+            "item_id": 2873727390,
+            "art_id": 1823368293,
+            "is_preorder": null,
+            "datePublished": "01 Jan 1970 00:00:00 GMT",
+            "about": null,
+            "credits": "released January 1, 1970",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a1823368293_0",
+            "trackinfo": [
+                {
+                    "title": "STONEBURNER",
+                    "duration": "15:17",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2873727390,
+                    "track_num": "None",
+                    "artist": "VHI",
+                    "url": "https://vhiari.bandcamp.com/track/stoneburner",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1823368293_0",
+                    "art_id": 1823368293,
+                    "about": null,
+                    "credits": "released January 1, 1970",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-03-25T16:55:31.721718+00:00",
+            "uploaded_at": "2026-03-25T16:55:38.590432+00:00",
+            "pd_wacz_id": "8Tgt8UWL"
         }
     ],
     "_band_id": 3839952603

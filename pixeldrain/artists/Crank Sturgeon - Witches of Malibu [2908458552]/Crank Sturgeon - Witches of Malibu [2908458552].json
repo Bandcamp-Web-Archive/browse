@@ -1,0 +1,42 @@
+{
+    "Crank Sturgeon / Witches of Malibu": [
+        {
+            "url": "https://cranksturgeonwitchesofmalibu.bandcamp.com/track/no-ones-ark",
+            "title": "\"No One's Ark\"",
+            "artist": "Crank Sturgeon / Witches of Malibu",
+            "label": "love earth music",
+            "band_id": 2908458552,
+            "classification": "nyp",
+            "tags": [
+                "Experimental",
+                "Los Angeles"
+            ],
+            "item_id": 3798819538,
+            "art_id": 2571014555,
+            "is_preorder": null,
+            "datePublished": "19 Feb 2020 17:01:33 GMT",
+            "about": "\"No One's Ark\" is a collaboration between Crank Sturgeon and Witches of Malibu. recorded in CA 2020",
+            "credits": "released February 19, 2020",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2571014555_0",
+            "trackinfo": [
+                {
+                    "title": "\"No One's Ark\"",
+                    "duration": "08:12",
+                    "lyrics": null,
+                    "label": "love earth music",
+                    "track_id": 3798819538,
+                    "track_num": "None",
+                    "artist": "Crank Sturgeon / Witches of Malibu",
+                    "url": "https://cranksturgeonwitchesofmalibu.bandcamp.com/track/no-ones-ark",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2571014555_0",
+                    "art_id": 2571014555,
+                    "about": "\"No One's Ark\" is a collaboration between Crank Sturgeon and Witches of Malibu. recorded in CA 2020",
+                    "credits": "released February 19, 2020",
+                    "license": "all rights reserved"
+                }
+            ]
+        }
+    ],
+    "_band_id": 2908458552
+}

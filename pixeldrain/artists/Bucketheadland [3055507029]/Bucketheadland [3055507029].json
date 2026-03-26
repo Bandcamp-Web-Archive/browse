@@ -8800,7 +8800,7 @@
                     "track_id": 4279369957,
                     "track_num": "1",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/disembodied",
+                    "url": "https://music.bucketheadpikes.com/track/disembodied",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a3441030635_0",
                     "art_id": 3441030635,
                     "about": null,
@@ -8809,10 +8809,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T03:12:27.669822+00:00",
+            "archived_at": "2026-03-25T04:51:37.693651+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:06:22.855278+00:00",
-            "pd_wacz_id": "nR2XcBuV"
+            "uploaded_at": "2026-03-25T04:51:47.867270+00:00",
+            "pd_wacz_id": "nR2XcBuV",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:51:14.890110+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "nR2XcBuV",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Disembodied",
+                                "duration": "19:05",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 4279369957,
+                                "track_num": "1",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/disembodied",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a3441030635_0",
+                                "art_id": 3441030635,
+                                "about": null,
+                                "credits": "from Disembodied Heads, released March 11, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/album/disembodied-mirrors-action-figures-on-a-stick",
@@ -11223,7 +11250,7 @@
                     "track_id": 3149115941,
                     "track_num": "1",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre",
+                    "url": "https://music.bucketheadpikes.com/track/fludds-memory-theatre",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a4012204505_0",
                     "art_id": 4012204505,
                     "about": null,
@@ -11232,10 +11259,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T03:43:06.004196+00:00",
+            "archived_at": "2026-03-25T04:54:19.953815+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:24:33.458425+00:00",
-            "pd_wacz_id": "txWaRNWL"
+            "uploaded_at": "2026-03-25T04:54:26.300387+00:00",
+            "pd_wacz_id": "txWaRNWL",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:53:57.841545+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "txWaRNWL",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Fludds Memory Theatre",
+                                "duration": "19:24",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 3149115941,
+                                "track_num": "1",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a4012204505_0",
+                                "art_id": 4012204505,
+                                "about": null,
+                                "credits": "from Fludds Memory Theatre, released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/album/fly-on-the-wings-of-a-flame",
@@ -28279,7 +28333,7 @@
                     "track_id": 2496212881,
                     "track_num": "1",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/mining-the-mercury",
+                    "url": "https://music.bucketheadpikes.com/track/mining-the-mercury",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a0021952272_0",
                     "art_id": 21952272,
                     "about": null,
@@ -28288,10 +28342,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T08:16:29.577871+00:00",
+            "archived_at": "2026-03-25T04:57:56.902317+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:54:19.202066+00:00",
-            "pd_wacz_id": "fQyG8Voq"
+            "uploaded_at": "2026-03-25T04:58:04.774141+00:00",
+            "pd_wacz_id": "fQyG8Voq",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:57:30.593012+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "fQyG8Voq",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Mining The Mercury",
+                                "duration": "09:34",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 2496212881,
+                                "track_num": "1",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/mining-the-mercury",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a0021952272_0",
+                                "art_id": 21952272,
+                                "about": null,
+                                "credits": "from Mining The Mercury, released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/album/miracles-are-supposed-to-happen",
@@ -28499,7 +28580,7 @@
                     "track_id": 3153325172,
                     "track_num": "1",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/mirror-sea",
+                    "url": "https://music.bucketheadpikes.com/track/mirror-sea",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a3772602993_0",
                     "art_id": 3772602993,
                     "about": null,
@@ -28508,10 +28589,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T08:19:16.176055+00:00",
+            "archived_at": "2026-03-25T04:48:33.701609+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:58:01.783155+00:00",
-            "pd_wacz_id": "wekFVNKk"
+            "uploaded_at": "2026-03-25T04:48:39.920603+00:00",
+            "pd_wacz_id": "wekFVNKk",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:48:12.488725+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "wekFVNKk",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Mirror Sea",
+                                "duration": "20:51",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 3153325172,
+                                "track_num": "1",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/mirror-sea",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a3772602993_0",
+                                "art_id": 3772602993,
+                                "about": null,
+                                "credits": "from Mirror Sea, released March 11, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/album/mirror-streams",
@@ -29604,7 +29712,7 @@
                     "track_id": 1833072708,
                     "track_num": "1",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/nix-olympica-station",
+                    "url": "https://music.bucketheadpikes.com/track/nix-olympica-station",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a2240843166_0",
                     "art_id": 2240843166,
                     "about": null,
@@ -29613,10 +29721,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T08:32:09.988188+00:00",
+            "archived_at": "2026-03-25T04:48:01.380508+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T16:03:57.494991+00:00",
-            "pd_wacz_id": "MFoFRxAN"
+            "uploaded_at": "2026-03-25T04:48:11.519592+00:00",
+            "pd_wacz_id": "MFoFRxAN",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:47:38.708265+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "MFoFRxAN",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Nix Olympica Station",
+                                "duration": "18:55",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 1833072708,
+                                "track_num": "1",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/nix-olympica-station",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a2240843166_0",
+                                "art_id": 2240843166,
+                                "about": null,
+                                "credits": "from Nix Olympica Station, released March 10, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/album/northern-lights",
@@ -33994,7 +34129,7 @@
                     "track_id": 1256979017,
                     "track_num": "1",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/sheets-of-mercury-1",
+                    "url": "https://music.bucketheadpikes.com/track/sheets-of-mercury-1",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a1739702476_0",
                     "art_id": 1739702476,
                     "about": null,
@@ -34003,10 +34138,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T09:35:00.527372+00:00",
+            "archived_at": "2026-03-25T04:47:30.794102+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T16:39:02.606010+00:00",
-            "pd_wacz_id": "QovpKrpa"
+            "uploaded_at": "2026-03-25T04:47:37.866493+00:00",
+            "pd_wacz_id": "QovpKrpa",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:47:04.142801+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "QovpKrpa",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Sheets Of Mercury 1",
+                                "duration": "12:08",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 1256979017,
+                                "track_num": "1",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/sheets-of-mercury-1",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a1739702476_0",
+                                "art_id": 1739702476,
+                                "about": null,
+                                "credits": "from Sheets Of Mercury, released March 10, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/album/shell-caster",
@@ -34773,7 +34935,7 @@
                     "track_id": 1263991622,
                     "track_num": "1",
                     "artist": "Cob and Buckethead",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/slugs-in-the-mist-2",
+                    "url": "https://music.bucketheadpikes.com/track/slugs-in-the-mist-2",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a2442974455_0",
                     "art_id": 2442974455,
                     "about": null,
@@ -34782,10 +34944,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T09:45:37.900028+00:00",
+            "archived_at": "2026-03-25T05:03:55.144285+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T16:43:47.890237+00:00",
-            "pd_wacz_id": "bp4wnE8A"
+            "uploaded_at": "2026-03-25T05:04:05.911495+00:00",
+            "pd_wacz_id": "bp4wnE8A",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T05:03:14.013164+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "bp4wnE8A",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Slugs In The Mist",
+                                "duration": "03:28",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 1263991622,
+                                "track_num": "1",
+                                "artist": "Cob and Buckethead",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/slugs-in-the-mist-2",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a2442974455_0",
+                                "art_id": 2442974455,
+                                "about": null,
+                                "credits": "from Slugs in the Mist, released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/album/smelting-of-ores",
@@ -44893,7 +45082,7 @@
                     "track_id": 2095298339,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/disembodied-heads-1",
+                    "url": "https://music.bucketheadpikes.com/track/disembodied-heads-1",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a4029019135_0",
                     "art_id": 4029019135,
                     "about": null,
@@ -44902,10 +45091,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T11:47:43.222049+00:00",
+            "archived_at": "2026-03-25T04:52:05.071753+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:05:26.185712+00:00",
-            "pd_wacz_id": "iu5GRE99"
+            "uploaded_at": "2026-03-25T04:52:13.778584+00:00",
+            "pd_wacz_id": "iu5GRE99",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:51:48.719750+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "iu5GRE99",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Disembodied Heads 1",
+                                "duration": "05:54",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 2095298339,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/disembodied-heads-1",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a4029019135_0",
+                                "art_id": 4029019135,
+                                "about": null,
+                                "credits": "released March 11, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/disembodied-heads-2",
@@ -44937,7 +45153,7 @@
                     "track_id": 1321819990,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/disembodied-heads-2",
+                    "url": "https://music.bucketheadpikes.com/track/disembodied-heads-2",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a0168928762_0",
                     "art_id": 168928762,
                     "about": null,
@@ -44946,10 +45162,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T11:47:59.377497+00:00",
+            "archived_at": "2026-03-25T04:52:31.211390+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:05:35.473104+00:00",
-            "pd_wacz_id": "tfxBPuuJ"
+            "uploaded_at": "2026-03-25T04:52:45.016871+00:00",
+            "pd_wacz_id": "tfxBPuuJ",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:52:14.526445+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "tfxBPuuJ",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Disembodied Heads 2",
+                                "duration": "03:13",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 1321819990,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/disembodied-heads-2",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a0168928762_0",
+                                "art_id": 168928762,
+                                "about": null,
+                                "credits": "released March 11, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/disembodied-heads-3",
@@ -44981,7 +45224,7 @@
                     "track_id": 1003804468,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/disembodied-heads-3",
+                    "url": "https://music.bucketheadpikes.com/track/disembodied-heads-3",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a3115508341_0",
                     "art_id": 3115508341,
                     "about": null,
@@ -44990,10 +45233,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T11:48:16.711255+00:00",
+            "archived_at": "2026-03-25T04:53:02.299389+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:05:44.347785+00:00",
-            "pd_wacz_id": "aAtxi1rA"
+            "uploaded_at": "2026-03-25T04:53:08.546049+00:00",
+            "pd_wacz_id": "aAtxi1rA",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:52:45.805871+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "aAtxi1rA",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Disembodied Heads 3",
+                                "duration": "03:25",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 1003804468,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/disembodied-heads-3",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a3115508341_0",
+                                "art_id": 3115508341,
+                                "about": null,
+                                "credits": "released March 11, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/disembodied-heads-4",
@@ -45025,7 +45295,7 @@
                     "track_id": 4102572693,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/disembodied-heads-4",
+                    "url": "https://music.bucketheadpikes.com/track/disembodied-heads-4",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a3415628605_0",
                     "art_id": 3415628605,
                     "about": null,
@@ -45034,10 +45304,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T11:48:35.985413+00:00",
+            "archived_at": "2026-03-25T04:53:25.437993+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:05:55.548237+00:00",
-            "pd_wacz_id": "bBArPFbE"
+            "uploaded_at": "2026-03-25T04:53:34.249004+00:00",
+            "pd_wacz_id": "bBArPFbE",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:53:09.305479+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "bBArPFbE",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Disembodied Heads 4",
+                                "duration": "03:05",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 4102572693,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/disembodied-heads-4",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a3415628605_0",
+                                "art_id": 3415628605,
+                                "about": null,
+                                "credits": "released March 11, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/disembodied-heads-5",
@@ -45069,7 +45366,7 @@
                     "track_id": 3565493951,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/disembodied-heads-5",
+                    "url": "https://music.bucketheadpikes.com/track/disembodied-heads-5",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a3298099487_0",
                     "art_id": 3298099487,
                     "about": null,
@@ -45078,10 +45375,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T11:48:53.571197+00:00",
+            "archived_at": "2026-03-25T04:53:50.301461+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:06:01.718604+00:00",
-            "pd_wacz_id": "K9MVe4CZ"
+            "uploaded_at": "2026-03-25T04:53:57.107443+00:00",
+            "pd_wacz_id": "K9MVe4CZ",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:53:34.956852+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "K9MVe4CZ",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Disembodied Heads 5",
+                                "duration": "03:31",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 3565493951,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/disembodied-heads-5",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a3298099487_0",
+                                "art_id": 3298099487,
+                                "about": null,
+                                "credits": "released March 11, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/disembodied-matchboxes",
@@ -46021,7 +46345,7 @@
                     "track_id": 279297948,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-1",
+                    "url": "https://music.bucketheadpikes.com/track/feedback-loop-1",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a0809214313_0",
                     "art_id": 809214313,
                     "about": null,
@@ -46030,10 +46354,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T11:55:06.730433+00:00",
+            "archived_at": "2026-03-25T04:44:09.331430+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:19:13.045358+00:00",
-            "pd_wacz_id": "KiXUyX6h"
+            "uploaded_at": "2026-03-25T04:44:14.741899+00:00",
+            "pd_wacz_id": "KiXUyX6h",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:43:52.600275+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "KiXUyX6h",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Feedback Loop 1",
+                                "duration": "02:54",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 279297948,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-1",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a0809214313_0",
+                                "art_id": 809214313,
+                                "about": null,
+                                "credits": "released March 10, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-2",
@@ -46065,7 +46416,7 @@
                     "track_id": 2060261755,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-2",
+                    "url": "https://music.bucketheadpikes.com/track/feedback-loop-2",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a0783543787_0",
                     "art_id": 783543787,
                     "about": null,
@@ -46074,10 +46425,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T11:55:23.056924+00:00",
+            "archived_at": "2026-03-25T04:44:32.295912+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:19:22.674675+00:00",
-            "pd_wacz_id": "KjgHm9J6"
+            "uploaded_at": "2026-03-25T04:44:41.559968+00:00",
+            "pd_wacz_id": "KjgHm9J6",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:44:15.472219+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "KjgHm9J6",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Feedback Loop 2",
+                                "duration": "04:04",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 2060261755,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-2",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a0783543787_0",
+                                "art_id": 783543787,
+                                "about": null,
+                                "credits": "released March 10, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-3",
@@ -46109,7 +46487,7 @@
                     "track_id": 1428499249,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-3",
+                    "url": "https://music.bucketheadpikes.com/track/feedback-loop-3",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a0825998245_0",
                     "art_id": 825998245,
                     "about": null,
@@ -46118,10 +46496,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T11:55:40.327872+00:00",
+            "archived_at": "2026-03-25T04:44:59.312732+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:19:45.621495+00:00",
-            "pd_wacz_id": "xd9KRq5q"
+            "uploaded_at": "2026-03-25T04:45:05.050594+00:00",
+            "pd_wacz_id": "xd9KRq5q",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:44:42.282053+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "xd9KRq5q",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Feedback Loop 3",
+                                "duration": "03:52",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 1428499249,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-3",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a0825998245_0",
+                                "art_id": 825998245,
+                                "about": null,
+                                "credits": "released March 10, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-4",
@@ -46153,7 +46558,7 @@
                     "track_id": 1679853086,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-4",
+                    "url": "https://music.bucketheadpikes.com/track/feedback-loop-4",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a3870908309_0",
                     "art_id": 3870908309,
                     "about": null,
@@ -46162,10 +46567,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T11:55:57.223408+00:00",
+            "archived_at": "2026-03-25T04:45:22.016421+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:20:00.780265+00:00",
-            "pd_wacz_id": "SYnwuC4p"
+            "uploaded_at": "2026-03-25T04:45:27.596459+00:00",
+            "pd_wacz_id": "SYnwuC4p",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:45:05.827039+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "SYnwuC4p",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Feedback Loop 4",
+                                "duration": "02:34",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 1679853086,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-4",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a3870908309_0",
+                                "art_id": 3870908309,
+                                "about": null,
+                                "credits": "released March 10, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-5",
@@ -46197,7 +46629,7 @@
                     "track_id": 69719210,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-5",
+                    "url": "https://music.bucketheadpikes.com/track/feedback-loop-5",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a4020415851_0",
                     "art_id": 4020415851,
                     "about": null,
@@ -46206,10 +46638,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T11:56:13.721984+00:00",
+            "archived_at": "2026-03-25T04:45:44.073730+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:20:15.098328+00:00",
-            "pd_wacz_id": "QKtQ9Uwh"
+            "uploaded_at": "2026-03-25T04:45:53.700102+00:00",
+            "pd_wacz_id": "QKtQ9Uwh",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:45:28.350328+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "QKtQ9Uwh",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Feedback Loop 5",
+                                "duration": "05:07",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 69719210,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-5",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a4020415851_0",
+                                "art_id": 4020415851,
+                                "about": null,
+                                "credits": "released March 10, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-6",
@@ -46241,7 +46700,7 @@
                     "track_id": 3551765185,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-6",
+                    "url": "https://music.bucketheadpikes.com/track/feedback-loop-6",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a0912237794_0",
                     "art_id": 912237794,
                     "about": null,
@@ -46250,10 +46709,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T11:56:31.327437+00:00",
+            "archived_at": "2026-03-25T04:46:10.314917+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:20:35.796324+00:00",
-            "pd_wacz_id": "gbnShypf"
+            "uploaded_at": "2026-03-25T04:46:15.961259+00:00",
+            "pd_wacz_id": "gbnShypf",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:45:54.526350+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "gbnShypf",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Feedback Loop 6",
+                                "duration": "02:31",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 3551765185,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-6",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a0912237794_0",
+                                "art_id": 912237794,
+                                "about": null,
+                                "credits": "released March 10, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-7",
@@ -46285,7 +46771,7 @@
                     "track_id": 2014520569,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-7",
+                    "url": "https://music.bucketheadpikes.com/track/feedback-loop-7",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a3037143197_0",
                     "art_id": 3037143197,
                     "about": null,
@@ -46294,10 +46780,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T11:56:49.535146+00:00",
+            "archived_at": "2026-03-25T04:46:34.690064+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:20:47.318671+00:00",
-            "pd_wacz_id": "Gkf1aSsK"
+            "uploaded_at": "2026-03-25T04:46:40.238744+00:00",
+            "pd_wacz_id": "Gkf1aSsK",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:46:16.801903+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "Gkf1aSsK",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Feedback Loop 7",
+                                "duration": "03:40",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 2014520569,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-7",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a3037143197_0",
+                                "art_id": 3037143197,
+                                "about": null,
+                                "credits": "released March 10, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-8",
@@ -46329,7 +46842,7 @@
                     "track_id": 1745076460,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-8",
+                    "url": "https://music.bucketheadpikes.com/track/feedback-loop-8",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a4144490020_0",
                     "art_id": 4144490020,
                     "about": null,
@@ -46338,10 +46851,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T11:57:06.575993+00:00",
+            "archived_at": "2026-03-25T04:46:56.824192+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:20:53.478476+00:00",
-            "pd_wacz_id": "knWPGcZN"
+            "uploaded_at": "2026-03-25T04:47:03.212713+00:00",
+            "pd_wacz_id": "knWPGcZN",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:46:41.130920+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "knWPGcZN",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Feedback Loop 8",
+                                "duration": "03:33",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 1745076460,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/feedback-loop-8",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a4144490020_0",
+                                "art_id": 4144490020,
+                                "about": null,
+                                "credits": "released March 10, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/ferris-wheel",
@@ -46637,7 +47177,7 @@
                     "track_id": 342249902,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-1",
+                    "url": "https://music.bucketheadpikes.com/track/fludds-memory-theatre-1",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a0671708608_0",
                     "art_id": 671708608,
                     "about": null,
@@ -46646,10 +47186,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T11:59:07.894590+00:00",
+            "archived_at": "2026-03-25T04:54:45.517880+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:22:59.944563+00:00",
-            "pd_wacz_id": "KNAEdNiL"
+            "uploaded_at": "2026-03-25T04:54:52.671601+00:00",
+            "pd_wacz_id": "KNAEdNiL",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:54:27.155177+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "KNAEdNiL",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Fludds Memory Theatre 1",
+                                "duration": "02:46",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 342249902,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-1",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a0671708608_0",
+                                "art_id": 671708608,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-2-2",
@@ -46681,7 +47248,7 @@
                     "track_id": 1883063814,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-2-2",
+                    "url": "https://music.bucketheadpikes.com/track/fludds-memory-theatre-2-2",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a2560086075_0",
                     "art_id": 2560086075,
                     "about": null,
@@ -46690,10 +47257,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T11:59:24.316030+00:00",
+            "archived_at": "2026-03-25T04:55:10.159675+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:23:15.661853+00:00",
-            "pd_wacz_id": "EAMAbagZ"
+            "uploaded_at": "2026-03-25T04:55:18.389779+00:00",
+            "pd_wacz_id": "EAMAbagZ",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:54:53.453501+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "EAMAbagZ",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Fludds Memory Theatre 2",
+                                "duration": "02:33",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 1883063814,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-2-2",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a2560086075_0",
+                                "art_id": 2560086075,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-3",
@@ -46725,7 +47319,7 @@
                     "track_id": 311352229,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-3",
+                    "url": "https://music.bucketheadpikes.com/track/fludds-memory-theatre-3",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a0787964509_0",
                     "art_id": 787964509,
                     "about": null,
@@ -46734,10 +47328,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T11:59:40.217471+00:00",
+            "archived_at": "2026-03-25T04:55:36.251239+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:23:26.145680+00:00",
-            "pd_wacz_id": "8ZiwH5xB"
+            "uploaded_at": "2026-03-25T04:55:44.125111+00:00",
+            "pd_wacz_id": "8ZiwH5xB",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:55:19.175171+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "8ZiwH5xB",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Fludds Memory Theatre 3",
+                                "duration": "02:42",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 311352229,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-3",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a0787964509_0",
+                                "art_id": 787964509,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-4",
@@ -46769,7 +47390,7 @@
                     "track_id": 2881931520,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-4",
+                    "url": "https://music.bucketheadpikes.com/track/fludds-memory-theatre-4",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a1273476596_0",
                     "art_id": 1273476596,
                     "about": null,
@@ -46778,10 +47399,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T11:59:56.536109+00:00",
+            "archived_at": "2026-03-25T04:56:01.634715+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:23:42.034689+00:00",
-            "pd_wacz_id": "orFkBNqp"
+            "uploaded_at": "2026-03-25T04:56:07.394437+00:00",
+            "pd_wacz_id": "orFkBNqp",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:55:44.812688+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "orFkBNqp",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Fludds Memory Theatre 4",
+                                "duration": "02:44",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 2881931520,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-4",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a1273476596_0",
+                                "art_id": 1273476596,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-5",
@@ -46813,7 +47461,7 @@
                     "track_id": 1515233471,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-5",
+                    "url": "https://music.bucketheadpikes.com/track/fludds-memory-theatre-5",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a3544505344_0",
                     "art_id": 3544505344,
                     "about": null,
@@ -46822,10 +47470,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:00:13.395384+00:00",
+            "archived_at": "2026-03-25T04:56:24.652393+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:23:53.955851+00:00",
-            "pd_wacz_id": "TtZVY3Wg"
+            "uploaded_at": "2026-03-25T04:56:32.765776+00:00",
+            "pd_wacz_id": "TtZVY3Wg",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:56:08.306149+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "TtZVY3Wg",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Fludds Memory Theatre 5",
+                                "duration": "02:44",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 1515233471,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-5",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a3544505344_0",
+                                "art_id": 3544505344,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-6",
@@ -46857,7 +47532,7 @@
                     "track_id": 2350235758,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-6",
+                    "url": "https://music.bucketheadpikes.com/track/fludds-memory-theatre-6",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a2662914043_0",
                     "art_id": 2662914043,
                     "about": null,
@@ -46866,10 +47541,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:00:29.260326+00:00",
+            "archived_at": "2026-03-25T04:56:50.504187+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:24:07.248087+00:00",
-            "pd_wacz_id": "uZbhsqN5"
+            "uploaded_at": "2026-03-25T04:57:02.259101+00:00",
+            "pd_wacz_id": "uZbhsqN5",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:56:33.714354+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "uZbhsqN5",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Fludds Memory Theatre 6",
+                                "duration": "03:03",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 2350235758,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-6",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a2662914043_0",
+                                "art_id": 2662914043,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-7",
@@ -46901,7 +47603,7 @@
                     "track_id": 2014086979,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-7",
+                    "url": "https://music.bucketheadpikes.com/track/fludds-memory-theatre-7",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a2909004795_0",
                     "art_id": 2909004795,
                     "about": null,
@@ -46910,10 +47612,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:00:46.318041+00:00",
+            "archived_at": "2026-03-25T04:57:20.504749+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:24:24.420185+00:00",
-            "pd_wacz_id": "ThXt3fH1"
+            "uploaded_at": "2026-03-25T04:57:29.638779+00:00",
+            "pd_wacz_id": "ThXt3fH1",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:57:02.985772+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "ThXt3fH1",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Fludds Memory Theatre 7",
+                                "duration": "03:03",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 2014086979,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/fludds-memory-theatre-7",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a2909004795_0",
+                                "art_id": 2909004795,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/footprints-on-mars",
@@ -46945,7 +47674,7 @@
                     "track_id": 4220525813,
                     "track_num": "None",
                     "artist": "Cob and Buckethead",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/footprints-on-mars",
+                    "url": "https://music.bucketheadpikes.com/track/footprints-on-mars",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a3585639095_0",
                     "art_id": 3585639095,
                     "about": null,
@@ -46954,10 +47683,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:01:02.608025+00:00",
+            "archived_at": "2026-03-25T05:04:22.807069+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T14:25:25.480800+00:00",
-            "pd_wacz_id": "d85jptA2"
+            "uploaded_at": "2026-03-25T05:04:30.791779+00:00",
+            "pd_wacz_id": "d85jptA2",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T05:04:06.601712+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "d85jptA2",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Footprints on Mars",
+                                "duration": "03:11",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 4220525813,
+                                "track_num": "None",
+                                "artist": "Cob and Buckethead",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/footprints-on-mars",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a3585639095_0",
+                                "art_id": 3585639095,
+                                "about": null,
+                                "credits": "released March 12, 2026\nArtwork by Cob",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/for-my-father",
@@ -49861,7 +50617,7 @@
                     "track_id": 1963179085,
                     "track_num": "None",
                     "artist": "Cob and Buckethead",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/looking-through-the-dewdrop",
+                    "url": "https://music.bucketheadpikes.com/track/looking-through-the-dewdrop",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a0842660212_0",
                     "art_id": 842660212,
                     "about": null,
@@ -49870,10 +50626,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:21:09.373218+00:00",
+            "archived_at": "2026-03-25T05:04:48.699891+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:43:19.665622+00:00",
-            "pd_wacz_id": "wkq2SvML"
+            "uploaded_at": "2026-03-25T05:04:53.911089+00:00",
+            "pd_wacz_id": "wkq2SvML",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T05:04:31.573753+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "wkq2SvML",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Looking Through The Dewdrop",
+                                "duration": "03:03",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 1963179085,
+                                "track_num": "None",
+                                "artist": "Cob and Buckethead",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/looking-through-the-dewdrop",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a0842660212_0",
+                                "art_id": 842660212,
+                                "about": null,
+                                "credits": "released March 12, 2026\nArtwork by Cob",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/lunar-frost",
@@ -49905,7 +50688,7 @@
                     "track_id": 1675055281,
                     "track_num": "None",
                     "artist": "Cob and Buckethead",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/lunar-frost",
+                    "url": "https://music.bucketheadpikes.com/track/lunar-frost",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a2344263342_0",
                     "art_id": 2344263342,
                     "about": null,
@@ -49914,10 +50697,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:21:27.340581+00:00",
+            "archived_at": "2026-03-25T05:05:14.202413+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:44:14.692993+00:00",
-            "pd_wacz_id": "HeLxkUNQ"
+            "uploaded_at": "2026-03-25T05:05:24.388584+00:00",
+            "pd_wacz_id": "HeLxkUNQ",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T05:04:55.048167+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "HeLxkUNQ",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Lunar Frost",
+                                "duration": "04:10",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 1675055281,
+                                "track_num": "None",
+                                "artist": "Cob and Buckethead",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/lunar-frost",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a2344263342_0",
+                                "art_id": 2344263342,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/lurker-at-the-threshold-part-four",
@@ -50593,7 +51403,7 @@
                     "track_id": 2604386514,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/melting-man-make-up-kit-1",
+                    "url": "https://music.bucketheadpikes.com/track/melting-man-make-up-kit-1",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a2534389137_0",
                     "art_id": 2534389137,
                     "about": null,
@@ -50602,10 +51412,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:26:16.536475+00:00",
+            "archived_at": "2026-03-25T04:59:32.663086+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:49:58.002963+00:00",
-            "pd_wacz_id": "xzaBMrJP"
+            "uploaded_at": "2026-03-25T04:59:47.599933+00:00",
+            "pd_wacz_id": "xzaBMrJP",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:59:16.657172+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "xzaBMrJP",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Melting Man Make-up Kit 1",
+                                "duration": "02:40",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 2604386514,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/melting-man-make-up-kit-1",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a2534389137_0",
+                                "art_id": 2534389137,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/melting-man-make-up-kit-2",
@@ -50637,7 +51474,7 @@
                     "track_id": 1536142602,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/melting-man-make-up-kit-2",
+                    "url": "https://music.bucketheadpikes.com/track/melting-man-make-up-kit-2",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a3234244942_0",
                     "art_id": 3234244942,
                     "about": null,
@@ -50646,10 +51483,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:26:32.528915+00:00",
+            "archived_at": "2026-03-25T05:00:05.211134+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:50:11.001303+00:00",
-            "pd_wacz_id": "iMEsKweS"
+            "uploaded_at": "2026-03-25T05:00:17.584559+00:00",
+            "pd_wacz_id": "iMEsKweS",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:59:48.339409+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "iMEsKweS",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Melting Man Make-up Kit 2",
+                                "duration": "02:10",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 1536142602,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/melting-man-make-up-kit-2",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a3234244942_0",
+                                "art_id": 3234244942,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/melting-man-make-up-kit-3",
@@ -50681,7 +51545,7 @@
                     "track_id": 1829776185,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/melting-man-make-up-kit-3",
+                    "url": "https://music.bucketheadpikes.com/track/melting-man-make-up-kit-3",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a2690481083_0",
                     "art_id": 2690481083,
                     "about": null,
@@ -50690,10 +51554,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:26:49.708400+00:00",
+            "archived_at": "2026-03-25T05:00:34.657904+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:50:26.879354+00:00",
-            "pd_wacz_id": "mnYjKgpu"
+            "uploaded_at": "2026-03-25T05:00:42.247530+00:00",
+            "pd_wacz_id": "mnYjKgpu",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T05:00:18.409524+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "mnYjKgpu",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Melting Man Make-up Kit 3",
+                                "duration": "02:01",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 1829776185,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/melting-man-make-up-kit-3",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a2690481083_0",
+                                "art_id": 2690481083,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/mercury-bones",
@@ -50857,7 +51748,7 @@
                     "track_id": 2096699921,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/mining-the-mercury-1",
+                    "url": "https://music.bucketheadpikes.com/track/mining-the-mercury-1",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a0679701322_0",
                     "art_id": 679701322,
                     "about": null,
@@ -50866,10 +51757,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:27:58.873399+00:00",
+            "archived_at": "2026-03-25T04:58:22.405906+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:53:31.370874+00:00",
-            "pd_wacz_id": "AHmZuYHV"
+            "uploaded_at": "2026-03-25T04:58:28.193593+00:00",
+            "pd_wacz_id": "AHmZuYHV",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:58:05.542613+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "AHmZuYHV",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Mining The Mercury 1",
+                                "duration": "03:10",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 2096699921,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/mining-the-mercury-1",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a0679701322_0",
+                                "art_id": 679701322,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/mining-the-mercury-2",
@@ -50901,7 +51819,7 @@
                     "track_id": 895746576,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/mining-the-mercury-2",
+                    "url": "https://music.bucketheadpikes.com/track/mining-the-mercury-2",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a0013167064_0",
                     "art_id": 13167064,
                     "about": null,
@@ -50910,10 +51828,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:28:15.870851+00:00",
+            "archived_at": "2026-03-25T04:58:45.905859+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:53:44.138393+00:00",
-            "pd_wacz_id": "QyUdbDQV"
+            "uploaded_at": "2026-03-25T04:58:51.544660+00:00",
+            "pd_wacz_id": "QyUdbDQV",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:58:29.181789+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "QyUdbDQV",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Mining The Mercury 2",
+                                "duration": "03:02",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 895746576,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/mining-the-mercury-2",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a0013167064_0",
+                                "art_id": 13167064,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/mining-the-mercury-3",
@@ -50945,7 +51890,7 @@
                     "track_id": 2130467188,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/mining-the-mercury-3",
+                    "url": "https://music.bucketheadpikes.com/track/mining-the-mercury-3",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a3539918141_0",
                     "art_id": 3539918141,
                     "about": null,
@@ -50954,10 +51899,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:28:33.219114+00:00",
+            "archived_at": "2026-03-25T04:59:09.326200+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:54:03.981426+00:00",
-            "pd_wacz_id": "JrhC4Pmq"
+            "uploaded_at": "2026-03-25T04:59:15.914680+00:00",
+            "pd_wacz_id": "JrhC4Pmq",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:58:52.358067+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "JrhC4Pmq",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Mining The Mercury 3",
+                                "duration": "03:25",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 2130467188,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/mining-the-mercury-3",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a3539918141_0",
+                                "art_id": 3539918141,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/mirror-duplex-1",
@@ -50989,7 +51961,7 @@
                     "track_id": 2240553862,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/mirror-duplex-1",
+                    "url": "https://music.bucketheadpikes.com/track/mirror-duplex-1",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a3538586335_0",
                     "art_id": 3538586335,
                     "about": null,
@@ -50998,10 +51970,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:28:50.204677+00:00",
+            "archived_at": "2026-03-25T05:00:59.916347+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:54:44.049722+00:00",
-            "pd_wacz_id": "HDmbZNiR"
+            "uploaded_at": "2026-03-25T05:01:07.801632+00:00",
+            "pd_wacz_id": "HDmbZNiR",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T05:00:43.004558+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "HDmbZNiR",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Mirror Duplex 1",
+                                "duration": "02:54",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 2240553862,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/mirror-duplex-1",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a3538586335_0",
+                                "art_id": 3538586335,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/mirror-duplex-2",
@@ -51033,7 +52032,7 @@
                     "track_id": 3580282851,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/mirror-duplex-2",
+                    "url": "https://music.bucketheadpikes.com/track/mirror-duplex-2",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a3843738434_0",
                     "art_id": 3843738434,
                     "about": null,
@@ -51042,10 +52041,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:29:06.884420+00:00",
+            "archived_at": "2026-03-25T05:01:24.772891+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:55:00.132131+00:00",
-            "pd_wacz_id": "66kuPZrH"
+            "uploaded_at": "2026-03-25T05:01:51.333346+00:00",
+            "pd_wacz_id": "66kuPZrH",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T05:01:08.554148+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "66kuPZrH",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Mirror Duplex 2",
+                                "duration": "02:53",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 3580282851,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/mirror-duplex-2",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a3843738434_0",
+                                "art_id": 3843738434,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/mirror-duplex-3",
@@ -51077,7 +52103,7 @@
                     "track_id": 3927925775,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/mirror-duplex-3",
+                    "url": "https://music.bucketheadpikes.com/track/mirror-duplex-3",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a0152861017_0",
                     "art_id": 152861017,
                     "about": null,
@@ -51086,10 +52112,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:29:24.306191+00:00",
+            "archived_at": "2026-03-25T05:02:09.152004+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:55:11.920395+00:00",
-            "pd_wacz_id": "an633NEm"
+            "uploaded_at": "2026-03-25T05:02:23.893275+00:00",
+            "pd_wacz_id": "an633NEm",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T05:01:52.070527+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "an633NEm",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Mirror Duplex 3",
+                                "duration": "03:01",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 3927925775,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/mirror-duplex-3",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a0152861017_0",
+                                "art_id": 152861017,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/mirror-duplex-4",
@@ -51121,7 +52174,7 @@
                     "track_id": 3916350128,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/mirror-duplex-4",
+                    "url": "https://music.bucketheadpikes.com/track/mirror-duplex-4",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a0243466517_0",
                     "art_id": 243466517,
                     "about": null,
@@ -51130,10 +52183,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:29:41.289112+00:00",
+            "archived_at": "2026-03-25T05:02:40.994356+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:55:18.175946+00:00",
-            "pd_wacz_id": "1Mhp8PSa"
+            "uploaded_at": "2026-03-25T05:02:46.915206+00:00",
+            "pd_wacz_id": "1Mhp8PSa",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T05:02:24.619270+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "1Mhp8PSa",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Mirror Duplex 4",
+                                "duration": "03:27",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 3916350128,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/mirror-duplex-4",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a0243466517_0",
+                                "art_id": 243466517,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/mirror-duplex-5",
@@ -51165,7 +52245,7 @@
                     "track_id": 2248459786,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/mirror-duplex-5",
+                    "url": "https://music.bucketheadpikes.com/track/mirror-duplex-5",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a2369612933_0",
                     "art_id": 2369612933,
                     "about": null,
@@ -51174,10 +52254,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:29:58.785515+00:00",
+            "archived_at": "2026-03-25T05:03:03.617311+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:55:32.725110+00:00",
-            "pd_wacz_id": "Gup6h2NL"
+            "uploaded_at": "2026-03-25T05:03:13.247009+00:00",
+            "pd_wacz_id": "Gup6h2NL",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T05:02:47.673092+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "Gup6h2NL",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Mirror Duplex 5",
+                                "duration": "02:04",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 2248459786,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/mirror-duplex-5",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a2369612933_0",
+                                "art_id": 2369612933,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/mirror-face-counseling-disembodied",
@@ -51297,7 +52404,7 @@
                     "track_id": 435106082,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/mirror-sea-1",
+                    "url": "https://music.bucketheadpikes.com/track/mirror-sea-1",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a4135797943_0",
                     "art_id": 4135797943,
                     "about": null,
@@ -51306,10 +52413,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:30:51.839506+00:00",
+            "archived_at": "2026-03-25T04:48:57.872797+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:57:07.040943+00:00",
-            "pd_wacz_id": "xgvzjbbP"
+            "uploaded_at": "2026-03-25T04:49:09.079408+00:00",
+            "pd_wacz_id": "xgvzjbbP",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:48:40.867672+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "xgvzjbbP",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Mirror Sea 1",
+                                "duration": "03:08",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 435106082,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/mirror-sea-1",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a4135797943_0",
+                                "art_id": 4135797943,
+                                "about": null,
+                                "credits": "released March 11, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/mirror-sea-2",
@@ -51341,7 +52475,7 @@
                     "track_id": 2962979213,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/mirror-sea-2",
+                    "url": "https://music.bucketheadpikes.com/track/mirror-sea-2",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a1439910683_0",
                     "art_id": 1439910683,
                     "about": null,
@@ -51350,10 +52484,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:31:07.261215+00:00",
+            "archived_at": "2026-03-25T04:49:26.258527+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:57:15.365904+00:00",
-            "pd_wacz_id": "qx8nmA3P"
+            "uploaded_at": "2026-03-25T04:49:32.115340+00:00",
+            "pd_wacz_id": "qx8nmA3P",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:49:09.913067+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "qx8nmA3P",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Mirror Sea 2",
+                                "duration": "02:22",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 2962979213,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/mirror-sea-2",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a1439910683_0",
+                                "art_id": 1439910683,
+                                "about": null,
+                                "credits": "released March 11, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/mirror-sea-3",
@@ -51385,7 +52546,7 @@
                     "track_id": 1384572049,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/mirror-sea-3",
+                    "url": "https://music.bucketheadpikes.com/track/mirror-sea-3",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a1337396626_0",
                     "art_id": 1337396626,
                     "about": null,
@@ -51394,10 +52555,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:31:23.134764+00:00",
+            "archived_at": "2026-03-25T04:49:49.212192+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:57:22.079312+00:00",
-            "pd_wacz_id": "zv2MfDvg"
+            "uploaded_at": "2026-03-25T04:49:54.927105+00:00",
+            "pd_wacz_id": "zv2MfDvg",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:49:32.924996+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "zv2MfDvg",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Mirror Sea 3",
+                                "duration": "03:16",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 1384572049,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/mirror-sea-3",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a1337396626_0",
+                                "art_id": 1337396626,
+                                "about": null,
+                                "credits": "released March 11, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/mirror-sea-4",
@@ -51429,7 +52617,7 @@
                     "track_id": 3456235371,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/mirror-sea-4",
+                    "url": "https://music.bucketheadpikes.com/track/mirror-sea-4",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a1549381646_0",
                     "art_id": 1549381646,
                     "about": null,
@@ -51438,10 +52626,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:31:39.904931+00:00",
+            "archived_at": "2026-03-25T04:50:15.687465+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:57:38.395551+00:00",
-            "pd_wacz_id": "M7XfVkyK"
+            "uploaded_at": "2026-03-25T04:50:22.903070+00:00",
+            "pd_wacz_id": "M7XfVkyK",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:49:55.723007+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "M7XfVkyK",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Mirror Sea 4",
+                                "duration": "03:10",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 3456235371,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/mirror-sea-4",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a1549381646_0",
+                                "art_id": 1549381646,
+                                "about": null,
+                                "credits": "released March 11, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/mirror-sea-5",
@@ -51473,7 +52688,7 @@
                     "track_id": 1345504265,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/mirror-sea-5",
+                    "url": "https://music.bucketheadpikes.com/track/mirror-sea-5",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a4285791323_0",
                     "art_id": 4285791323,
                     "about": null,
@@ -51482,10 +52697,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:31:57.804338+00:00",
+            "archived_at": "2026-03-25T04:50:40.295071+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:57:47.516829+00:00",
-            "pd_wacz_id": "dLJmJkbi"
+            "uploaded_at": "2026-03-25T04:50:47.317606+00:00",
+            "pd_wacz_id": "dLJmJkbi",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:50:23.677524+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "dLJmJkbi",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Mirror Sea 5",
+                                "duration": "03:41",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 1345504265,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/mirror-sea-5",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a4285791323_0",
+                                "art_id": 4285791323,
+                                "about": null,
+                                "credits": "released March 11, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/mirror-sea-6",
@@ -51517,7 +52759,7 @@
                     "track_id": 3340654891,
                     "track_num": "None",
                     "artist": "Bucketheadland",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/mirror-sea-6",
+                    "url": "https://music.bucketheadpikes.com/track/mirror-sea-6",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a2678818000_0",
                     "art_id": 2678818000,
                     "about": null,
@@ -51526,10 +52768,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:32:13.774994+00:00",
+            "archived_at": "2026-03-25T04:51:05.029312+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T15:57:54.576522+00:00",
-            "pd_wacz_id": "hibxyK2S"
+            "uploaded_at": "2026-03-25T04:51:14.145755+00:00",
+            "pd_wacz_id": "hibxyK2S",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T04:50:48.235443+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "hibxyK2S",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Mirror Sea 6",
+                                "duration": "05:24",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 3340654891,
+                                "track_num": "None",
+                                "artist": "Bucketheadland",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/mirror-sea-6",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a2678818000_0",
+                                "art_id": 2678818000,
+                                "about": null,
+                                "credits": "released March 11, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/missing-my-parents",
@@ -54933,7 +56202,7 @@
                     "track_id": 1159842815,
                     "track_num": "None",
                     "artist": "Cob and Buckethead",
-                    "url": "https://bucketheadpikes.bandcamp.com/track/ribcage-lobotomy",
+                    "url": "https://music.bucketheadpikes.com/track/ribcage-lobotomy",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a0749015015_0",
                     "art_id": 749015015,
                     "about": null,
@@ -54942,10 +56211,37 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-16T12:54:17.541387+00:00",
+            "archived_at": "2026-03-25T05:05:42.736990+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-03-16T16:28:02.776198+00:00",
-            "pd_wacz_id": "CKLzSN6G"
+            "uploaded_at": "2026-03-25T05:05:50.188206+00:00",
+            "pd_wacz_id": "CKLzSN6G",
+            "_history": [
+                {
+                    "changed_at": "2026-03-25T05:05:25.276640+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "CKLzSN6G",
+                    "fields": {
+                        "trackinfo": [
+                            {
+                                "title": "Ribcage Lobotomy",
+                                "duration": "04:22",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 1159842815,
+                                "track_num": "None",
+                                "artist": "Cob and Buckethead",
+                                "url": "https://bucketheadpikes.bandcamp.com/track/ribcage-lobotomy",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a0749015015_0",
+                                "art_id": 749015015,
+                                "about": null,
+                                "credits": "released March 12, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://bucketheadpikes.bandcamp.com/track/richochet",
