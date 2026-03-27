@@ -76,7 +76,12 @@
                     "credits": "from Journal d'un corps (OST), released January 26, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-26T17:18:25.632007+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-26T17:21:09.344391+00:00",
+            "pd_wacz_id": "nG6Ec57R"
         },
         {
             "url": "https://lorenzosaini.bandcamp.com/album/maitake",
@@ -182,7 +187,12 @@
                     "credits": "from Maitake - 舞茸, released June 13, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-26T17:19:08.032676+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-26T17:21:24.258084+00:00",
+            "pd_wacz_id": "4wx6ZbVW"
         },
         {
             "url": "https://lorenzosaini.bandcamp.com/album/medea-ost",
@@ -291,7 +301,12 @@
                     "credits": "from MEDEA (OST), released September 25, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-26T17:19:54.128577+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-26T17:21:18.628136+00:00",
+            "pd_wacz_id": "6DV2evQL"
         },
         {
             "url": "https://lorenzosaini.bandcamp.com/album/mompou-an-intimate-impression",
@@ -459,7 +474,12 @@
                     "credits": "from Mompou: an Intimate Impression, released October 7, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-26T17:20:58.633744+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-26T17:21:34.530524+00:00",
+            "pd_wacz_id": "SjmWZa14"
         }
     ],
     "_band_id": 4119830100

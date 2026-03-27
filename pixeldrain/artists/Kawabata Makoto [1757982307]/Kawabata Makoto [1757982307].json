@@ -69,7 +69,12 @@
                     "credits": "from Astro Love & Infinite Kisses, released May 22, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-26T17:21:44.561265+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-26T17:24:23.615679+00:00",
+            "pd_wacz_id": "TsemyFPY"
         },
         {
             "url": "https://kawabatamakoto.bandcamp.com/album/inui-1",
@@ -140,7 +145,12 @@
                     "credits": "from INUI 1, released September 4, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-26T17:22:20.556314+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-26T17:24:38.964375+00:00",
+            "pd_wacz_id": "ej4BZrd3"
         },
         {
             "url": "https://kawabatamakoto.bandcamp.com/album/inui-2",
@@ -226,7 +236,12 @@
                     "credits": "from INUI 2, released March 16, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-26T17:22:59.738955+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-26T17:24:46.928183+00:00",
+            "pd_wacz_id": "17UUuzqz"
         },
         {
             "url": "https://kawabatamakoto.bandcamp.com/album/inui-3",
@@ -297,7 +312,12 @@
                     "credits": "from INUI 3, released January 18, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-26T17:23:37.603435+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-26T17:25:05.828741+00:00",
+            "pd_wacz_id": "Aassgd8n"
         },
         {
             "url": "https://kawabatamakoto.bandcamp.com/album/inui-4",
@@ -338,7 +358,12 @@
                     "credits": "from INUI 4, released March 3, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-26T17:24:11.097712+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-26T17:25:15.296608+00:00",
+            "pd_wacz_id": "XRRpPk7H"
         }
     ],
     "_band_id": 1757982307
