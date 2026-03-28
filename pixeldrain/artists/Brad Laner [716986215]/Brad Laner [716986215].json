@@ -21848,6 +21848,83 @@
             "uploaded": true,
             "uploaded_at": "2026-03-20T15:13:11.277299+00:00",
             "pd_wacz_id": "Xq5nXzps"
+        },
+        {
+            "url": "https://bradlaner.bandcamp.com/album/bien-mieux-que-rien",
+            "title": "Bien Mieux Que Rien",
+            "artist": "Brad Laner",
+            "label": null,
+            "band_id": 716986215,
+            "classification": "paid",
+            "tags": [
+                " noise pop",
+                "Experimental",
+                "dream pop",
+                "modular synth",
+                "psychedelic",
+                "shoegaze",
+                "Los Angeles"
+            ],
+            "item_id": 3581045208,
+            "art_id": 2455264653,
+            "is_preorder": false,
+            "datePublished": "27 Mar 2026 00:00:00 GMT",
+            "about": "Compositions for Korg MS-10 March 2026",
+            "credits": "released March 27, 2026",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2455264653_0",
+            "trackinfo": [
+                {
+                    "title": "1",
+                    "duration": "10:08",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2843214625,
+                    "track_num": "1",
+                    "artist": "Brad Laner",
+                    "url": "https://bradlaner.bandcamp.com/track/1-24",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2455264653_0",
+                    "art_id": 2455264653,
+                    "about": null,
+                    "credits": "from Bien Mieux Que Rien, released March 27, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "2",
+                    "duration": "08:46",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3611053773,
+                    "track_num": "2",
+                    "artist": "Brad Laner",
+                    "url": "https://bradlaner.bandcamp.com/track/2-24",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2455264653_0",
+                    "art_id": 2455264653,
+                    "about": null,
+                    "credits": "from Bien Mieux Que Rien, released March 27, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "3",
+                    "duration": "17:05",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2010789639,
+                    "track_num": "3",
+                    "artist": "Brad Laner",
+                    "url": "https://bradlaner.bandcamp.com/track/3-21",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2455264653_0",
+                    "art_id": 2455264653,
+                    "about": null,
+                    "credits": "from Bien Mieux Que Rien, released March 27, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-03-27T15:41:13.971319+00:00",
+            "uploaded_at": "2026-03-27T15:53:08.274181+00:00",
+            "pd_wacz_id": "veFiPvS8"
         }
     ],
     "_band_id": 716986215
