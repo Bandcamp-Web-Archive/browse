@@ -776,7 +776,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-28T02:42:42.731992+00:00"
+            "archived_at": "2026-03-28T02:42:42.731992+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:22:27.063362+00:00",
+            "pd_wacz_id": "SKqL3Zno"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/box-of-tragedy",
@@ -1554,7 +1557,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-28T02:50:36.422707+00:00"
+            "archived_at": "2026-03-28T02:50:36.422707+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:25:54.257224+00:00",
+            "pd_wacz_id": "N8ZYwkw7"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/depressed-yet-unable-to-die",
@@ -1732,7 +1738,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-03-28T02:52:48.323890+00:00"
+            "archived_at": "2026-03-28T02:52:48.323890+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:26:57.250197+00:00",
+            "pd_wacz_id": "AUZ4pMdT"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/endings",
@@ -2508,7 +2517,12 @@
                     "credits": "from Endings, released June 21, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:03:17.698541+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:33:34.401115+00:00",
+            "pd_wacz_id": "qTFLTHfs"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/eternal-afterimages",
@@ -2684,7 +2698,12 @@
                     "credits": "from Eternal Afterimages, released October 21, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:06:29.134491+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:35:15.585273+00:00",
+            "pd_wacz_id": "vVYV4Bev"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/freezing-depth-of-tears",
@@ -2740,7 +2759,12 @@
                     "credits": "from Freezing Depth of Tears, released March 17, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:06:58.352673+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:35:24.199646+00:00",
+            "pd_wacz_id": "SB8BB3d2"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/funerals-became-garbage-disposals",
@@ -2916,7 +2940,12 @@
                     "credits": "from Funerals Became Garbage Disposals, released March 3, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:09:10.774701+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:36:19.905231+00:00",
+            "pd_wacz_id": "hj2FL85a"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/half-hearted-attempt-at-kindness",
@@ -3017,7 +3046,12 @@
                     "credits": "from Half-Hearted Attempt at Kindness, released November 9, 2019",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:09:54.774363+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:36:38.613529+00:00",
+            "pd_wacz_id": "qeSfrVaz"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/hold",
@@ -3073,7 +3107,12 @@
                     "credits": "from Hold, released December 5, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:10:25.059212+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:36:56.333432+00:00",
+            "pd_wacz_id": "gxwcEU4f"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/i-cant-be-the-only-one-who-feels-this-way",
@@ -3159,7 +3198,12 @@
                     "credits": "from I Can't Be The Only One Who Feels This Way, released July 3, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:11:26.876897+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:37:35.614503+00:00",
+            "pd_wacz_id": "ChmuoXvy"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/i-hope-this-will-be-enough-to-end-ourselves",
@@ -3785,7 +3829,12 @@
                     "credits": "from I Hope This Will Be Enough To End Ourselves, released March 5, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:18:42.005558+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:41:23.089910+00:00",
+            "pd_wacz_id": "ymKYRF9N"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/its-time-to-choke-yourself-to-death-with-the-worst-quality-of-gravesoil",
@@ -4261,7 +4310,12 @@
                     "credits": "from It's Time to Choke Yourself to Death with the Worst Quality of Gravesoil, released September 1, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:24:14.879005+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:44:08.218073+00:00",
+            "pd_wacz_id": "HQF9EZUi"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/life-is-so-beautiful",
@@ -4302,7 +4356,12 @@
                     "credits": "from Life is so Beautiful, released July 2, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:24:40.570726+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:44:33.785138+00:00",
+            "pd_wacz_id": "GdAr7bEX"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/megaliths",
@@ -4478,7 +4537,12 @@
                     "credits": "from Megaliths, released September 20, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:27:32.117716+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:46:14.094780+00:00",
+            "pd_wacz_id": "tL2FRCTE"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/miroviainsomnium",
@@ -4594,7 +4658,12 @@
                     "credits": "from Miroviainsomnium, released December 30, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:28:58.266092+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:47:01.977492+00:00",
+            "pd_wacz_id": "piZYETr9"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/no-more-reason-left-for-him-to-die-for-her-now",
@@ -4680,7 +4749,12 @@
                     "credits": "from No More Reason Left for Him to Die for Her Now, released November 12, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:30:07.462801+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:47:29.544863+00:00",
+            "pd_wacz_id": "pPZ9dpLi"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/nobody-will-remember-nobody-will-care",
@@ -4796,7 +4870,12 @@
                     "credits": "from Nobody Will Remember, Nobody Will Care, released May 7, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:31:29.849689+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:48:06.128402+00:00",
+            "pd_wacz_id": "yi5K5T53"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/nothing-changes-yet-everything-is-forever-lost",
@@ -4897,7 +4976,12 @@
                     "credits": "from Nothing Changes, Yet Everything Is Forever Lost, released March 20, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:32:15.738410+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:48:21.350743+00:00",
+            "pd_wacz_id": "ziXFMfgt"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/our-time-together-will-be-forgotten",
@@ -5013,7 +5097,12 @@
                     "credits": "from Our Time Together Will Be Forgotten, released February 5, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:33:39.508047+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:48:54.264939+00:00",
+            "pd_wacz_id": "5p8VniMi"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/salvaged-remains",
@@ -5189,7 +5278,12 @@
                     "credits": "from Salvaged Remains, released February 15, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:35:40.130226+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:49:51.560135+00:00",
+            "pd_wacz_id": "gddfGdDk"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/statues-of-grievance-and-indifference",
@@ -5365,7 +5459,12 @@
                     "credits": "from Statues of Grievance and Indifference, released August 6, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:38:19.010131+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:51:13.706340+00:00",
+            "pd_wacz_id": "DugpA18H"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/the-burden",
@@ -5541,7 +5640,12 @@
                     "credits": "from The Burden, released October 6, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:40:14.426741+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:51:56.578654+00:00",
+            "pd_wacz_id": "HRW82EoZ"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/the-darkness",
@@ -5717,7 +5821,12 @@
                     "credits": "from The Darkness, released November 3, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:42:22.138186+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:53:15.204550+00:00",
+            "pd_wacz_id": "JuARFwUE"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/the-grief-never-ends",
@@ -5923,7 +6032,12 @@
                     "credits": "from The Grief Never Ends, released November 15, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:46:48.120026+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:55:41.129289+00:00",
+            "pd_wacz_id": "3VQF3rt1"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/the-insipid",
@@ -6099,7 +6213,12 @@
                     "credits": "from The Insipid, released August 4, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:49:07.162842+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:56:46.619629+00:00",
+            "pd_wacz_id": "eShBaFe8"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/the-same-pitch-black-light-blinds-me-since-more-than-thirty-years",
@@ -6575,7 +6694,12 @@
                     "credits": "from The Same Pitch Black Light Blinds Me Since More Than Thirty Years, released December 1, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:54:14.712041+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T04:59:54.814912+00:00",
+            "pd_wacz_id": "M6nBHGfk"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/the-unjust",
@@ -6751,7 +6875,12 @@
                     "credits": "from The Unjust, released May 5, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:56:43.950085+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T05:00:59.348791+00:00",
+            "pd_wacz_id": "kGTR1aJV"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/tired",
@@ -6927,7 +7056,12 @@
                     "credits": "from Tired, released February 12, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T03:58:39.884280+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T05:01:53.039371+00:00",
+            "pd_wacz_id": "bpENu5Hy"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/together-death-means-nothing",
@@ -7103,7 +7237,12 @@
                     "credits": "from Together Death Means Nothing, released September 2, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T04:00:45.094387+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T05:02:51.749501+00:00",
+            "pd_wacz_id": "FvVGBgjx"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/vantablack-rose",
@@ -7159,7 +7298,12 @@
                     "credits": "from Vantablack Rose, released May 22, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T04:01:11.414518+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T05:03:06.266439+00:00",
+            "pd_wacz_id": "366fKGsb"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/very-tired",
@@ -7335,7 +7479,12 @@
                     "credits": "from Very Tired, released March 21, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T04:03:18.090372+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T05:04:28.329229+00:00",
+            "pd_wacz_id": "gR3DJZxJ"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/we-should-finish-this",
@@ -7421,7 +7570,12 @@
                     "credits": "from We Should Finish This, released January 9, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T04:04:24.853668+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T05:05:16.518722+00:00",
+            "pd_wacz_id": "Y2WN8ezG"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/when-being-good-stops-working",
@@ -7462,7 +7616,12 @@
                     "credits": "from When Being Good Stops Working, released March 25, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T04:04:47.701317+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T05:05:31.341344+00:00",
+            "pd_wacz_id": "VrmynQZU"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/when-i-tried-to-heal-a-wound-i-just-made-it-worse",
@@ -7503,7 +7662,12 @@
                     "credits": "from When I Tried To Heal A Wound, I Just Made It Worse, released September 11, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T04:05:09.701615+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T05:05:40.426906+00:00",
+            "pd_wacz_id": "ww7u27DA"
         },
         {
             "url": "https://ikunaa.bandcamp.com/album/when-my-tears-evaporate-in-the-heat-of-the-summer",
@@ -7679,7 +7843,12 @@
                     "credits": "from When My Tears Evaporate in The Heat of The Summer, released June 8, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-03-28T04:07:30.559347+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-28T05:07:44.506253+00:00",
+            "pd_wacz_id": "oenzz9K1"
         }
     ],
     "_band_id": 3312758878
