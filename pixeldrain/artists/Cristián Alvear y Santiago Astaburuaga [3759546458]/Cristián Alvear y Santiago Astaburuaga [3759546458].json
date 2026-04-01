@@ -1,0 +1,90 @@
+{
+    "Cristián Alvear y Santiago Astaburuaga": [
+        {
+            "url": "https://alvearastaburuaga.bandcamp.com/track/casey-anderson-valley-possible-dust",
+            "title": "Casey Anderson: valley / possible dust",
+            "artist": "Cristián Alvear y Santiago Astaburuaga",
+            "label": null,
+            "band_id": 3759546458,
+            "classification": "nyp",
+            "tags": [
+                "Casey Anderson",
+                "Experimental",
+                "Valparaíso"
+            ],
+            "item_id": 1914790629,
+            "art_id": 2956505060,
+            "is_preorder": null,
+            "datePublished": "02 Feb 2018 20:36:26 GMT",
+            "about": "Casey Anderson: valley / possible dust\nConcierto a 10 radios grabado el 14 de agosto de 2017 en El Internado, Valparaíso",
+            "credits": "released February 2, 2018",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2956505060_0",
+            "trackinfo": [
+                {
+                    "title": "Casey Anderson: valley / possible dust",
+                    "duration": "24:17",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1914790629,
+                    "track_num": "None",
+                    "artist": "Cristián Alvear y Santiago Astaburuaga",
+                    "url": "https://alvearastaburuaga.bandcamp.com/track/casey-anderson-valley-possible-dust",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2956505060_0",
+                    "art_id": 2956505060,
+                    "about": "Casey Anderson: valley / possible dust\nConcierto a 10 radios grabado el 14 de agosto de 2017 en El Internado, Valparaíso",
+                    "credits": "released February 2, 2018",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-03-31T12:58:35.580152+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-31T12:59:05.806866+00:00",
+            "pd_wacz_id": "22b8aC1t"
+        },
+        {
+            "url": "https://alvearastaburuaga.bandcamp.com/track/takahiro-kawaguchi-tuning",
+            "title": "Takahiro Kawaguchi: Tuning",
+            "artist": "Cristián Alvear y Santiago Astaburuaga",
+            "label": null,
+            "band_id": 3759546458,
+            "classification": "paid",
+            "tags": [
+                "Experimental",
+                "Valparaíso"
+            ],
+            "item_id": 1301874417,
+            "art_id": 4226510639,
+            "is_preorder": null,
+            "datePublished": "02 Feb 2018 21:10:01 GMT",
+            "about": "Takahiro Kawaguchi: Tuning\nGrabación en Santiago el 19 de abril de 2017.",
+            "credits": "",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a4226510639_0",
+            "trackinfo": [
+                {
+                    "title": "Takahiro Kawaguchi: Tuning",
+                    "duration": "15:56",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1301874417,
+                    "track_num": "None",
+                    "artist": "Cristián Alvear y Santiago Astaburuaga",
+                    "url": "https://alvearastaburuaga.bandcamp.com/track/takahiro-kawaguchi-tuning",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a4226510639_0",
+                    "art_id": 4226510639,
+                    "about": "Takahiro Kawaguchi: Tuning\nGrabación en Santiago el 19 de abril de 2017.",
+                    "credits": "",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-03-31T12:58:52.681906+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-03-31T12:59:12.509046+00:00",
+            "pd_wacz_id": "s7SCPgGh"
+        }
+    ],
+    "_band_id": 3759546458
+}
