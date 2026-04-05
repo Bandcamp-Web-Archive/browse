@@ -3668,6 +3668,58 @@
             "uploaded": true,
             "uploaded_at": "2026-03-26T05:52:16.693310+00:00",
             "pd_wacz_id": "SHD6jcoe"
+        },
+        {
+            "url": "https://cranksturgeon.bandcamp.com/track/vacueloesssoh",
+            "title": "Vacueloesssoh",
+            "artist": "Crank Sturgeon",
+            "label": null,
+            "band_id": 2841155956,
+            "classification": "paid",
+            "tags": [
+                "Computer Jizz",
+                "Experimental",
+                "Husophonica",
+                "crank sturgeon",
+                "cut up noise",
+                "field recordings",
+                "gurgles",
+                "junk noise",
+                "musique concrete",
+                "verbal development",
+                "voice samples",
+                "California"
+            ],
+            "item_id": 658310609,
+            "art_id": 3179163478,
+            "is_preorder": null,
+            "datePublished": "31 Mar 2026 00:00:00 GMT",
+            "about": "This here bit of breech and banter was originally released in a compilation on Computer Jizz. The Sturgeonary Impertinent Committee for Sonic Obsolescence determined that such should be held accountable here parts as well.",
+            "credits": "released March 31, 2026\nThanks to the Computer Jizz family of ordained lichen scrubbers, the field marshals at our former CatBox Studios in the Inland Empire, and perhaps even the month of February - for not sucking up too much bandwidth.",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a3179163478_0",
+            "trackinfo": [
+                {
+                    "title": "Vacueloesssoh",
+                    "duration": "10:23",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 658310609,
+                    "track_num": "None",
+                    "artist": "Crank Sturgeon",
+                    "url": "https://cranksturgeon.bandcamp.com/track/vacueloesssoh",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3179163478_0",
+                    "art_id": 3179163478,
+                    "about": "This here bit of breech and banter was originally released in a compilation on Computer Jizz. The Sturgeonary Impertinent Committee for Sonic Obsolescence determined that such should be held accountable here parts as well.",
+                    "credits": "released March 31, 2026\nThanks to the Computer Jizz family of ordained lichen scrubbers, the field marshals at our former CatBox Studios in the Inland Empire, and perhaps even the month of February - for not sucking up too much bandwidth.",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-04-04T19:54:05.151456+00:00",
+            "uploaded_at": "2026-04-04T19:54:10.984900+00:00",
+            "pd_wacz_id": "w2kG6WBk"
         }
     ],
     "_band_id": 2841155956

@@ -1,0 +1,77 @@
+{
+    "bardo todol": [
+        {
+            "url": "https://bardotodolwmld.bandcamp.com/album/le-trompeta-morse-walrus-concreta",
+            "title": "le trompeta morse walrus concreta",
+            "artist": "Bardo Todol y sus aves sin Nido",
+            "label": "flat plastic home media",
+            "band_id": 1809520253,
+            "classification": "paid",
+            "tags": [
+                "Experimental",
+                "Córdoba"
+            ],
+            "item_id": 1263168657,
+            "art_id": 2907875653,
+            "is_preorder": false,
+            "datePublished": "11 Nov 2022 00:00:00 GMT",
+            "about": null,
+            "credits": "released November 11, 2022\nBardo Todol y sus aves sin Nido is Pablo Picco using a Pocket Trumpet, a 4 track recorder and overdubs.\nRecorded in Salsipuedes, Argentina in 2022.\nart/layout/design by tg\nmastered by tg",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2907875653_0",
+            "trackinfo": [
+                {
+                    "title": "La Trompeta más grande del mundo",
+                    "duration": "10:10",
+                    "lyrics": null,
+                    "label": "flat plastic home media",
+                    "track_id": 1105759605,
+                    "track_num": "1",
+                    "artist": "Bardo Todol y sus aves sin Nido",
+                    "url": "https://bardotodolwmld.bandcamp.com/track/la-trompeta-m-s-grande-del-mundo",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2907875653_0",
+                    "art_id": 2907875653,
+                    "about": null,
+                    "credits": "from le trompeta morse walrus concreta, released November 11, 2022",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "La Morsa más chiquita del mundo",
+                    "duration": "10:19",
+                    "lyrics": null,
+                    "label": "flat plastic home media",
+                    "track_id": 3121083602,
+                    "track_num": "2",
+                    "artist": "Bardo Todol y sus aves sin Nido",
+                    "url": "https://bardotodolwmld.bandcamp.com/track/la-morsa-m-s-chiquita-del-mundo",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2907875653_0",
+                    "art_id": 2907875653,
+                    "about": null,
+                    "credits": "from le trompeta morse walrus concreta, released November 11, 2022",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "La Morsa más chiquita del mundo (excerpt)",
+                    "duration": "02:16",
+                    "lyrics": null,
+                    "label": "flat plastic home media",
+                    "track_id": 4062662670,
+                    "track_num": "3",
+                    "artist": "Bardo Todol y sus aves sin Nido",
+                    "url": "https://bardotodolwmld.bandcamp.com/track/la-morsa-m-s-chiquita-del-mundo-excerpt",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2907875653_0",
+                    "art_id": 2907875653,
+                    "about": null,
+                    "credits": "from le trompeta morse walrus concreta, released November 11, 2022",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-04T23:47:23.962416+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-04T23:47:41.058650+00:00",
+            "pd_wacz_id": "w9Fu5Z7q"
+        }
+    ],
+    "_band_id": 1809520253
+}

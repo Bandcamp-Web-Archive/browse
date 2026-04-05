@@ -1,0 +1,113 @@
+{
+    "Daniel Carter": [
+        {
+            "url": "https://danielcarter.bandcamp.com/album/if-not-for-them-ep",
+            "title": "If Not For Them EP",
+            "artist": "Daniel Carter",
+            "label": null,
+            "band_id": 2806337071,
+            "classification": "nyp",
+            "tags": [
+                "Alternative",
+                "Indie",
+                "Leicester",
+                "Psychedelic",
+                "Punk",
+                "folk",
+                "Leicester"
+            ],
+            "item_id": 1565242461,
+            "art_id": 626926716,
+            "is_preorder": false,
+            "datePublished": "01 Dec 2010 00:00:00 GMT",
+            "about": null,
+            "credits": "released December 1, 2010\nWritten & produced by Daniel Carter\nPlayed by:\nBen Anglesea - Bass\nDaniel Carter - Guitar, organ, vocals\nDave Higham - Organ, synthesizer\nJack Moss - Drums\nNick Surface - Guitar\nArtwork by Brajit Bacon\nwww.facebook.com/songsofdanielcarter",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a0626926716_0",
+            "trackinfo": [
+                {
+                    "title": "If Not For Them",
+                    "duration": "10:30",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 171488111,
+                    "track_num": "1",
+                    "artist": "Daniel Carter",
+                    "url": "https://danielcarter.bandcamp.com/track/if-not-for-them",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0626926716_0",
+                    "art_id": 626926716,
+                    "about": null,
+                    "credits": "from If Not For Them EP, track released January 17, 2011\nWords and music by Daniel Carter\nPlayed by\nDaniel Carter - Guitar, Organ, Vocals\nDave Higham - Synthesizer\nJack Moss - Drums\nNick Surface - Guitar",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "It'd Be Nothing",
+                    "duration": "09:58",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2667033830,
+                    "track_num": "2",
+                    "artist": "Daniel Carter",
+                    "url": "https://danielcarter.bandcamp.com/track/itd-be-nothing",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0626926716_0",
+                    "art_id": 626926716,
+                    "about": null,
+                    "credits": "from If Not For Them EP, track released January 17, 2011\nMusic and Lyrics by Daniel Carter\nPlayed by\nBen Anglesea - Bass\nDaniel Carter - Guitar, vocals\nDave Higham - Organ\nJack Moss - Drums",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-05T01:58:27.267726+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-05T01:58:56.175119+00:00",
+            "pd_wacz_id": "HpAAxekm"
+        },
+        {
+            "url": "https://danielcarter.bandcamp.com/album/weekends-with-you",
+            "title": "Weekends With You",
+            "artist": "Daniel Carter",
+            "label": null,
+            "band_id": 2806337071,
+            "classification": "nyp",
+            "tags": [
+                "Alternative",
+                "Indie",
+                "Leicester",
+                "Psychedelic",
+                "folk",
+                "Leicester"
+            ],
+            "item_id": 2282000863,
+            "art_id": 4253093927,
+            "is_preorder": false,
+            "datePublished": "01 Jul 2007 00:00:00 GMT",
+            "about": null,
+            "credits": "released July 1, 2007\nWritten, produced and played by Daniel Carter",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a4253093927_0",
+            "trackinfo": [
+                {
+                    "title": "Weekends With You",
+                    "duration": "05:26",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1237972635,
+                    "track_num": "1",
+                    "artist": "Daniel Carter",
+                    "url": "https://danielcarter.bandcamp.com/track/weekends-with-you",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a4253093927_0",
+                    "art_id": 4253093927,
+                    "about": null,
+                    "credits": "from Weekends With You, track released January 22, 2011",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-05T01:58:48.531369+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-05T01:59:17.581087+00:00",
+            "pd_wacz_id": "bS85N6Le"
+        }
+    ],
+    "_band_id": 2806337071
+}

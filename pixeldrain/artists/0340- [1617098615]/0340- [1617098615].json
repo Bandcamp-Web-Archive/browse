@@ -1563,6 +1563,68 @@
             "uploaded": true,
             "uploaded_at": "2026-03-14T17:02:59.899391+00:00",
             "pd_wacz_id": "rH4uNMeJ"
+        },
+        {
+            "url": "https://0340.bandcamp.com/album/drown",
+            "title": "утопись как меня ты утопила // drown",
+            "artist": "0340///",
+            "label": null,
+            "band_id": 1617098615,
+            "classification": "nyp",
+            "tags": [
+                "Experimental",
+                "ambient",
+                "drown",
+                "noise",
+                "wave",
+                "witch house",
+                "witchhouse"
+            ],
+            "item_id": 1708877117,
+            "art_id": 3436738191,
+            "is_preorder": false,
+            "datePublished": "03 Apr 2026 20:18:55 GMT",
+            "about": null,
+            "credits": "released April 3, 2026",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a3436738191_0",
+            "trackinfo": [
+                {
+                    "title": "утопись как меня ты утопила // drown",
+                    "duration": "06:50",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3804204034,
+                    "track_num": "1",
+                    "artist": "0340///",
+                    "url": "https://0340.bandcamp.com/track/drown",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1562153438_0",
+                    "art_id": 1562153438,
+                    "about": null,
+                    "credits": "from утопись как меня ты утопила // drown, released April 3, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "утопись как меня ты утопила // drown - wh()rsion",
+                    "duration": "06:51",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2151386847,
+                    "track_num": "2",
+                    "artist": "0340///",
+                    "url": "https://0340.bandcamp.com/track/drown-wh-rsion",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3991240899_0",
+                    "art_id": 3991240899,
+                    "about": null,
+                    "credits": "from утопись как меня ты утопила // drown, released April 3, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-04-04T20:14:31.244318+00:00",
+            "uploaded_at": "2026-04-04T20:14:38.397155+00:00",
+            "pd_wacz_id": "tUxP5UpN"
         }
     ],
     "_band_id": 1617098615

@@ -1,0 +1,47 @@
+{
+    "Bardo Todol": [
+        {
+            "url": "https://bardotodol.bandcamp.com/album/a-full-cosmic-sound-and-yn-split",
+            "title": "A Full Cosmic Sound and Ø+yn - Split",
+            "artist": "Bardo Todol",
+            "label": null,
+            "band_id": 2910193353,
+            "classification": "paid",
+            "tags": [
+                "Experimental",
+                "Argentina"
+            ],
+            "item_id": 1453785103,
+            "art_id": 1076760546,
+            "is_preorder": false,
+            "datePublished": "10 Feb 2016 12:20:04 GMT",
+            "about": null,
+            "credits": "released February 10, 2016",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a1076760546_0",
+            "trackinfo": [
+                {
+                    "title": "Side B - Ø+yn en Cromo",
+                    "duration": "29:39",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3231947044,
+                    "track_num": "1",
+                    "artist": "Bardo Todol",
+                    "url": "https://bardotodol.bandcamp.com/track/side-b-yn-en-cromo",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1076760546_0",
+                    "art_id": 1076760546,
+                    "about": null,
+                    "credits": "from A Full Cosmic Sound and Ø+yn - Split, released February 10, 2016",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-04T23:46:44.187969+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-04T23:46:54.565857+00:00",
+            "pd_wacz_id": "RpXJdfF5"
+        }
+    ],
+    "_band_id": 2910193353
+}

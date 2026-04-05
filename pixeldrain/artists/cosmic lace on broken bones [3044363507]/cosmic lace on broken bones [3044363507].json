@@ -64207,6 +64207,52 @@
             "uploaded": true,
             "uploaded_at": "2026-03-25T02:20:50.087327+00:00",
             "pd_wacz_id": "t9DJh617"
+        },
+        {
+            "url": "https://cosmiclaceonbrokenbones.bandcamp.com/album/astrologers",
+            "title": "astrologers",
+            "artist": "cosmic lace on broken bones",
+            "label": null,
+            "band_id": 3044363507,
+            "classification": "nyp",
+            "tags": [
+                "Ambient",
+                "dark ambient",
+                "drone",
+                "drone ambient",
+                "experimental electronic",
+                "Dortmund"
+            ],
+            "item_id": 3139856404,
+            "art_id": 3049891632,
+            "is_preorder": false,
+            "datePublished": "04 Apr 2026 23:00:28 GMT",
+            "about": "\"Astrologers\" is a dark ambient album that transports listeners to the ancient world of celestial mystics. Through ethereal soundscapes and haunting textures, it evokes the secretive rituals, cosmic insights, and timeless wisdom of early astrologers gazing at the stars, deciphering the mysteries of the universe from their ancient observatories.",
+            "credits": "released April 4, 2026",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a3049891632_0",
+            "trackinfo": [
+                {
+                    "title": "astrologers",
+                    "duration": "01:00:00",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2375971964,
+                    "track_num": "1",
+                    "artist": "cosmic lace on broken bones",
+                    "url": "https://cosmiclaceonbrokenbones.bandcamp.com/track/astrologers",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3049891632_0",
+                    "art_id": 3049891632,
+                    "about": null,
+                    "credits": "from astrologers, released April 4, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-04-04T23:14:03.904587+00:00",
+            "uploaded_at": "2026-04-04T23:14:11.850867+00:00",
+            "pd_wacz_id": "qhRz2wvD"
         }
     ],
     "_band_id": 3044363507
