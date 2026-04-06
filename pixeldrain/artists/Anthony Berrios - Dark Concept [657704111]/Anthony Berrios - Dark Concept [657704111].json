@@ -1,0 +1,83 @@
+{
+    "Anthony Berrios - Dark Concept": [
+        {
+            "url": "https://anthonyberrios.bandcamp.com/album/el-nacimiento-es-una-tragedia",
+            "title": "EL NACIMIENTO ES UNA TRAGEDIA",
+            "artist": "Anthony Berrios",
+            "label": null,
+            "band_id": 657704111,
+            "classification": "paid",
+            "tags": [
+                "Experimental",
+                "Noise Drone Experimental",
+                "dark ambient",
+                "dark drone",
+                "drone",
+                "drone noise",
+                "noise drone",
+                "Valencia"
+            ],
+            "item_id": 4174017703,
+            "art_id": 2160946754,
+            "is_preorder": false,
+            "datePublished": "20 Mar 2026 00:00:00 GMT",
+            "about": null,
+            "credits": "released March 20, 2026",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2160946754_0",
+            "trackinfo": [
+                {
+                    "title": "DONDE INICIA ESTA LUZ CONTAMINADA",
+                    "duration": "02:29",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 796180821,
+                    "track_num": "1",
+                    "artist": "Anthony Berrios",
+                    "url": "https://anthonyberrios.bandcamp.com/track/donde-inicia-esta-luz-contaminada-3",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2828584072_0",
+                    "art_id": 2828584072,
+                    "about": null,
+                    "credits": "from EL NACIMIENTO ES UNA TRAGEDIA, released March 20, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "VIGAS SOBRE NUESTROS CUERPOS",
+                    "duration": "10:13",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3411842293,
+                    "track_num": "2",
+                    "artist": "Anthony Berrios",
+                    "url": "https://anthonyberrios.bandcamp.com/track/vigas-sobre-nuestros-cuerpos-2",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2085910379_0",
+                    "art_id": 2085910379,
+                    "about": null,
+                    "credits": "from EL NACIMIENTO ES UNA TRAGEDIA, released March 20, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "CON UN RESPIRO FUIMOS SENTENCIADOS",
+                    "duration": "11:38",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 846348544,
+                    "track_num": "3",
+                    "artist": "Anthony Berrios",
+                    "url": "https://anthonyberrios.bandcamp.com/track/con-un-respiro-fuimos-sentenciados",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0026075206_0",
+                    "art_id": 26075206,
+                    "about": null,
+                    "credits": "from EL NACIMIENTO ES UNA TRAGEDIA, released March 20, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-05T17:55:51.281182+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-05T17:56:03.629584+00:00",
+            "pd_wacz_id": "HkyNZk31"
+        }
+    ],
+    "_band_id": 657704111
+}
