@@ -1,0 +1,66 @@
+{
+    "Francisco López": [
+        {
+            "url": "https://francisco-lopez.bandcamp.com/album/1984",
+            "title": "1984",
+            "artist": "Francisco López",
+            "label": "Robert & Leopold",
+            "band_id": 2251298992,
+            "classification": "paid",
+            "tags": [
+                "Experimental",
+                "avantgarde",
+                "electroacoustic",
+                "field recording",
+                "tape music",
+                "Netherlands"
+            ],
+            "item_id": 1598709058,
+            "art_id": 2574120422,
+            "is_preorder": false,
+            "datePublished": "30 Dec 2020 00:00:00 GMT",
+            "about": "For almost a decade, starting in 1980, sound artist Francisco López worked almost exclusively with walkman recorders and cheap cassette players. From the beginning, sound recordings were intuitively for López “worlds in themselves”, always markedly different from the original “reality”, always full of their own thrilling features. During this time, López developed his own simple, but efficient, techniques for sound transformation using only cassettes. The limitations placed on López’s work transformed into a creative advantage and underlying ethos that López carries until present day: the most essential tools are spiritual, not technical. For his most recent release, Francisco López has re-edited and remastered selections from his early source material cassettes specifically from the year 1984. This series of revisited time frames from the early 1980’s captures López’s earliest creative palette, re-purposed for use in his current statement.",
+            "credits": "released December 30, 2020\nCreated at Messor Studios (Madrid) in 1984.\nRe-edited and re-mastered at Dune Studio (Loosduinen) in 2020.\nEdition of 100.",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2574120422_0",
+            "trackinfo": [
+                {
+                    "title": "17'00\"",
+                    "duration": "17:00",
+                    "lyrics": null,
+                    "label": "Robert & Leopold",
+                    "track_id": 2723210246,
+                    "track_num": "1",
+                    "artist": "Francisco López",
+                    "url": "https://francisco-lopez.bandcamp.com/track/1700",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2574120422_0",
+                    "art_id": 2574120422,
+                    "about": null,
+                    "credits": "from 1984, released December 30, 2020",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "18'36\"",
+                    "duration": "18:36",
+                    "lyrics": null,
+                    "label": "Robert & Leopold",
+                    "track_id": 432209060,
+                    "track_num": "2",
+                    "artist": "Francisco López",
+                    "url": "https://francisco-lopez.bandcamp.com/track/1836",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2574120422_0",
+                    "art_id": 2574120422,
+                    "about": null,
+                    "credits": "from 1984, released December 30, 2020",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T02:29:40.864605+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T02:29:50.809891+00:00",
+            "pd_wacz_id": "jCsAzems"
+        }
+    ],
+    "_band_id": 2251298992
+}
