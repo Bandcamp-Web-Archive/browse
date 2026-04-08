@@ -130,7 +130,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-04-07T02:53:08.793458+00:00"
+            "archived_at": "2026-04-07T02:53:08.793458+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:25:47.568620+00:00",
+            "pd_wacz_id": "TDqki2JG"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/32016",
@@ -307,7 +310,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-04-07T02:54:20.906149+00:00"
+            "archived_at": "2026-04-07T02:54:20.906149+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:26:23.656955+00:00",
+            "pd_wacz_id": "5KVLys9x"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/about-your-belief-remastered",
@@ -454,7 +460,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-04-07T02:55:19.709826+00:00"
+            "archived_at": "2026-04-07T02:55:19.709826+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:26:43.585626+00:00",
+            "pd_wacz_id": "MEAb5hDG"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/archaeological-testing-in-the-land-of-monkeys",
@@ -646,7 +655,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-04-07T02:56:34.049102+00:00"
+            "archived_at": "2026-04-07T02:56:34.049102+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:27:09.695786+00:00",
+            "pd_wacz_id": "8qLP7MKp"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/august-53rd",
@@ -808,7 +820,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-04-07T02:57:41.059266+00:00"
+            "archived_at": "2026-04-07T02:57:41.059266+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:27:42.490384+00:00",
+            "pd_wacz_id": "RFTB39k2"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/cassette-recordings-1983-1995-remastered",
@@ -970,7 +985,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-04-07T02:58:42.931505+00:00"
+            "archived_at": "2026-04-07T02:58:42.931505+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:28:18.813933+00:00",
+            "pd_wacz_id": "GYuLe2MW"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/cliff-house-hotel",
@@ -1027,7 +1045,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-04-07T02:59:10.453876+00:00"
+            "archived_at": "2026-04-07T02:59:10.453876+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:28:28.815180+00:00",
+            "pd_wacz_id": "TEdzFzHU"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/disassociated",
@@ -1144,7 +1165,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-04-07T02:59:57.999311+00:00"
+            "archived_at": "2026-04-07T02:59:57.999311+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:29:13.693828+00:00",
+            "pd_wacz_id": "V58vpQHr"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/environmental-adjustments-march-1997",
@@ -1259,7 +1283,12 @@
                     "credits": "from Environmental Adjustments, March 1997, released May 1, 1997",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:00:48.573632+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:29:20.724817+00:00",
+            "pd_wacz_id": "yoU7aV4t"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/horde",
@@ -1479,7 +1508,12 @@
                     "credits": "from Horde, released October 7, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:02:19.505374+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:29:33.116325+00:00",
+            "pd_wacz_id": "df155CaJ"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/mutations-and-synthetics",
@@ -1609,7 +1643,12 @@
                     "credits": "from Mutations and Synthetics, released July 24, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:03:12.166062+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:30:44.980334+00:00",
+            "pd_wacz_id": "S1nJmWUi"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/nigths-and-profecy-special-multimedia-edition",
@@ -1816,7 +1855,12 @@
                     "credits": "from Nigths and Profecy (Special Multimedia Edition), released June 18, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:04:31.329265+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:33:04.996183+00:00",
+            "pd_wacz_id": "mWDCrhFF"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/objects-of-disassociation-volume-1",
@@ -1931,7 +1975,12 @@
                     "credits": "from Objects of Disassociation Volume 1, released June 12, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:05:24.217555+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:33:25.048486+00:00",
+            "pd_wacz_id": "Jb4q11w2"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/predicament-recordings-volume-i-32020-52020",
@@ -2076,7 +2125,12 @@
                     "credits": "from Predicament Recordings Volume I 3.2020-5.2020, released February 5, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:06:25.529342+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:33:37.796830+00:00",
+            "pd_wacz_id": "Xd2Cksj1"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/predicament-recordings-volume-ii-22021",
@@ -2146,7 +2200,12 @@
                     "credits": "from Predicament Recordings Volume II  2.2021, released March 11, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:07:00.167154+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:33:44.464743+00:00",
+            "pd_wacz_id": "R4qTzvrZ"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/red-fades-first",
@@ -2246,7 +2305,12 @@
                     "credits": "from Red Fades First, released October 31, 2014",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:07:46.712810+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:33:53.746140+00:00",
+            "pd_wacz_id": "b3TeAQi9"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/revisionist-history",
@@ -2481,7 +2545,12 @@
                     "credits": "from Revisionist History, released June 24, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:09:20.035051+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:34:01.658170+00:00",
+            "pd_wacz_id": "jdRuWMbS"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/reviving-seasonal-practices",
@@ -2611,7 +2680,12 @@
                     "credits": "from Reviving Seasonal Practices, released October 31, 2024",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:10:16.633892+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:34:08.945299+00:00",
+            "pd_wacz_id": "gvEYyL2n"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/rusted-articles-1874-from-1968-2020-reconfiguration",
@@ -2771,7 +2845,12 @@
                     "credits": "from Rusted Articles 1874 from 1968 (2020 Reconfiguration), released September 11, 2023",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:11:19.484157+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:34:22.630822+00:00",
+            "pd_wacz_id": "g4BKrfP9"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/scaath-catfish",
@@ -2946,7 +3025,12 @@
                     "credits": "from Scaath Catfish, released March 25, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:12:32.979345+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:34:30.816522+00:00",
+            "pd_wacz_id": "xQMk6TqH"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/telegnostic-devices",
@@ -3106,7 +3190,12 @@
                     "credits": "from Telegnostic Devices, released November 20, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:13:39.053212+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:34:46.481954+00:00",
+            "pd_wacz_id": "91USfPLm"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/the-day-1982-contaminated-1971-2",
@@ -3266,7 +3355,12 @@
                     "credits": "from The Day 1982 Contaminated 1971, released November 28, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:14:45.159148+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:34:54.339826+00:00",
+            "pd_wacz_id": "t7v8SSVh"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/the-recounting-of-night-time-2",
@@ -3411,7 +3505,12 @@
                     "credits": "from The Recounting of Night Time, released November 1, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:15:54.171173+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:35:03.549108+00:00",
+            "pd_wacz_id": "uRkdhNyM"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/the-unlistening-place",
@@ -3556,7 +3655,12 @@
                     "credits": "from The Unlistening Place, released September 1, 2017",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:16:54.885526+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:35:10.383283+00:00",
+            "pd_wacz_id": "jYt6tj3T"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/three-days-at-qurna",
@@ -3701,7 +3805,12 @@
                     "credits": "from Three Days at Qurna, released December 15, 2013",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:17:57.222556+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:35:17.189313+00:00",
+            "pd_wacz_id": "iFSCqYMP"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/very-early-fragments",
@@ -3846,7 +3955,12 @@
                     "credits": "from Very Early Fragments, released March 1, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:19:00.413433+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:35:24.068685+00:00",
+            "pd_wacz_id": "SKjzEXb8"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/what-is-the-light-of",
@@ -3991,7 +4105,12 @@
                     "credits": "from What is the Light of?, released January 18, 2013",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:20:06.596354+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:35:46.525938+00:00",
+            "pd_wacz_id": "qRTUKGqV"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/album/zombi-traditions-37-years",
@@ -4241,7 +4360,12 @@
                     "credits": "from Zombi Traditions (37 Years), released September 7, 2021",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:21:47.943371+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:36:02.623739+00:00",
+            "pd_wacz_id": "A2paoNRX"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/track/1986",
@@ -4281,7 +4405,12 @@
                     "credits": "released February 20, 2016",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:22:08.701125+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:25:56.015257+00:00",
+            "pd_wacz_id": "5Bpbi5Ui"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/track/ballad-for-c19",
@@ -4321,7 +4450,12 @@
                     "credits": "released March 21, 2020",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:22:27.238931+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:27:53.135885+00:00",
+            "pd_wacz_id": "L3ZGrGHV"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/track/hounded-to-the-steppes",
@@ -4361,7 +4495,12 @@
                     "credits": "released December 13, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:22:46.458488+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:29:38.881863+00:00",
+            "pd_wacz_id": "bf2UWGjr"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/track/january-18-2018",
@@ -4401,7 +4540,12 @@
                     "credits": "released February 1, 2018",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:23:09.591668+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:30:23.972977+00:00",
+            "pd_wacz_id": "PYzbhtcf"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/track/navigating-frozen-nigeria-2012-remaster",
@@ -4441,7 +4585,12 @@
                     "credits": "released March 10, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:23:30.179814+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:30:59.942396+00:00",
+            "pd_wacz_id": "qvzF6jdv"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/track/night-roar-2025",
@@ -4481,7 +4630,12 @@
                     "credits": "released February 5, 2025",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:23:49.478904+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:32:43.840837+00:00",
+            "pd_wacz_id": "61Tmv3rg"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/track/nine-fragmentary-lessons",
@@ -4521,7 +4675,12 @@
                     "credits": "released January 1, 2022",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:24:10.739710+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:33:11.725114+00:00",
+            "pd_wacz_id": "Zp62Co7k"
         },
         {
             "url": "https://fossilaerosol.bandcamp.com/track/some-historical-shrines-of-1934",
@@ -4561,7 +4720,12 @@
                     "credits": "released May 8, 2015",
                     "license": "all rights reserved"
                 }
-            ]
+            ],
+            "archived": true,
+            "archived_at": "2026-04-07T03:24:27.334317+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-07T03:34:37.708194+00:00",
+            "pd_wacz_id": "bkZxts6k"
         }
     ],
     "_band_id": 2969438463
