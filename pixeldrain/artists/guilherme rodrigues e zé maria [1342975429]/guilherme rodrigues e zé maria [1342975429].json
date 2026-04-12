@@ -1,0 +1,63 @@
+{
+    "guilherme rodrigues e zé maria": [
+        {
+            "url": "https://guilhermerodrigueszemaria.bandcamp.com/album/morte",
+            "title": "morte",
+            "artist": "guilherme rodrigues e zé maria",
+            "label": null,
+            "band_id": 1342975429,
+            "classification": "nyp",
+            "tags": [
+                "Experimental",
+                "drone",
+                "Lisbon"
+            ],
+            "item_id": 3232968048,
+            "art_id": 3107926449,
+            "is_preorder": false,
+            "datePublished": "22 Feb 2026 00:00:00 GMT",
+            "about": "2023-2026",
+            "credits": "released February 22, 2026\nmúsica escrita e tocada por guilherme rodrigues e zé maria\ngravação e mixagem pelo tomé silva",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a3107926449_0",
+            "trackinfo": [
+                {
+                    "title": "morte",
+                    "duration": "22:03",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 693310187,
+                    "track_num": "1",
+                    "artist": "guilherme rodrigues e zé maria",
+                    "url": "https://guilhermerodrigueszemaria.bandcamp.com/track/morte",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3107926449_0",
+                    "art_id": 3107926449,
+                    "about": null,
+                    "credits": "from morte, released February 22, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "morte lenta",
+                    "duration": "44:06",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3569648905,
+                    "track_num": "2",
+                    "artist": "guilherme rodrigues e zé maria",
+                    "url": "https://guilhermerodrigueszemaria.bandcamp.com/track/morte-lenta",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3107926449_0",
+                    "art_id": 3107926449,
+                    "about": "música escrita e tocada por guilherme rodrigues e zé maria\ngravação e mixagem pelo tomé silva\nobrigado à sara",
+                    "credits": "from morte, released February 22, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-11T17:07:49.415582+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-11T17:07:57.677035+00:00",
+            "pd_wacz_id": "niMvZZA4"
+        }
+    ],
+    "_band_id": 1342975429
+}

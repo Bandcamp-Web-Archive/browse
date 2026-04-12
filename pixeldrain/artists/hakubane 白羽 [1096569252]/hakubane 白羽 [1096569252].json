@@ -1,0 +1,50 @@
+{
+    "hakubane 白羽": [
+        {
+            "url": "https://hakubane.bandcamp.com/track/anthropocene",
+            "title": "anthropocene",
+            "artist": "hakubane 白羽",
+            "label": null,
+            "band_id": 1096569252,
+            "classification": "nyp",
+            "tags": [
+                "Rock",
+                "emo",
+                "shoegaze",
+                "slacker rock",
+                "Japan"
+            ],
+            "item_id": 517469646,
+            "art_id": 2542096105,
+            "is_preorder": null,
+            "datePublished": "27 Feb 2026 00:00:00 GMT",
+            "about": "a recorded, amateurly mixed version of anthropocene - alex\noriginally played live at ruby room in shibuya",
+            "credits": "released February 27, 2026\ngene: vocals, lyrics\nalex: guitars, programming, mixing, mastering\nisi: bass",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2542096105_0",
+            "trackinfo": [
+                {
+                    "title": "anthropocene",
+                    "duration": "04:04",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 517469646,
+                    "track_num": "None",
+                    "artist": "hakubane 白羽",
+                    "url": "https://hakubane.bandcamp.com/track/anthropocene",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2542096105_0",
+                    "art_id": 2542096105,
+                    "about": "a recorded, amateurly mixed version of anthropocene - alex\noriginally played live at ruby room in shibuya",
+                    "credits": "released February 27, 2026\ngene: vocals, lyrics\nalex: guitars, programming, mixing, mastering\nisi: bass",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-11T17:07:12.028742+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-11T17:07:23.387407+00:00",
+            "pd_wacz_id": "rRKedEyQ"
+        }
+    ],
+    "_band_id": 1096569252
+}

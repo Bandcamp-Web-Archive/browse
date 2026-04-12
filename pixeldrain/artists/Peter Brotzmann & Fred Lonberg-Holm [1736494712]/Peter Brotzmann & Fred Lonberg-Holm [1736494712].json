@@ -1,0 +1,92 @@
+{
+    "Peter Brotzmann & Fred Lonberg-Holm": [
+        {
+            "url": "https://brotzmannlonbergholm.bandcamp.com/album/ouroboros",
+            "title": "Ouroboros",
+            "artist": "Peter Brotzmann & Fred Lonberg-Holm",
+            "label": "Astral Spirits",
+            "band_id": 1736494712,
+            "classification": "paid",
+            "tags": [
+                "Jazz",
+                "Chicago"
+            ],
+            "item_id": 1752501937,
+            "art_id": 420322762,
+            "is_preorder": false,
+            "datePublished": "20 Apr 2018 00:00:00 GMT",
+            "about": null,
+            "credits": "released April 20, 2018\nPeter Brötzmann - Reeds\nFred Lonberg-Holm - Strings & Electronics\nRecorded by Stefan Deistler at Loft Köln on January 18, 2011\nAll music by Broetzmann/FMP publishing/Gema - Lonberg-Holm/BMI.",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a0420322762_0",
+            "trackinfo": [
+                {
+                    "title": "The Circle",
+                    "duration": "06:04",
+                    "lyrics": null,
+                    "label": "Astral Spirits",
+                    "track_id": 1766909869,
+                    "track_num": "1",
+                    "artist": "Peter Brotzmann & Fred Lonberg-Holm",
+                    "url": "https://brotzmannlonbergholm.bandcamp.com/track/the-circle",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0420322762_0",
+                    "art_id": 420322762,
+                    "about": null,
+                    "credits": "from Ouroboros, released April 20, 2018",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "The Figure Eight",
+                    "duration": "13:42",
+                    "lyrics": null,
+                    "label": "Astral Spirits",
+                    "track_id": 2637917681,
+                    "track_num": "2",
+                    "artist": "Peter Brotzmann & Fred Lonberg-Holm",
+                    "url": "https://brotzmannlonbergholm.bandcamp.com/track/the-figure-eight",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0420322762_0",
+                    "art_id": 420322762,
+                    "about": null,
+                    "credits": "from Ouroboros, released April 20, 2018",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "The Spiral",
+                    "duration": "16:09",
+                    "lyrics": null,
+                    "label": "Astral Spirits",
+                    "track_id": 1134117433,
+                    "track_num": "3",
+                    "artist": "Peter Brotzmann & Fred Lonberg-Holm",
+                    "url": "https://brotzmannlonbergholm.bandcamp.com/track/the-spiral",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0420322762_0",
+                    "art_id": 420322762,
+                    "about": null,
+                    "credits": "from Ouroboros, released April 20, 2018",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "The Fusion of Opposites",
+                    "duration": "04:46",
+                    "lyrics": null,
+                    "label": "Astral Spirits",
+                    "track_id": 3169379317,
+                    "track_num": "4",
+                    "artist": "Peter Brotzmann & Fred Lonberg-Holm",
+                    "url": "https://brotzmannlonbergholm.bandcamp.com/track/the-fusion-of-opposites",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0420322762_0",
+                    "art_id": 420322762,
+                    "about": null,
+                    "credits": "from Ouroboros, released April 20, 2018",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-11T17:05:41.331806+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-11T17:05:56.948270+00:00",
+            "pd_wacz_id": "L7r8q9vJ"
+        }
+    ],
+    "_band_id": 1736494712
+}

@@ -9928,6 +9928,61 @@
             "uploaded": true,
             "uploaded_at": "2026-04-06T00:55:00.084494+00:00",
             "pd_wacz_id": "rHbmJQ5h"
+        },
+        {
+            "url": "https://danielmenche.bandcamp.com/album/vastus",
+            "title": "Vastus",
+            "artist": "Daniel Menche",
+            "label": null,
+            "band_id": 294763733,
+            "classification": "paid",
+            "tags": [
+                "Experimental",
+                "ambient",
+                "ambient electronic",
+                "daniel menche",
+                "drone",
+                "drone ambient",
+                "drone metal",
+                "drone noise",
+                "experimental electronic",
+                "meditative",
+                "noise",
+                "sound art",
+                "tone",
+                "tones",
+                "Portland"
+            ],
+            "item_id": 2372505281,
+            "art_id": 3871321175,
+            "is_preorder": false,
+            "datePublished": "11 Apr 2026 00:00:00 GMT",
+            "about": "Daniel Menche: Tones",
+            "credits": "released April 11, 2026\nMastered in the analog domain at Stereophonic Mastering  www.stereopho.com\nCymatic photo image by Daniel Menche",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a3871321175_0",
+            "trackinfo": [
+                {
+                    "title": "Vastus",
+                    "duration": "59:02",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2241832280,
+                    "track_num": "1",
+                    "artist": "Daniel Menche",
+                    "url": "https://danielmenche.bandcamp.com/track/vastus",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3871321175_0",
+                    "art_id": 3871321175,
+                    "about": null,
+                    "credits": "from Vastus, released April 11, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-04-11T16:03:01.023629+00:00",
+            "uploaded_at": "2026-04-11T16:03:17.289322+00:00",
+            "pd_wacz_id": "XzQjJDeW"
         }
     ],
     "_band_id": 294763733
