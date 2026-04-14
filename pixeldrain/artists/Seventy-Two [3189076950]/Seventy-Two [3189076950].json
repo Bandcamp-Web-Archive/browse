@@ -1,0 +1,99 @@
+{
+    "Seventy-Two": [
+        {
+            "url": "https://seventytwo.bandcamp.com/track/man-of-much-sin",
+            "title": "Man of Much Sin",
+            "artist": "Seventy-Two",
+            "label": null,
+            "band_id": 3189076950,
+            "classification": "nyp",
+            "tags": [
+                "Electronic",
+                "hardbass",
+                "industrial",
+                "industrial techno",
+                "noise",
+                "techno",
+                "United States"
+            ],
+            "item_id": 2185840689,
+            "art_id": 63094330,
+            "is_preorder": null,
+            "datePublished": "08 Jun 2022 00:00:00 GMT",
+            "about": "\"I have drunk deep from the well of misery, deep enough to see that it offers naught but venom.\"",
+            "credits": "released June 8, 2022\nEric - Production, Samples, Composition, Instrumentals, Songwriting\nDon - Production, Composition, Instrumentals, Songwriting, Engineering, Mastering\nMelissa - Production, Samples, Composition, Instrumentals, Songwriting, Artwork",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a0063094330_0",
+            "trackinfo": [
+                {
+                    "title": "Man of Much Sin",
+                    "duration": "05:32",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2185840689,
+                    "track_num": "None",
+                    "artist": "Seventy-Two",
+                    "url": "https://seventytwo.bandcamp.com/track/man-of-much-sin",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0063094330_0",
+                    "art_id": 63094330,
+                    "about": "\"I have drunk deep from the well of misery, deep enough to see that it offers naught but venom.\"",
+                    "credits": "released June 8, 2022\nEric - Production, Samples, Composition, Instrumentals, Songwriting\nDon - Production, Composition, Instrumentals, Songwriting, Engineering, Mastering\nMelissa - Production, Samples, Composition, Instrumentals, Songwriting, Artwork",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-13T19:12:34.108868+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-13T19:13:33.345196+00:00",
+            "pd_wacz_id": "gDB3g7ZQ"
+        },
+        {
+            "url": "https://seventytwo.bandcamp.com/track/n-ng-prostitute",
+            "title": "Đà Nẵng Prostitute",
+            "artist": "Seventy-Two",
+            "label": null,
+            "band_id": 3189076950,
+            "classification": "nyp",
+            "tags": [
+                "Electronic",
+                "hardbass",
+                "industrial",
+                "industrial techno",
+                "noise",
+                "techno",
+                "United States"
+            ],
+            "item_id": 69229229,
+            "art_id": 424033337,
+            "is_preorder": null,
+            "datePublished": "11 Jun 2022 00:00:00 GMT",
+            "about": "\"Someone else's blood flows through your veins. Don't forget.\"",
+            "credits": "released June 11, 2022\nEric - Production, Samples, Composition, Instrumentals, Songwriting\nDon - Production, Composition, Instrumentals, Songwriting, Engineering, Mastering\nMelissa - Production, Samples, Composition, Instrumentals, Songwriting, Artwork",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a0424033337_0",
+            "trackinfo": [
+                {
+                    "title": "Đà Nẵng Prostitute",
+                    "duration": "05:52",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 69229229,
+                    "track_num": "None",
+                    "artist": "Seventy-Two",
+                    "url": "https://seventytwo.bandcamp.com/track/n-ng-prostitute",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0424033337_0",
+                    "art_id": 424033337,
+                    "about": "\"Someone else's blood flows through your veins. Don't forget.\"",
+                    "credits": "released June 11, 2022\nEric - Production, Samples, Composition, Instrumentals, Songwriting\nDon - Production, Composition, Instrumentals, Songwriting, Engineering, Mastering\nMelissa - Production, Samples, Composition, Instrumentals, Songwriting, Artwork",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-13T19:13:20.905339+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-13T19:13:40.670468+00:00",
+            "pd_wacz_id": "i3idNY7Q"
+        }
+    ],
+    "_band_id": 3189076950
+}

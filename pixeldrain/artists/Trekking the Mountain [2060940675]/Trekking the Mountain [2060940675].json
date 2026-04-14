@@ -1,0 +1,48 @@
+{
+    "Trekking the Mountain": [
+        {
+            "url": "https://trekkingthemountain.bandcamp.com/track/loop",
+            "title": "loop",
+            "artist": "Trekking the Mountain",
+            "label": null,
+            "band_id": 2060940675,
+            "classification": "paid",
+            "tags": [
+                "Experimental",
+                "experimental electronic",
+                "Knoxville"
+            ],
+            "item_id": 2236672592,
+            "art_id": 2494255494,
+            "is_preorder": null,
+            "datePublished": "13 Mar 2017 00:00:00 GMT",
+            "about": null,
+            "credits": "released March 13, 2017",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2494255494_0",
+            "trackinfo": [
+                {
+                    "title": "loop",
+                    "duration": "00:53",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2236672592,
+                    "track_num": "None",
+                    "artist": "Trekking the Mountain",
+                    "url": "https://trekkingthemountain.bandcamp.com/track/loop",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2494255494_0",
+                    "art_id": 2494255494,
+                    "about": null,
+                    "credits": "released March 13, 2017",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-13T18:32:43.243386+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-13T18:32:49.606207+00:00",
+            "pd_wacz_id": "DqEffSwU"
+        }
+    ],
+    "_band_id": 2060940675
+}

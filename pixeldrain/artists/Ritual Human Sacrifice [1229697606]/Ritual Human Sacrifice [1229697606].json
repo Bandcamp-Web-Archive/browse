@@ -1,0 +1,99 @@
+{
+    "Ritual Human Sacrifice": [
+        {
+            "url": "https://ritualhumansacrifice.bandcamp.com/album/burned-remains",
+            "title": "Burned Remains",
+            "artist": "Ritual Human Sacrifice",
+            "label": null,
+            "band_id": 1229697606,
+            "classification": "nyp",
+            "tags": [
+                "Black Noise",
+                "Experimental",
+                "black industrial",
+                "brutal noise",
+                "death industrial",
+                "harsh noise",
+                "noise",
+                "power electronics",
+                "Knoxville"
+            ],
+            "item_id": 3795345183,
+            "art_id": 4274286213,
+            "is_preorder": false,
+            "datePublished": "07 Oct 2021 00:00:00 GMT",
+            "about": null,
+            "credits": "released October 7, 2021",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a4274286213_0",
+            "trackinfo": [
+                {
+                    "title": "Don’t You Wish He Would Just Let You Die?",
+                    "duration": "14:13",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1442222137,
+                    "track_num": "1",
+                    "artist": "Ritual Human Sacrifice",
+                    "url": "https://ritualhumansacrifice.bandcamp.com/track/don-t-you-wish-he-would-just-let-you-die",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a4274286213_0",
+                    "art_id": 4274286213,
+                    "about": null,
+                    "credits": "from Burned Remains, released October 7, 2021",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "The Light Is Leaving, but It Was Never Really There to Begin With.",
+                    "duration": "12:33",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1123586368,
+                    "track_num": "2",
+                    "artist": "Ritual Human Sacrifice",
+                    "url": "https://ritualhumansacrifice.bandcamp.com/track/the-light-is-leaving-but-it-was-never-really-there-to-begin-with",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a4274286213_0",
+                    "art_id": 4274286213,
+                    "about": null,
+                    "credits": "from Burned Remains, released October 7, 2021",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "If You Didn’t Want to Be Broken You Shouldn’t Have Been So Fragile.",
+                    "duration": "13:10",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1343479844,
+                    "track_num": "3",
+                    "artist": "Ritual Human Sacrifice",
+                    "url": "https://ritualhumansacrifice.bandcamp.com/track/if-you-didn-t-want-to-be-broken-you-shouldn-t-have-been-so-fragile",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a4274286213_0",
+                    "art_id": 4274286213,
+                    "about": null,
+                    "credits": "from Burned Remains, released October 7, 2021",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Only This Last Act Will Be Pure!",
+                    "duration": "20:03",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2678805023,
+                    "track_num": "4",
+                    "artist": "Ritual Human Sacrifice",
+                    "url": "https://ritualhumansacrifice.bandcamp.com/track/only-this-last-act-will-be-pure",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a4274286213_0",
+                    "art_id": 4274286213,
+                    "about": null,
+                    "credits": "from Burned Remains, released October 7, 2021",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-13T18:35:36.915274+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-13T18:35:53.676336+00:00",
+            "pd_wacz_id": "yoezCL8M"
+        }
+    ],
+    "_band_id": 1229697606
+}

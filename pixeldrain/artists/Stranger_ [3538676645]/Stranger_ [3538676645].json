@@ -1,0 +1,111 @@
+{
+    "Stranger_": [
+        {
+            "url": "https://stranger9.bandcamp.com/album/stranger9",
+            "title": "stranger9",
+            "artist": "Stranger_",
+            "label": null,
+            "band_id": 3538676645,
+            "classification": "nyp",
+            "tags": [
+                "Electronic",
+                "liminal space",
+                "nostalgia",
+                "plunderphonics",
+                "vaporwave",
+                "New York"
+            ],
+            "item_id": 1502444431,
+            "art_id": 3206760299,
+            "is_preorder": false,
+            "datePublished": "17 May 2021 00:00:00 GMT",
+            "about": "how would you know?",
+            "credits": "released May 17, 2021",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a3206760299_0",
+            "trackinfo": [
+                {
+                    "title": "welcome to my page",
+                    "duration": "07:03",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2084900384,
+                    "track_num": "1",
+                    "artist": "Stranger_",
+                    "url": "https://stranger9.bandcamp.com/track/welcome-to-my-page",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3206760299_0",
+                    "art_id": 3206760299,
+                    "about": null,
+                    "credits": "from stranger9, released May 17, 2021",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "heaven is a place on earth",
+                    "duration": "05:16",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1559320786,
+                    "track_num": "2",
+                    "artist": "Stranger_",
+                    "url": "https://stranger9.bandcamp.com/track/heaven-is-a-place-on-earth",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3206760299_0",
+                    "art_id": 3206760299,
+                    "about": null,
+                    "credits": "from stranger9, released May 17, 2021",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "suburban childhood friends",
+                    "duration": "04:45",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2208144726,
+                    "track_num": "3",
+                    "artist": "Stranger_",
+                    "url": "https://stranger9.bandcamp.com/track/suburban-childhood-friends",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3206760299_0",
+                    "art_id": 3206760299,
+                    "about": null,
+                    "credits": "from stranger9, released May 17, 2021",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "พื้นที่แปลก ๆ",
+                    "duration": "09:41",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3546558179,
+                    "track_num": "4",
+                    "artist": "Stranger_",
+                    "url": "https://stranger9.bandcamp.com/track/-",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3206760299_0",
+                    "art_id": 3206760299,
+                    "about": null,
+                    "credits": "from stranger9, released May 17, 2021",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "was it really how you remember it?",
+                    "duration": "07:47",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2391026454,
+                    "track_num": "5",
+                    "artist": "Stranger_",
+                    "url": "https://stranger9.bandcamp.com/track/was-it-really-how-you-remember-it",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3206760299_0",
+                    "art_id": 3206760299,
+                    "about": null,
+                    "credits": "from stranger9, released May 17, 2021",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-13T18:33:31.101537+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-13T18:34:53.729426+00:00",
+            "pd_wacz_id": "eAHuwsfL"
+        }
+    ],
+    "_band_id": 3538676645
+}

@@ -1,0 +1,67 @@
+{
+    "Netscape Navigator": [
+        {
+            "url": "https://netscapenavigator.bandcamp.com/album/demo",
+            "title": "demo",
+            "artist": "Netscape Navigator",
+            "label": null,
+            "band_id": 3637907910,
+            "classification": "nyp",
+            "tags": [
+                "DirtyCyberneticAmbientation",
+                "Experimental",
+                "Ghettotech",
+                "beats",
+                "electronic",
+                "techno",
+                "Los Angeles"
+            ],
+            "item_id": 2087787466,
+            "art_id": 2001669048,
+            "is_preorder": false,
+            "datePublished": "20 Feb 2020 00:00:00 GMT",
+            "about": null,
+            "credits": "released February 20, 2020",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2001669048_0",
+            "trackinfo": [
+                {
+                    "title": "Netscape",
+                    "duration": "04:01",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1252268271,
+                    "track_num": "1",
+                    "artist": "Netscape Navigator",
+                    "url": "https://netscapenavigator.bandcamp.com/track/netscape",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2001669048_0",
+                    "art_id": 2001669048,
+                    "about": null,
+                    "credits": "from demo, released February 20, 2020",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Navigator",
+                    "duration": "03:15",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1203617543,
+                    "track_num": "2",
+                    "artist": "Netscape Navigator",
+                    "url": "https://netscapenavigator.bandcamp.com/track/navigator",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2001669048_0",
+                    "art_id": 2001669048,
+                    "about": null,
+                    "credits": "from demo, released February 20, 2020",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-13T18:34:53.748509+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-13T18:35:08.223379+00:00",
+            "pd_wacz_id": "5nmGRkrR"
+        }
+    ],
+    "_band_id": 3637907910
+}

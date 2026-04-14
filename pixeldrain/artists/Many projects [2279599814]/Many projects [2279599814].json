@@ -1,0 +1,81 @@
+{
+    "Many projects": [
+        {
+            "url": "https://castoneduck.bandcamp.com/album/fuxxystonerbluesydoom-jam-1-and-2",
+            "title": "FuxxyStonerBluesyDoom Jam 1 and 2",
+            "artist": "FuzzyStonerBluesyDoom",
+            "label": null,
+            "band_id": 2279599814,
+            "classification": "nyp",
+            "tags": [
+                "Rock",
+                "blues",
+                "doom",
+                "fuzz",
+                "stoner",
+                "Sweden"
+            ],
+            "item_id": 2644832074,
+            "art_id": 2395067375,
+            "is_preorder": false,
+            "datePublished": "31 Mar 2014 00:00:00 GMT",
+            "about": "The jam sessions collected. Easier to play, easier to download for free. Just buy it for 0 Dollars! :) // C.A Stoneduck",
+            "credits": "released March 31, 2014\nFredde, Awroon, C.A Stoneduck",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2395067375_0",
+            "trackinfo": [
+                {
+                    "title": "Jam 2 - Opus I",
+                    "duration": "13:34",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1864614745,
+                    "track_num": "1",
+                    "artist": "FuzzyStonerBluesyDoom",
+                    "url": "https://castoneduck.bandcamp.com/track/jam-2-opus-i-2",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2395067375_0",
+                    "art_id": 2395067375,
+                    "about": null,
+                    "credits": "from FuxxyStonerBluesyDoom Jam 1 and 2, released March 31, 2014",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Jam 2 - Opus 2",
+                    "duration": "07:46",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1951695551,
+                    "track_num": "2",
+                    "artist": "FuzzyStonerBluesyDoom",
+                    "url": "https://castoneduck.bandcamp.com/track/jam-2-opus-2",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2395067375_0",
+                    "art_id": 2395067375,
+                    "about": "This is the collected Jam 1 And Jam 2 recordings that ironicli isnt the first Jam recordings. But those are not for publishing yet my friends. ;) This is just an easy way to download our jam if you think its awesome and would like it in your portable audio device or computer. Cheers! // C.A StoneDuck",
+                    "credits": "from FuxxyStonerBluesyDoom Jam 1 and 2, released March 31, 2014\nFredde, Awroon, C.A Stoneduck",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Jam 1 - Wack Wacka",
+                    "duration": "03:54",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 284968218,
+                    "track_num": "3",
+                    "artist": "FuzzyStonerBluesyDoom",
+                    "url": "https://castoneduck.bandcamp.com/track/jam-1-wack-wacka",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2395067375_0",
+                    "art_id": 2395067375,
+                    "about": null,
+                    "credits": "from FuxxyStonerBluesyDoom Jam 1 and 2, released March 31, 2014",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-13T18:34:24.442769+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-13T18:34:53.745751+00:00",
+            "pd_wacz_id": "W5gF7bVh"
+        }
+    ],
+    "_band_id": 2279599814
+}
