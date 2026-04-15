@@ -168,7 +168,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-04-13T20:47:48.713592+00:00"
+            "archived_at": "2026-04-13T20:47:48.713592+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-14T17:23:43.940719+00:00",
+            "pd_wacz_id": "cDKFVnSx"
         },
         {
             "url": "https://blackblight.bandcamp.com/album/city-of-light",
@@ -1465,7 +1468,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-04-13T20:56:29.538612+00:00"
+            "archived_at": "2026-04-13T20:56:29.538612+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-14T17:25:38.679634+00:00",
+            "pd_wacz_id": "dEoWUnTk"
         },
         {
             "url": "https://blackblight.bandcamp.com/album/imprisoning-exile",

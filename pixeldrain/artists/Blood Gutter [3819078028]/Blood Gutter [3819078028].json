@@ -1286,7 +1286,10 @@
                 }
             ],
             "archived": true,
-            "archived_at": "2026-04-13T21:43:00.941803+00:00"
+            "archived_at": "2026-04-13T21:43:00.941803+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-14T17:23:35.153348+00:00",
+            "pd_wacz_id": "trXUZTur"
         },
         {
             "url": "https://bloodgutter.bandcamp.com/album/night-terrors",
