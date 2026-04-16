@@ -1,0 +1,47 @@
+{
+    "Joe McPhee": [
+        {
+            "url": "https://astralmcphee.bandcamp.com/album/zurich-1979",
+            "title": "Zurich (1979)",
+            "artist": "Joe McPhee",
+            "label": "Astral Spirits",
+            "band_id": 99469026,
+            "classification": "paid",
+            "tags": [
+                "Jazz",
+                "Poughkeepsie"
+            ],
+            "item_id": 1787742914,
+            "art_id": 3130047152,
+            "is_preorder": false,
+            "datePublished": "22 Jan 2016 00:00:00 GMT",
+            "about": "We are incredibly honored to present Joe McPhee’s “Zurich (1979)” LP…this LP features a previously unreleased 19 minute solo tenor sax recording from 1979. Astral Spirits Records was named after the song “Astral Spirits” on Joe McPhee’s classic “Trinity” LP so this is a true honor for us. This recording also is quite fitting as it was made directly to cassette tape back in 1979 and now is pressed onto vinyl for the first time ever! The vinyl master/laquer was cut in Austin, TX by Adam Smith (Columbus Discount Records/Necropolis/Unholy Two) on an old 1940’s lathe that was quite a beautiful thing to see & hear. The music speaks for itself in true McPhee fashion, from softly blown themes to roars of fortissimo and all places in between. A true joy to listen to McPhee from the late 70’s again.\nThis is the first in a special series of “art edition” LP’s on AS. This one-sided LP features hand screen-printed covers & hand-stamped back covers, also includes a poster of a painting of Joe McPhee by Tim Kerr (Big Boys) specifically done for this release (see below). One time only pressing of 250 LPs out January 22nd, 2016.",
+            "credits": "released January 22, 2016\nJOE MCPHEE -- Tenor Saxophone\nRecorded live in Zurich, Switzerland, March 12, 1979\nJOMAC MUSIC (ASCAP)\nSpecial thanks to Joseph McPhee Sr for the gift of music he gave me, to Craig Johnson for opening all the doors to my future & to Astral Spirits, Albert Ayler and Donald Ayler for their continuing inspiration.",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a3130047152_0",
+            "trackinfo": [
+                {
+                    "title": "Tenor Solo",
+                    "duration": "19:14",
+                    "lyrics": null,
+                    "label": "Astral Spirits",
+                    "track_id": 2014938051,
+                    "track_num": "1",
+                    "artist": "Joe McPhee",
+                    "url": "https://astralmcphee.bandcamp.com/track/tenor-solo",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3130047152_0",
+                    "art_id": 3130047152,
+                    "about": null,
+                    "credits": "from Zurich (1979), released January 22, 2016",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-15T14:57:51.291724+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-15T14:58:06.031794+00:00",
+            "pd_wacz_id": "wrcjxJJJ"
+        }
+    ],
+    "_band_id": 99469026
+}

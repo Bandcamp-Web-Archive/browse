@@ -1470,6 +1470,92 @@
             "uploaded": true,
             "uploaded_at": "2026-03-19T01:12:44.666768+00:00",
             "pd_wacz_id": "Gb9gdxZK"
+        },
+        {
+            "url": "https://axeldoerner.bandcamp.com/album/everything-is-fine",
+            "title": "Everything is Fine",
+            "artist": "Axel Dörner & İpek Odabaşı",
+            "label": null,
+            "band_id": 1365097893,
+            "classification": "paid",
+            "tags": [
+                "Jazz"
+            ],
+            "item_id": 184076701,
+            "art_id": 2090203937,
+            "is_preorder": false,
+            "datePublished": "12 Apr 2026 17:28:39 GMT",
+            "about": "Axel Dörner - trumpet & electronics\nİpek Odabaşı - electronics\nrecorded on the 25th of March at Richten25 in Berlin\nmixed by Axel Dörner & İpek Odabaşı\nmastered by Axel Dörner\ncover art by Melih Sarıgöl",
+            "credits": "released April 12, 2026",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2090203937_0",
+            "trackinfo": [
+                {
+                    "title": "Void Dimension",
+                    "duration": "10:56",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2076502906,
+                    "track_num": "1",
+                    "artist": "Axel Dörner & İpek Odabaşı",
+                    "url": "https://axeldoerner.bandcamp.com/track/void-dimension",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2090203937_0",
+                    "art_id": 2090203937,
+                    "about": null,
+                    "credits": "from Everything is Fine, released April 12, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Before the Crash",
+                    "duration": "09:52",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 971703329,
+                    "track_num": "2",
+                    "artist": "Axel Dörner & İpek Odabaşı",
+                    "url": "https://axeldoerner.bandcamp.com/track/before-the-crash",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2090203937_0",
+                    "art_id": 2090203937,
+                    "about": null,
+                    "credits": "from Everything is Fine, released April 12, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "A-gain",
+                    "duration": "09:13",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3982176247,
+                    "track_num": "3",
+                    "artist": "Axel Dörner & İpek Odabaşı",
+                    "url": "https://axeldoerner.bandcamp.com/track/a-gain",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2090203937_0",
+                    "art_id": 2090203937,
+                    "about": null,
+                    "credits": "from Everything is Fine, released April 12, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Everything is Fine",
+                    "duration": "10:33",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2811550787,
+                    "track_num": "4",
+                    "artist": "Axel Dörner & İpek Odabaşı",
+                    "url": "https://axeldoerner.bandcamp.com/track/everything-is-fine",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2090203937_0",
+                    "art_id": 2090203937,
+                    "about": null,
+                    "credits": "from Everything is Fine, released April 12, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-04-15T20:47:13.362536+00:00",
+            "uploaded_at": "2026-04-15T20:47:59.477764+00:00",
+            "pd_wacz_id": "emkji4ys"
         }
     ],
     "_band_id": 1365097893
