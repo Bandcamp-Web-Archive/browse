@@ -1,0 +1,68 @@
+{
+    "Jad Fair": [
+        {
+            "url": "https://jadfairshortsongs.bandcamp.com/album/short-songs",
+            "title": "Short Songs",
+            "artist": "Jad Fair",
+            "label": "Vampire Blues",
+            "band_id": 3836878929,
+            "classification": "paid",
+            "tags": [
+                "Alternative",
+                "alternative",
+                "experimental",
+                "half japanese",
+                "indie",
+                "outsider music",
+                "short songs",
+                "Austin"
+            ],
+            "item_id": 420398806,
+            "art_id": 2058944098,
+            "is_preorder": false,
+            "datePublished": "01 Jan 1993 00:00:00 GMT",
+            "about": null,
+            "credits": "released January 1, 1993\nJad Fair\nMick Hobbs\nGiles Rieder\nTim Foljahn\nJason Willet\nJohn Sluggett\nMarc Baines\nOriginal 7\" released by Smells Like Records",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2058944098_0",
+            "trackinfo": [
+                {
+                    "title": "Shoes/Birds/Breakfast/Oh My Word/Movies/Jack",
+                    "duration": "02:50",
+                    "lyrics": null,
+                    "label": "Vampire Blues",
+                    "track_id": 2490306370,
+                    "track_num": "1",
+                    "artist": "Jad Fair",
+                    "url": "https://jadfairshortsongs.bandcamp.com/track/shoes-birds-breakfast-oh-my-word-movies-jack",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2058944098_0",
+                    "art_id": 2058944098,
+                    "about": null,
+                    "credits": "from Short Songs, released January 1, 1993",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Morning/Books/July/Cape Fear/Sandwich/I Felt O.K.",
+                    "duration": "03:06",
+                    "lyrics": null,
+                    "label": "Vampire Blues",
+                    "track_id": 350599144,
+                    "track_num": "2",
+                    "artist": "Jad Fair",
+                    "url": "https://jadfairshortsongs.bandcamp.com/track/morning-books-july-cape-fear-sandwich-i-felt-o-k",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2058944098_0",
+                    "art_id": 2058944098,
+                    "about": null,
+                    "credits": "from Short Songs, released January 1, 1993",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-16T13:49:32.865117+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-16T13:50:01.314697+00:00",
+            "pd_wacz_id": "rTzGJLCR"
+        }
+    ],
+    "_band_id": 3836878929
+}

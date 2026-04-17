@@ -1,0 +1,52 @@
+{
+    "John Edwards, Jeff Tobias, Jack Cooper and Samuel Hollis": [
+        {
+            "url": "https://johnjeffjacksamuel.bandcamp.com/album/ephemera",
+            "title": "Ephemera",
+            "artist": "John Edwards, Jeff Tobias, Jack Cooper and Samuel Hollis",
+            "label": "Trouble In Mind Records",
+            "band_id": 840621258,
+            "classification": "paid",
+            "tags": [
+                "Experimental",
+                "composition",
+                "experimental",
+                "improvisation",
+                "jazz",
+                "minimal",
+                "London"
+            ],
+            "item_id": 1753496957,
+            "art_id": 355556493,
+            "is_preorder": false,
+            "datePublished": "09 Jun 2023 00:00:00 GMT",
+            "about": "On the second night of Modern Nature’s residency at Cafe OTO in May of 2022, the group reconstituted itself into an augmented ensemble for the purposes of a first-time excursion into totally free playing. The quartet of performers would be Jack Cooper (electric guitar), Jeff Tobias (alto and soprano saxophones), and bassists John Edwards and Samuel Hollis. The resulting performance, documented here on Ephemera, is at turns pensively minimal and jarring in its sudden energy. Listeners familiar with Cooper’s recent compositions for chamber ensemble, as well as Edwards’ daring and fiery body of work, will note the contrasting but complimentary elements. The instrumentation at hand makes for an unintentional homage to Ornette Coleman’s Sound Grammar, but the music on Ephemera bears its own blink-and-you-miss-it character.",
+            "credits": "released June 9, 2023\nContrabass: John Edwards\nContrabass: Samuel Hollis\nAlto & Soprano Saxophones: Jeff Tobias\nElectric guitar: Jack Cooper\nRecorded at Café Oto, London on 12th May 2021 by Rory Salter and Sofia Lopes.\nMixed by Jim Wallis\nMastered by Caufield Schnug\nCover by Jack Cooper\nLayout by Bill Roe",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a0355556493_0",
+            "trackinfo": [
+                {
+                    "title": "Ephemera",
+                    "duration": "27:00",
+                    "lyrics": null,
+                    "label": "Trouble In Mind Records",
+                    "track_id": 2405630284,
+                    "track_num": "1",
+                    "artist": "John Edwards, Jeff Tobias, Jack Cooper and Samuel Hollis",
+                    "url": "https://johnjeffjacksamuel.bandcamp.com/track/ephemera",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0355556493_0",
+                    "art_id": 355556493,
+                    "about": null,
+                    "credits": "from Ephemera, released June 9, 2023",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-16T13:54:24.943225+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-16T13:56:02.229607+00:00",
+            "pd_wacz_id": "7ECEY7si"
+        }
+    ],
+    "_band_id": 840621258
+}
