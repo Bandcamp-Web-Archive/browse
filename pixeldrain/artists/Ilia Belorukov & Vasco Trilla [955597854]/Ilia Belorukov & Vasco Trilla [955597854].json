@@ -1,0 +1,92 @@
+{
+    "Ilia Belorukov & Vasco Trilla": [
+        {
+            "url": "https://belorukovtrilla.bandcamp.com/album/laniakea",
+            "title": "Laniakea",
+            "artist": "Ilia Belorukov & Vasco Trilla",
+            "label": "Astral Spirits",
+            "band_id": 955597854,
+            "classification": "paid",
+            "tags": [
+                "Experimental",
+                "Barcelona"
+            ],
+            "item_id": 3426830542,
+            "art_id": 1888533233,
+            "is_preorder": false,
+            "datePublished": "18 Oct 2019 00:00:00 GMT",
+            "about": null,
+            "credits": "released October 18, 2019\nILIA BELORUKOV - alto saxophone, fluteophone, electronics\nVASCO TRILLA - percussion\nRecorded at Vasco's studio in Barcelona on July 16, 2017.\nRecorded, mixed & mastered by Ilia Belorukov.\nThanks to El Pricto\nLayout & Design by Jaime Zuverza.",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a1888533233_0",
+            "trackinfo": [
+                {
+                    "title": "Zud",
+                    "duration": "06:18",
+                    "lyrics": null,
+                    "label": "Astral Spirits",
+                    "track_id": 69978044,
+                    "track_num": "1",
+                    "artist": "Ilia Belorukov & Vasco Trilla",
+                    "url": "https://belorukovtrilla.bandcamp.com/track/zud",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1888533233_0",
+                    "art_id": 1888533233,
+                    "about": null,
+                    "credits": "from Laniakea, released October 18, 2019",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Klaketta",
+                    "duration": "10:49",
+                    "lyrics": null,
+                    "label": "Astral Spirits",
+                    "track_id": 3368430555,
+                    "track_num": "2",
+                    "artist": "Ilia Belorukov & Vasco Trilla",
+                    "url": "https://belorukovtrilla.bandcamp.com/track/klaketta",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1888533233_0",
+                    "art_id": 1888533233,
+                    "about": null,
+                    "credits": "from Laniakea, released October 18, 2019",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Moutonner",
+                    "duration": "08:07",
+                    "lyrics": null,
+                    "label": "Astral Spirits",
+                    "track_id": 2826639698,
+                    "track_num": "3",
+                    "artist": "Ilia Belorukov & Vasco Trilla",
+                    "url": "https://belorukovtrilla.bandcamp.com/track/moutonner",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1888533233_0",
+                    "art_id": 1888533233,
+                    "about": null,
+                    "credits": "from Laniakea, released October 18, 2019",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Kikimora",
+                    "duration": "10:31",
+                    "lyrics": null,
+                    "label": "Astral Spirits",
+                    "track_id": 3763130728,
+                    "track_num": "4",
+                    "artist": "Ilia Belorukov & Vasco Trilla",
+                    "url": "https://belorukovtrilla.bandcamp.com/track/kikimora",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1888533233_0",
+                    "art_id": 1888533233,
+                    "about": null,
+                    "credits": "from Laniakea, released October 18, 2019",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-17T16:11:09.630304+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-17T16:13:35.530110+00:00",
+            "pd_wacz_id": "J6NY4kAB"
+        }
+    ],
+    "_band_id": 955597854
+}

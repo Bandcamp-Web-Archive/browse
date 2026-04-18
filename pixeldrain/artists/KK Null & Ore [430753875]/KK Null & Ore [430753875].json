@@ -1,0 +1,67 @@
+{
+    "KK Null & Ore": [
+        {
+            "url": "https://kknullore.bandcamp.com/album/components-of-circulation-dawn-of-time",
+            "title": "Components of Circulation / Dawn of Time",
+            "artist": "KK Null & Ore",
+            "label": null,
+            "band_id": 430753875,
+            "classification": "nyp",
+            "tags": [
+                "Experimental",
+                "doom",
+                "drone",
+                "glitch",
+                "noise",
+                "tuba",
+                "London"
+            ],
+            "item_id": 77687941,
+            "art_id": 2486393848,
+            "is_preorder": false,
+            "datePublished": "25 Nov 2013 00:00:00 GMT",
+            "about": "KK NULL & ORE\n‘Dawn of Time’ / ‘Components of Circulation’\nKK NULL – aka Kazuyuki Kishino – is the Tokyo-born composer, guitarist, singer and mastermind of highly influential progressive hardcore band Zeni Geva. He established the Nux Organization label in the mid-eighties to release his own works and subsequently acts such as Melt-Banana.\nWith the formation of Zeni Geva, Kishino gained worldwide recognition, releasing five albums produced by Steve Albini, working with Jello Biafra's Alternative Tentacles label and recording two Peel Sessions, and touring throughout Europe, the US, Australasia and Japan.His varied and forward-thinking collaborations with the likes of Merzbow, Matmos, Z'ev, Chris Watson and many more have seen him gradually shift from guitar to electronic music, through which he has delved into noise, ambience, scattered pitch sculptures and droning isolationist material.\nORE are Birmingham-based tuba doom merchants. They formed in 2010 and, after a brief period as a trio, stabilised as a duo consisting of Stuart Estell and Sam Underwood, with a rotating cast of collaborators drawn from a wide range of other genres.\nJust three years in, the project continues to evolve rapidly. From early drone/doom beginnings their music has lately drawn inspiration from Indian classical music and other improvisational influences to become much more difficult to define.\nLast year the two acts were invited to collaborate for a one-off\nperformance at Supersonic Festival. The result was a triumph, leading to the release of the shared, super-limited Archispirostreptus Gigas CD-R. They continue to combine their talents for this brand new limited edition 7” single featuring 'Dawn of Time' and 'Components of Circulation'. It is mastered by Brad Boatwright at Audiosiege, artwork by Alex Bertam Powell.",
+            "credits": "released November 25, 2013\nRecorded in England and Japan\nKK Null - Electronics\nStuart Estell - Tuba, Organ\nSam Underwood - Tuba\nA: Components of Circulation (Estell / Kishino)\nAA: Dawn of Time (Estell / Kishino / Underwood)",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2486393848_0",
+            "trackinfo": [
+                {
+                    "title": "A - Components of Circulation",
+                    "duration": "05:32",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1191419768,
+                    "track_num": "1",
+                    "artist": "KK Null & Ore",
+                    "url": "https://kknullore.bandcamp.com/track/a-components-of-circulation",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2486393848_0",
+                    "art_id": 2486393848,
+                    "about": null,
+                    "credits": "from Components of Circulation / Dawn of Time, released November 25, 2013",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "AA - Dawn of Time",
+                    "duration": "05:46",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3161355790,
+                    "track_num": "2",
+                    "artist": "KK Null & Ore",
+                    "url": "https://kknullore.bandcamp.com/track/aa-dawn-of-time",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2782541986_0",
+                    "art_id": 2782541986,
+                    "about": null,
+                    "credits": "from Components of Circulation / Dawn of Time, released November 25, 2013",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-17T16:12:25.987717+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-17T16:13:19.688963+00:00",
+            "pd_wacz_id": "23DkyKVF"
+        }
+    ],
+    "_band_id": 430753875
+}
