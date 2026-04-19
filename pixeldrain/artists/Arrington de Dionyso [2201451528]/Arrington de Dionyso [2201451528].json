@@ -13108,6 +13108,71 @@
             "uploaded": true,
             "uploaded_at": "2026-03-15T23:40:44.005673+00:00",
             "pd_wacz_id": "qfMYHkCC"
+        },
+        {
+            "url": "https://arrington.bandcamp.com/album/the-gods-of-war-will-be-consumed-by-a-greater-fire",
+            "title": "The Gods of War Will Be Consumed By A Greater Fire",
+            "artist": "Arrington de Dionyso & Ensemble",
+            "label": null,
+            "band_id": 2201451528,
+            "classification": "nyp",
+            "tags": [
+                "Experimental",
+                "Extreme Music",
+                "Sun Ra Arkestra",
+                "Trance-punk",
+                "bass clarinet",
+                "free jazz",
+                "shamanic",
+                "shamanism",
+                "throatsinging",
+                "Olympia"
+            ],
+            "item_id": 1663153883,
+            "art_id": 2283455297,
+            "is_preorder": false,
+            "datePublished": "17 Apr 2026 04:21:10 GMT",
+            "about": "THE GODS OF WAR WILL BE CONSUMED BY A GREATER FIRE:\nTwo intense-as-fuck recordings made two days apart, exactly one year ago, a premonition for the Fire Horse year plus extreme Aries Stellium we are now entering on April 17, 2026 with Sun, Moon, Mercury, Mars, Saturn and Chiron all in the sign of the God of War. The Gods of War will be defeated, the Gods of War will be unmasked! The Gods of War Will Be Consumed By a Greater Fire!\nPart one was recorded at the Ojai Women's Club on April 17th, 2025. Players are:\nArrington de Dionyso- voice, voice mask, bass clarinet, lalove\nRob McGill- tenor saxophone\nMike Meanstreetz- drums\nHaydee Jimenez- gong and electronics\ndivinebrick and company provided Butoh dance, Chingis Kam gave a sacred ceremony of Tuvan Shamanism at the conclusion (not included on this version of the recording).\nPart two- recorded at PSKaufman in Downtown Los Angeles, same personnel as part one with the addition of Ryan Ebaugh also on saxophones.",
+            "credits": "released April 17, 2026",
+            "license": "Attribution Share Alike",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2283455297_0",
+            "trackinfo": [
+                {
+                    "title": "The Gods of War Will Be Unmasked",
+                    "duration": "32:41",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1023951651,
+                    "track_num": "1",
+                    "artist": "Arrington de Dionyso & Ensemble",
+                    "url": "https://arrington.bandcamp.com/track/the-gods-of-war-will-be-unmasked",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2283455297_0",
+                    "art_id": 2283455297,
+                    "about": null,
+                    "credits": "from The Gods of War Will Be Consumed By A Greater Fire, released April 17, 2026",
+                    "license": "Attribution Share Alike"
+                },
+                {
+                    "title": "The Gods of War Will Be Defeated",
+                    "duration": "32:02",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2240765178,
+                    "track_num": "2",
+                    "artist": "Arrington de Dionyso & Ensemble",
+                    "url": "https://arrington.bandcamp.com/track/the-gods-of-war-will-be-defeated",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2283455297_0",
+                    "art_id": 2283455297,
+                    "about": null,
+                    "credits": "from The Gods of War Will Be Consumed By A Greater Fire, released April 17, 2026",
+                    "license": "Attribution Share Alike"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-04-18T16:10:08.449588+00:00",
+            "uploaded_at": "2026-04-18T16:10:38.440054+00:00",
+            "pd_wacz_id": "exavKYZX"
         }
     ],
     "_band_id": 2201451528

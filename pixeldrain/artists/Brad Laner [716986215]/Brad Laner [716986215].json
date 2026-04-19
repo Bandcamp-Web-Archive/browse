@@ -22017,6 +22017,68 @@
             "archived_at": "2026-04-11T15:59:21.437526+00:00",
             "uploaded_at": "2026-04-11T15:59:40.027449+00:00",
             "pd_wacz_id": "H4xzo1JE"
+        },
+        {
+            "url": "https://bradlaner.bandcamp.com/album/fugue-states",
+            "title": "Fugue States",
+            "artist": "Brad Laner",
+            "label": null,
+            "band_id": 716986215,
+            "classification": "paid",
+            "tags": [
+                " noise pop",
+                "Experimental",
+                "dream pop",
+                "modular synth",
+                "psychedelic",
+                "shoegaze",
+                "Los Angeles"
+            ],
+            "item_id": 3946367568,
+            "art_id": 599886687,
+            "is_preorder": false,
+            "datePublished": "17 Apr 2026 15:32:18 GMT",
+            "about": "Live electronic music recorded November 2025",
+            "credits": "released April 17, 2026",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a0599886687_0",
+            "trackinfo": [
+                {
+                    "title": "Fugue State 1",
+                    "duration": "18:58",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3077597736,
+                    "track_num": "1",
+                    "artist": "Brad Laner",
+                    "url": "https://bradlaner.bandcamp.com/track/fugue-state-1",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0599886687_0",
+                    "art_id": 599886687,
+                    "about": null,
+                    "credits": "from Fugue States, released April 17, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Fugue State 2",
+                    "duration": "19:07",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1692534116,
+                    "track_num": "2",
+                    "artist": "Brad Laner",
+                    "url": "https://bradlaner.bandcamp.com/track/fugue-state-2",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0599886687_0",
+                    "art_id": 599886687,
+                    "about": null,
+                    "credits": "from Fugue States, released April 17, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-04-18T16:47:48.046581+00:00",
+            "uploaded_at": "2026-04-18T16:48:09.078651+00:00",
+            "pd_wacz_id": "YtxPv8e8"
         }
     ],
     "_band_id": 716986215

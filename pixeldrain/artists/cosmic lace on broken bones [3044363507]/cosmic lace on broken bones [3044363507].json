@@ -64253,6 +64253,52 @@
             "archived_at": "2026-04-04T23:14:03.904587+00:00",
             "uploaded_at": "2026-04-04T23:14:11.850867+00:00",
             "pd_wacz_id": "qhRz2wvD"
+        },
+        {
+            "url": "https://cosmiclaceonbrokenbones.bandcamp.com/album/coronation-2",
+            "title": "coronation",
+            "artist": "cosmic lace on broken bones",
+            "label": null,
+            "band_id": 3044363507,
+            "classification": "paid",
+            "tags": [
+                "Ambient",
+                "dark ambient",
+                "drone",
+                "drone ambient",
+                "experimental electronic",
+                "Dortmund"
+            ],
+            "item_id": 4004190606,
+            "art_id": 2600699312,
+            "is_preorder": false,
+            "datePublished": "16 Apr 2026 16:41:15 GMT",
+            "about": "\"Coronation\" is a dark ambient album that captures the eerie grandeur of an alien ruler's ancient coronation. Through haunting drones and otherworldly textures, it evokes a mysterious ceremony in a distant, extraterrestrial past, blending regal solemnity with the unsettling aura of a civilization beyond human understanding.",
+            "credits": "released April 16, 2026",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2600699312_0",
+            "trackinfo": [
+                {
+                    "title": "coronation",
+                    "duration": "01:00:00",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2908954582,
+                    "track_num": "1",
+                    "artist": "cosmic lace on broken bones",
+                    "url": "https://cosmiclaceonbrokenbones.bandcamp.com/track/coronation-2",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2600699312_0",
+                    "art_id": 2600699312,
+                    "about": null,
+                    "credits": "from coronation, released April 16, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-04-18T16:05:09.000009+00:00",
+            "uploaded_at": "2026-04-18T16:06:21.690948+00:00",
+            "pd_wacz_id": "1amrQWjQ"
         }
     ],
     "_band_id": 3044363507
