@@ -1,0 +1,80 @@
+{
+    "Lionel Marchetti & Olivier Capparos": [
+        {
+            "url": "https://lionelmarchettioliviercapparos.bandcamp.com/album/equus",
+            "title": "Equus",
+            "artist": "Lionel Marchetti & Olivier Capparos",
+            "label": "Pogus",
+            "band_id": 4116280095,
+            "classification": "paid",
+            "tags": [
+                "Experimental",
+                "electroacoustic",
+                "experimental electronic",
+                "musique concrete",
+                "France"
+            ],
+            "item_id": 4055957179,
+            "art_id": 735632927,
+            "is_preorder": false,
+            "datePublished": "26 Apr 2009 00:00:00 GMT",
+            "about": "Equus is a collaborative work of musique concrète recorded in 2001-02 on a commission from the INA GRM. As Capparos notes: \"Equus guides us through human memory and history. It may sound a bit strange that sound & music would appear as a \"vehicle\", or as we had cast a lead into a labyrinth. This brings us to the question of whether we are alive or not; travelling the path throughout these soundings would drive us down and up our consciousness and our listening, not to mention that we are dead or alive.\"",
+            "credits": "released April 26, 2009\nComposer/performers: Lionel Marchetti, Olivier Capparos\nSounds, Voice – Adèle Marchetti, Alfred Hitchcock, Charley Patton, Charlton Heston, Damia, Ezra Pound, Hans Bellmer, Henri Chopin, Ingraham Marshall, Isabelle Duthoit, Jacques Lacan, Jean-Luc Godard, John Oswald, Lionel Marchetti, Michel Bouquet, Olivier Capparos, Pierre Henry, Pierre Schaeffer, René Char, Sarah Bernhardt, Sariana Mileski, Sheila Concari, Thierry Madiot, Virgile, Zizi Jeanmaire",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a0735632927_0",
+            "trackinfo": [
+                {
+                    "title": "Equus (Grand Véhicule): Pt 1",
+                    "duration": "06:55",
+                    "lyrics": null,
+                    "label": "Pogus",
+                    "track_id": 41101671,
+                    "track_num": "1",
+                    "artist": "Lionel Marchetti & Olivier Capparos",
+                    "url": "https://lionelmarchettioliviercapparos.bandcamp.com/track/equus-grand-v-hicule-pt-1",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0735632927_0",
+                    "art_id": 735632927,
+                    "about": null,
+                    "credits": "from Equus, released April 26, 2009",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Equus (Grand Véhicule): Pt 2",
+                    "duration": "16:40",
+                    "lyrics": null,
+                    "label": "Pogus",
+                    "track_id": 1922934118,
+                    "track_num": "2",
+                    "artist": "Lionel Marchetti & Olivier Capparos",
+                    "url": "https://lionelmarchettioliviercapparos.bandcamp.com/track/equus-grand-v-hicule-pt-2",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0735632927_0",
+                    "art_id": 735632927,
+                    "about": null,
+                    "credits": "from Equus, released April 26, 2009",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Equus (Grand Véhicule): Pt 3",
+                    "duration": "09:28",
+                    "lyrics": null,
+                    "label": "Pogus",
+                    "track_id": 361419661,
+                    "track_num": "3",
+                    "artist": "Lionel Marchetti & Olivier Capparos",
+                    "url": "https://lionelmarchettioliviercapparos.bandcamp.com/track/equus-grand-v-hicule-pt-3",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0735632927_0",
+                    "art_id": 735632927,
+                    "about": null,
+                    "credits": "from Equus, released April 26, 2009",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-19T19:12:36.587512+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-19T19:49:01.603790+00:00",
+            "pd_wacz_id": "RVSUfMba"
+        }
+    ],
+    "_band_id": 4116280095
+}
