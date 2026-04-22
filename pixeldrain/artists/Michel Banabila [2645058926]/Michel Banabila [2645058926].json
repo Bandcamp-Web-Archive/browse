@@ -1,0 +1,79 @@
+{
+    "Michel Banabila": [
+        {
+            "url": "https://michelbanabila.bandcamp.com/album/things-popping-up-from-the-past-early-works",
+            "title": "Things Popping Up from the Past (Early Works)",
+            "artist": "Michel Banabila",
+            "label": "Bureau B",
+            "band_id": 2645058926,
+            "classification": "paid",
+            "tags": [
+                "Electronic",
+                "Electronica",
+                "electronica",
+                "Berlin"
+            ],
+            "item_id": 405432335,
+            "art_id": 2742906775,
+            "is_preorder": false,
+            "datePublished": "03 Jun 2016 00:00:00 GMT",
+            "about": "Buy CD/LP @ Bureau B online shop:\nshop.tapeterecords.com/records/bureaub.html",
+            "credits": "released June 3, 2016\n2016, 2016 Bureau B",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2742906775_0",
+            "trackinfo": [
+                {
+                    "title": "October",
+                    "duration": "03:24",
+                    "lyrics": null,
+                    "label": "Bureau B",
+                    "track_id": 829393662,
+                    "track_num": "1",
+                    "artist": "Michel Banabila",
+                    "url": "https://michelbanabila.bandcamp.com/track/october",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2742906775_0",
+                    "art_id": 2742906775,
+                    "about": null,
+                    "credits": "from Things Popping Up from the Past (Early Works), track released January 1, 2017\n2016, 2016 Bureau B",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Des traces retrouvées I, No. 5",
+                    "duration": "02:55",
+                    "lyrics": null,
+                    "label": "Bureau B",
+                    "track_id": 1979986120,
+                    "track_num": "2",
+                    "artist": "Michel Banabila",
+                    "url": "https://michelbanabila.bandcamp.com/track/des-traces-retrouv-es-i-no-5",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2742906775_0",
+                    "art_id": 2742906775,
+                    "about": null,
+                    "credits": "from Things Popping Up from the Past (Early Works), track released January 1, 2017\n2016, 2016 Bureau B",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Piano No. 2",
+                    "duration": "03:03",
+                    "lyrics": null,
+                    "label": "Bureau B",
+                    "track_id": 746782961,
+                    "track_num": "3",
+                    "artist": "Michel Banabila",
+                    "url": "https://michelbanabila.bandcamp.com/track/piano-no-2",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2742906775_0",
+                    "art_id": 2742906775,
+                    "about": null,
+                    "credits": "from Things Popping Up from the Past (Early Works), track released January 1, 2017\n2016, 2016 Bureau B",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-21T19:35:25.836438+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-21T19:35:47.377209+00:00",
+            "pd_wacz_id": "Rc8bg7GS"
+        }
+    ],
+    "_band_id": 2645058926
+}
