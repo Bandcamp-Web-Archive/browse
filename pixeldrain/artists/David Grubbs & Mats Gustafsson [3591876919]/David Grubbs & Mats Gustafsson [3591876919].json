@@ -1,0 +1,77 @@
+{
+    "David Grubbs & Mats Gustafsson": [
+        {
+            "url": "https://davidgrubbsandmatsgustafsson.bandcamp.com/album/apertura",
+            "title": "Apertura",
+            "artist": "David Grubbs & Mats Gustafsson",
+            "label": "Drag City Records",
+            "band_id": 3591876919,
+            "classification": "paid",
+            "tags": [
+                "Experimental",
+                "classical",
+                "experimental",
+                "New York"
+            ],
+            "item_id": 2307968077,
+            "art_id": 2453762159,
+            "is_preorder": false,
+            "datePublished": "12 Jul 1997 00:00:00 GMT",
+            "about": null,
+            "credits": "released July 12, 1997",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2453762159_0",
+            "trackinfo": [],
+            "archived": true,
+            "archived_at": "2026-04-22T21:39:20.026683+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-22T21:40:31.982198+00:00",
+            "pd_wacz_id": "4pSeGb5Y"
+        },
+        {
+            "url": "https://davidgrubbsandmatsgustafsson.bandcamp.com/album/off-road",
+            "title": "Off-Road",
+            "artist": "David Grubbs & Mats Gustafsson",
+            "label": "Drag City Records",
+            "band_id": 3591876919,
+            "classification": "paid",
+            "tags": [
+                "Experimental",
+                "classical",
+                "experimental",
+                "New York"
+            ],
+            "item_id": 2637769516,
+            "art_id": 512815883,
+            "is_preorder": false,
+            "datePublished": "18 Mar 2003 00:00:00 GMT",
+            "about": "Their second duo recording, the follow-up to 1999's Apertura. Off-Road finds the two of them forsaking their earlier, glacially meditative m.o. for a shower of digitally recomposed slivers, the metal-on-metal timbre of a saxophone equipped with contact mics, Grubbs's chiming electric guitar, and Gustafsson's pro rhythm analog synthesizer clipped to the bell of his horn.",
+            "credits": "released March 18, 2003",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a0512815883_0",
+            "trackinfo": [
+                {
+                    "title": "Rendezvous Up North",
+                    "duration": "12:12",
+                    "lyrics": null,
+                    "label": "Drag City Records",
+                    "track_id": 3006313549,
+                    "track_num": "1",
+                    "artist": "David Grubbs & Mats Gustafsson",
+                    "url": "https://davidgrubbsandmatsgustafsson.bandcamp.com/track/rendezvous-up-north",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0512815883_0",
+                    "art_id": 512815883,
+                    "about": null,
+                    "credits": "from Off-Road, released March 18, 2003",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-22T21:40:11.478006+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-22T21:40:39.783889+00:00",
+            "pd_wacz_id": "p4Kh2Peq"
+        }
+    ],
+    "_band_id": 3591876919
+}
