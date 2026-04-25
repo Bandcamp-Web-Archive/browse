@@ -1,0 +1,92 @@
+{
+    "Cassiopeia Sturm & Patrick Shiroishi": [
+        {
+            "url": "https://inventionofthesaxophone.bandcamp.com/album/the-invention-of-the-saxophone",
+            "title": "The Invention of the Saxophone",
+            "artist": "Cassiopeia Sturm & Patrick Shiroishi",
+            "label": "Surface World",
+            "band_id": 2675110790,
+            "classification": "paid",
+            "tags": [
+                "Experimental",
+                "Los Angeles"
+            ],
+            "item_id": 3514820640,
+            "art_id": 1042081476,
+            "is_preorder": false,
+            "datePublished": "10 Jun 2022 00:00:00 GMT",
+            "about": "A meeting of two pillars of Los Angeles’ exploratory underground, The Invention of the Saxophone pairs Shiroishi’s tenor saxophone with Sturm’s self-built bionic Saxafone.\nCassiopeia Sturm (b. 1992) is a composer and musician who builds absurd, speculative instruments. Her work explores how instrument design can not only convey unique creative use but also be a platform for social critique and self-exploration. Many of her creations make use of unconventional interfaces that challenge cultural norms and ask participants to confront their expectations about design and musicianship. Sturm uses algorithmic processes, chaotic acoustics, and cybernetic circuitry to imbue her inventions with a sort of autonomy that blurs the line between creator, performer, and instrument. Through these methods, she plays with the expectations of what an instrument is and its relationship to both performer and composer.\nPatrick Shiroishi is a Japanese-American multi-instrumentalist and composer based in Los Angeles who is perhaps best known for his extensive and incredibly intense work with the saxophone. Over the last decade he has established himself as one of the premier improvising musicians in Los Angeles, playing solo and in numerous collaborative projects. Shiroishi may well be considered a foundational player in the city's vast musical expanse.",
+            "credits": "released June 10, 2022",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a1042081476_0",
+            "trackinfo": [
+                {
+                    "title": "The Neck",
+                    "duration": "09:29",
+                    "lyrics": null,
+                    "label": "Surface World",
+                    "track_id": 2375859518,
+                    "track_num": "1",
+                    "artist": "Cassiopeia Sturm & Patrick Shiroishi",
+                    "url": "https://inventionofthesaxophone.bandcamp.com/track/the-neck",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1042081476_0",
+                    "art_id": 1042081476,
+                    "about": null,
+                    "credits": "from The Invention of the Saxophone, released June 10, 2022",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "The Body",
+                    "duration": "08:23",
+                    "lyrics": null,
+                    "label": "Surface World",
+                    "track_id": 247763675,
+                    "track_num": "2",
+                    "artist": "Cassiopeia Sturm & Patrick Shiroishi",
+                    "url": "https://inventionofthesaxophone.bandcamp.com/track/the-body",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1042081476_0",
+                    "art_id": 1042081476,
+                    "about": null,
+                    "credits": "from The Invention of the Saxophone, released June 10, 2022",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "The Mouth",
+                    "duration": "08:43",
+                    "lyrics": null,
+                    "label": "Surface World",
+                    "track_id": 4024528875,
+                    "track_num": "3",
+                    "artist": "Cassiopeia Sturm & Patrick Shiroishi",
+                    "url": "https://inventionofthesaxophone.bandcamp.com/track/the-mouth",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1042081476_0",
+                    "art_id": 1042081476,
+                    "about": null,
+                    "credits": "from The Invention of the Saxophone, released June 10, 2022",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "The Bell",
+                    "duration": "08:43",
+                    "lyrics": null,
+                    "label": "Surface World",
+                    "track_id": 654083851,
+                    "track_num": "4",
+                    "artist": "Cassiopeia Sturm & Patrick Shiroishi",
+                    "url": "https://inventionofthesaxophone.bandcamp.com/track/the-bell",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1042081476_0",
+                    "art_id": 1042081476,
+                    "about": null,
+                    "credits": "from The Invention of the Saxophone, released June 10, 2022",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-04-24T17:06:53.107805+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-04-24T17:08:00.664395+00:00",
+            "pd_wacz_id": "ZeyJoLF9"
+        }
+    ],
+    "_band_id": 2675110790
+}
