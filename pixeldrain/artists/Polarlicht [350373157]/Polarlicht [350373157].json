@@ -10639,6 +10639,68 @@
             "uploaded": true,
             "uploaded_at": "2026-03-29T05:26:28.135281+00:00",
             "pd_wacz_id": "d5TA1PQQ"
+        },
+        {
+            "url": "https://polarlichthnw.bandcamp.com/album/untitled-36",
+            "title": "Untitled",
+            "artist": "Polarlicht",
+            "label": null,
+            "band_id": 350373157,
+            "classification": "nyp",
+            "tags": [
+                "ANW",
+                "Drone",
+                "Experimental",
+                "HNW",
+                "Noise",
+                "harsh noise",
+                "United States"
+            ],
+            "item_id": 1642544625,
+            "art_id": 3768088157,
+            "is_preorder": false,
+            "datePublished": "21 Apr 2026 02:48:49 GMT",
+            "about": null,
+            "credits": "released April 21, 2026\nCover art: Cruz-Diez, Carlos; Induction du jaune; 2007",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a3768088157_0",
+            "trackinfo": [
+                {
+                    "title": "Untitled",
+                    "duration": "06:34",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 211217758,
+                    "track_num": "1",
+                    "artist": "Polarlicht",
+                    "url": "https://polarlichthnw.bandcamp.com/track/untitled-169",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3768088157_0",
+                    "art_id": 3768088157,
+                    "about": null,
+                    "credits": "from Untitled, released April 21, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Untitled",
+                    "duration": "39:24",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3453272381,
+                    "track_num": "2",
+                    "artist": "Polarlicht",
+                    "url": "https://polarlichthnw.bandcamp.com/track/untitled-170",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3768088157_0",
+                    "art_id": 3768088157,
+                    "about": null,
+                    "credits": "from Untitled, released April 21, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-04-25T22:06:52.643687+00:00",
+            "uploaded_at": "2026-04-25T22:06:59.251159+00:00",
+            "pd_wacz_id": "iTcUFi2Y"
         }
     ],
     "_band_id": 350373157

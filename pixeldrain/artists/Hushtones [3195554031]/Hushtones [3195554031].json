@@ -14823,6 +14823,68 @@
             "archived_at": "2026-04-15T21:18:16.551988+00:00",
             "uploaded_at": "2026-04-15T21:19:18.412112+00:00",
             "pd_wacz_id": "DSSBEvCu"
+        },
+        {
+            "url": "https://hushtones.bandcamp.com/album/self-titled-c20",
+            "title": "Self Titled C20",
+            "artist": "ImCoPav & sobbing.",
+            "label": null,
+            "band_id": 3195554031,
+            "classification": "nyp",
+            "tags": [
+                "Electronic",
+                "ambient",
+                "drone",
+                "experimental",
+                "noise",
+                "vaporwave",
+                "Portland"
+            ],
+            "item_id": 2305733364,
+            "art_id": 4205005119,
+            "is_preorder": false,
+            "datePublished": "22 Apr 2026 00:00:00 GMT",
+            "about": null,
+            "credits": "released April 22, 2026\nImCoPav:\nimcopav.bandcamp.com\nsobbing.:\nsobbingnoise.bandcamp.com\nHSH-059",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a4205005119_0",
+            "trackinfo": [
+                {
+                    "title": "ever downward",
+                    "duration": "08:04",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1244514777,
+                    "track_num": "1",
+                    "artist": "ImCoPav & sobbing.",
+                    "url": "https://hushtones.bandcamp.com/track/ever-downward",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a4205005119_0",
+                    "art_id": 4205005119,
+                    "about": null,
+                    "credits": "from Self Titled C20, released April 22, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "plastered, like never before",
+                    "duration": "08:50",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1600289985,
+                    "track_num": "2",
+                    "artist": "ImCoPav & sobbing.",
+                    "url": "https://hushtones.bandcamp.com/track/plastered-like-never-before",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a4205005119_0",
+                    "art_id": 4205005119,
+                    "about": null,
+                    "credits": "from Self Titled C20, released April 22, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-04-25T22:13:11.988606+00:00",
+            "uploaded_at": "2026-04-25T22:13:19.291130+00:00",
+            "pd_wacz_id": "z1FThvWy"
         }
     ],
     "_band_id": 3195554031
