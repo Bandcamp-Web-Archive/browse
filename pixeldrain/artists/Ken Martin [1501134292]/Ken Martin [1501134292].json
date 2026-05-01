@@ -27523,6 +27523,83 @@
             "uploaded": true,
             "uploaded_at": "2026-04-19T05:41:04.517907+00:00",
             "pd_wacz_id": "BhAzuQVA"
+        },
+        {
+            "url": "https://kenmartin1.bandcamp.com/album/on-the-threshold-of-the-system",
+            "title": "On the Threshold of the System",
+            "artist": "Ken Martin",
+            "label": null,
+            "band_id": 1501134292,
+            "classification": "paid",
+            "tags": [
+                "Berlin School",
+                "Electronic",
+                "Experimental",
+                "Improvisation",
+                "Krautrock",
+                "Meditational",
+                "Spain"
+            ],
+            "item_id": 2239774118,
+            "art_id": 1460618307,
+            "is_preorder": false,
+            "datePublished": "27 Apr 2026 00:00:00 GMT",
+            "about": "Recorded at Studio Moixeta, Spain April 2026",
+            "credits": "released April 27, 2026",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a1460618307_0",
+            "trackinfo": [
+                {
+                    "title": "On the Threshold of the System",
+                    "duration": "23:54",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 842158750,
+                    "track_num": "1",
+                    "artist": "Ken Martin",
+                    "url": "https://kenmartin1.bandcamp.com/track/on-the-threshold-of-the-system",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1460618307_0",
+                    "art_id": 1460618307,
+                    "about": null,
+                    "credits": "from On the Threshold of the System, released April 27, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Particle Storm",
+                    "duration": "19:18",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 4107463548,
+                    "track_num": "2",
+                    "artist": "Ken Martin",
+                    "url": "https://kenmartin1.bandcamp.com/track/particle-storm",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1460618307_0",
+                    "art_id": 1460618307,
+                    "about": null,
+                    "credits": "from On the Threshold of the System, released April 27, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Look Back",
+                    "duration": "16:31",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 42973024,
+                    "track_num": "3",
+                    "artist": "Ken Martin",
+                    "url": "https://kenmartin1.bandcamp.com/track/look-back-2",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1460618307_0",
+                    "art_id": 1460618307,
+                    "about": null,
+                    "credits": "from On the Threshold of the System, released April 27, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-04-30T14:07:36.021999+00:00",
+            "uploaded_at": "2026-04-30T14:07:44.320887+00:00",
+            "pd_wacz_id": "qmrLu1Lb"
         }
     ],
     "_band_id": 1501134292

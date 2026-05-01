@@ -13214,6 +13214,62 @@
             "archived_at": "2026-04-25T21:59:24.751250+00:00",
             "uploaded_at": "2026-04-25T21:59:36.945499+00:00",
             "pd_wacz_id": "r3vzHwys"
+        },
+        {
+            "url": "https://weltlandschaft.bandcamp.com/album/easement-ii",
+            "title": "Easement II",
+            "artist": "LSZ",
+            "label": "Milieu Music Digital",
+            "band_id": 1378137653,
+            "classification": "nyp",
+            "tags": [
+                "Electronic",
+                "Experimental",
+                "ambient",
+                "deep listening",
+                "drone",
+                "drone music",
+                "drone wall",
+                "drone walls",
+                "drones",
+                "generative",
+                "minimal",
+                "minimalism",
+                "minimalist",
+                "new age",
+                "noise",
+                "Cleveland"
+            ],
+            "item_id": 701849625,
+            "art_id": 1456101245,
+            "is_preorder": false,
+            "datePublished": "29 Apr 2026 00:00:00 GMT",
+            "about": "An inverse affair from the first volume somewhat, Easement II sees LSZ continue exploring the GeoReverb processor in a more textural and atmospheric way. Routing a four-track tape recording of a 1953 Heathkit AO-1 sinewave oscillator through the system, then applying some time-domain pitch-shifting in GoldWave afterward, opens up a thick and uncertain landscape bristling with unique details that are fundamentally connected to the 216 area code.\nInterested parties can acquire GeoReverb for only $6 CAD direct from Paul here:  phantomexposure.gumroad.com/l/GeoReverb",
+            "credits": "released April 29, 2026\nW/P by Brian Grainger. Recorded 25th April 2026 at ZOR using four sine waves, GeoReverb and GoldWave. Mastered by The Analog Botanist. Text by Brian. Design by ABM&D using a photgraph taken aerially December 1937 in Cleveland by the War Department of the Army Air Forces (National Archives Identifier 512842). This is Milieu Music number ONE-26/115. (C) + (P) Oscillog ASCAP 2026. All sites observed.",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a1456101245_0",
+            "trackinfo": [
+                {
+                    "title": "Easement II",
+                    "duration": "56:12",
+                    "lyrics": null,
+                    "label": "Milieu Music Digital",
+                    "track_id": 3348758928,
+                    "track_num": "1",
+                    "artist": "LSZ",
+                    "url": "https://weltlandschaft.bandcamp.com/track/easement-ii",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1456101245_0",
+                    "art_id": 1456101245,
+                    "about": null,
+                    "credits": "from Easement II, released April 29, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-04-30T14:15:14.269409+00:00",
+            "uploaded_at": "2026-04-30T14:15:21.194435+00:00",
+            "pd_wacz_id": "c7HfqiTg"
         }
     ],
     "_band_id": 1378137653
