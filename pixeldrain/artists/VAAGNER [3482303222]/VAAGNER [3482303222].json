@@ -8422,7 +8422,7 @@
             ],
             "item_id": 3906315952,
             "art_id": 1940107237,
-            "is_preorder": true,
+            "is_preorder": false,
             "datePublished": "05 May 2026 00:00:00 GMT",
             "about": "øjeRum is the moniker of Danish artist Paw Grabowski. Since 2007, his mostly tape-based works have unfolded like private diaries—intimate, textural, often centered around an vintage pump organ Paw found left abandoned in a dilapidated Danish home, and to which he would return, sometimes in the dead of winter, to play and record on. The works featured on this release are centered around this pivotal engagement and collect some of his earliest releases from around 2014 to 2017. These were then carefully selected and released via Vaagner's sister label in 2018 via a double cassette release, which has since become a coveted collectors item.\nThroughout the album, the organ breathes, sighs—the moments of brief silence that follow are almost palpable, then like a sonorous echo, the sound rushes back into the foreground with gentle restraint, submerging the listener into an undulating current of emotional upheaval. In this ebb and flow, øjeRum shapes a space where memory seems to waver and dissolve, and where a fragile, lingering melancholy unfolds with a kind of hushed inevitability.\nWith the newly minted Vaagner.Archive, this album is now reissued on vinyl for the first time—carefully remastered and housed in a 2xLP gatefold sleeve printed on special cardboard, its tactile presence echoing the material sensitivity that has always defined Paw Grabowski's practice. A love letter to repetition and restraint.",
             "credits": "releases May 5, 2026\nMastered by Ian Hawgood",
@@ -8445,6 +8445,36 @@
                     "license": "all rights reserved"
                 },
                 {
+                    "title": "II",
+                    "duration": "01:44",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1467544083,
+                    "track_num": "2",
+                    "artist": "øjeRum",
+                    "url": "https://vaagner.bandcamp.com/track/ii-2",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1940107237_0",
+                    "art_id": 1940107237,
+                    "about": null,
+                    "credits": "from Selected Organ Works, releases May 5, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "III",
+                    "duration": "03:31",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3144640509,
+                    "track_num": "3",
+                    "artist": "øjeRum",
+                    "url": "https://vaagner.bandcamp.com/track/iii-2",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1940107237_0",
+                    "art_id": 1940107237,
+                    "about": null,
+                    "credits": "from Selected Organ Works, releases May 5, 2026",
+                    "license": "all rights reserved"
+                },
+                {
                     "title": "IV",
                     "duration": "03:10",
                     "lyrics": null,
@@ -8453,6 +8483,36 @@
                     "track_num": "4",
                     "artist": "øjeRum",
                     "url": "https://vaagner.bandcamp.com/track/iv-3",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1940107237_0",
+                    "art_id": 1940107237,
+                    "about": null,
+                    "credits": "from Selected Organ Works, releases May 5, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "V",
+                    "duration": "04:24",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3050831683,
+                    "track_num": "5",
+                    "artist": "øjeRum",
+                    "url": "https://vaagner.bandcamp.com/track/v-2",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1940107237_0",
+                    "art_id": 1940107237,
+                    "about": null,
+                    "credits": "from Selected Organ Works, releases May 5, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "VI",
+                    "duration": "04:00",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2416862840,
+                    "track_num": "6",
+                    "artist": "øjeRum",
+                    "url": "https://vaagner.bandcamp.com/track/vi-3",
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a1940107237_0",
                     "art_id": 1940107237,
                     "about": null,
@@ -8490,6 +8550,36 @@
                     "license": "all rights reserved"
                 },
                 {
+                    "title": "IX",
+                    "duration": "06:48",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3082728093,
+                    "track_num": "9",
+                    "artist": "øjeRum",
+                    "url": "https://vaagner.bandcamp.com/track/ix",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1940107237_0",
+                    "art_id": 1940107237,
+                    "about": null,
+                    "credits": "from Selected Organ Works, releases May 5, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "X",
+                    "duration": "04:52",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2865074852,
+                    "track_num": "10",
+                    "artist": "øjeRum",
+                    "url": "https://vaagner.bandcamp.com/track/x-2",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1940107237_0",
+                    "art_id": 1940107237,
+                    "about": null,
+                    "credits": "from Selected Organ Works, releases May 5, 2026",
+                    "license": "all rights reserved"
+                },
+                {
                     "title": "XI",
                     "duration": "04:31",
                     "lyrics": null,
@@ -8503,13 +8593,131 @@
                     "about": null,
                     "credits": "from Selected Organ Works, releases May 5, 2026",
                     "license": "all rights reserved"
+                },
+                {
+                    "title": "XII",
+                    "duration": "03:31",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3114454286,
+                    "track_num": "12",
+                    "artist": "øjeRum",
+                    "url": "https://vaagner.bandcamp.com/track/xii",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1940107237_0",
+                    "art_id": 1940107237,
+                    "about": null,
+                    "credits": "from Selected Organ Works, releases May 5, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "XIII",
+                    "duration": "06:24",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 4264096853,
+                    "track_num": "13",
+                    "artist": "øjeRum",
+                    "url": "https://vaagner.bandcamp.com/track/xiii",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1940107237_0",
+                    "art_id": 1940107237,
+                    "about": null,
+                    "credits": "from Selected Organ Works, releases May 5, 2026",
+                    "license": "all rights reserved"
                 }
             ],
             "archived": true,
             "uploaded": true,
-            "archived_at": "2026-04-04T20:08:29.036959+00:00",
-            "uploaded_at": "2026-04-04T20:08:44.499329+00:00",
-            "pd_wacz_id": "noaKy73J"
+            "archived_at": "2026-05-01T17:49:18.671627+00:00",
+            "uploaded_at": "2026-05-01T17:49:25.560076+00:00",
+            "pd_wacz_id": "noaKy73J",
+            "_history": [
+                {
+                    "changed_at": "2026-05-01T17:47:42.971794+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "noaKy73J",
+                    "fields": {
+                        "is_preorder": true,
+                        "trackinfo": [
+                            {
+                                "title": "I",
+                                "duration": "03:45",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 1030922761,
+                                "track_num": "1",
+                                "artist": "øjeRum",
+                                "url": "https://vaagner.bandcamp.com/track/i-3",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a1940107237_0",
+                                "art_id": 1940107237,
+                                "about": null,
+                                "credits": "from Selected Organ Works, releases May 5, 2026",
+                                "license": "all rights reserved"
+                            },
+                            {
+                                "title": "IV",
+                                "duration": "03:10",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 1258440471,
+                                "track_num": "4",
+                                "artist": "øjeRum",
+                                "url": "https://vaagner.bandcamp.com/track/iv-3",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a1940107237_0",
+                                "art_id": 1940107237,
+                                "about": null,
+                                "credits": "from Selected Organ Works, releases May 5, 2026",
+                                "license": "all rights reserved"
+                            },
+                            {
+                                "title": "VII",
+                                "duration": "08:04",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 132829562,
+                                "track_num": "7",
+                                "artist": "øjeRum",
+                                "url": "https://vaagner.bandcamp.com/track/vii",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a1940107237_0",
+                                "art_id": 1940107237,
+                                "about": null,
+                                "credits": "from Selected Organ Works, releases May 5, 2026",
+                                "license": "all rights reserved"
+                            },
+                            {
+                                "title": "VIII",
+                                "duration": "03:30",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 52519588,
+                                "track_num": "8",
+                                "artist": "øjeRum",
+                                "url": "https://vaagner.bandcamp.com/track/viii",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a1940107237_0",
+                                "art_id": 1940107237,
+                                "about": null,
+                                "credits": "from Selected Organ Works, releases May 5, 2026",
+                                "license": "all rights reserved"
+                            },
+                            {
+                                "title": "XI",
+                                "duration": "04:31",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 2929775352,
+                                "track_num": "11",
+                                "artist": "øjeRum",
+                                "url": "https://vaagner.bandcamp.com/track/xi",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a1940107237_0",
+                                "art_id": 1940107237,
+                                "about": null,
+                                "credits": "from Selected Organ Works, releases May 5, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://vaagner.bandcamp.com/album/slow-slow-spectres",
@@ -8524,7 +8732,7 @@
             ],
             "item_id": 51030191,
             "art_id": 925450275,
-            "is_preorder": true,
+            "is_preorder": false,
             "datePublished": "05 May 2026 00:00:00 GMT",
             "about": "Following his sonorous debut on the label with Magnetically Yours in 2024, Andrew Hargreaves returns with a solemn suite of vaporous, choral ennui, unfolding across two sides.",
             "credits": "releases May 5, 2026\nMastered by Ian Hawgood",
@@ -8545,13 +8753,56 @@
                     "about": null,
                     "credits": "from Slow, Slow Spectres, releases May 5, 2026",
                     "license": "all rights reserved"
+                },
+                {
+                    "title": "Slow Spectres Singing",
+                    "duration": "21:31",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 210409659,
+                    "track_num": "2",
+                    "artist": "Tape Loop Orchestra",
+                    "url": "https://vaagner.bandcamp.com/track/slow-spectres-singing",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0925450275_0",
+                    "art_id": 925450275,
+                    "about": null,
+                    "credits": "from Slow, Slow Spectres, releases May 5, 2026",
+                    "license": "all rights reserved"
                 }
             ],
             "archived": true,
             "uploaded": true,
-            "archived_at": "2026-04-04T20:09:08.923091+00:00",
-            "uploaded_at": "2026-04-04T20:09:20.788302+00:00",
-            "pd_wacz_id": "MvWuFHwW"
+            "archived_at": "2026-05-01T17:50:04.269265+00:00",
+            "uploaded_at": "2026-05-01T17:50:10.718090+00:00",
+            "pd_wacz_id": "MvWuFHwW",
+            "_history": [
+                {
+                    "changed_at": "2026-05-01T17:49:28.870561+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "MvWuFHwW",
+                    "fields": {
+                        "is_preorder": true,
+                        "trackinfo": [
+                            {
+                                "title": "Slow Spectres Humming",
+                                "duration": "21:31",
+                                "lyrics": null,
+                                "label": null,
+                                "track_id": 571472373,
+                                "track_num": "1",
+                                "artist": "Tape Loop Orchestra",
+                                "url": "https://vaagner.bandcamp.com/track/slow-spectres-humming",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a0925450275_0",
+                                "art_id": 925450275,
+                                "about": null,
+                                "credits": "from Slow, Slow Spectres, releases May 5, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ],
     "_band_id": 3482303222

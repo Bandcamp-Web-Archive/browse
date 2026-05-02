@@ -14528,6 +14528,64 @@
             "archived_at": "2026-04-18T19:18:46.342744+00:00",
             "uploaded_at": "2026-04-18T19:19:02.574970+00:00",
             "pd_wacz_id": "58xkosBF"
+        },
+        {
+            "url": "https://kevindrumm.bandcamp.com/album/terror-of-time",
+            "title": "Terror Of Time",
+            "artist": "Kevin Drumm",
+            "label": null,
+            "band_id": 3331797051,
+            "classification": "paid",
+            "tags": [
+                "Electro-acoustic noise music",
+                "Experimental",
+                "Chicago"
+            ],
+            "item_id": 170067031,
+            "art_id": 1217263315,
+            "is_preorder": false,
+            "datePublished": "01 May 2026 00:00:00 GMT",
+            "about": "Recorded here 2026 at The Horror Of Space Studios, Chicaggo illinois.\nElectronics,Wind and synthetic wind.",
+            "credits": "released May 1, 2026",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a1217263315_0",
+            "trackinfo": [
+                {
+                    "title": "Breeze",
+                    "duration": "10:04",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 937680336,
+                    "track_num": "1",
+                    "artist": "Kevin Drumm",
+                    "url": "https://kevindrumm.bandcamp.com/track/breeze",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1217263315_0",
+                    "art_id": 1217263315,
+                    "about": "Breeze",
+                    "credits": "from Terror Of Time, released May 1, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Moaning",
+                    "duration": "57:59",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 4073902667,
+                    "track_num": "2",
+                    "artist": "Kevin Drumm",
+                    "url": "https://kevindrumm.bandcamp.com/track/moaning",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1217263315_0",
+                    "art_id": 1217263315,
+                    "about": null,
+                    "credits": "from Terror Of Time, released May 1, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-05-01T18:21:47.909808+00:00",
+            "uploaded_at": "2026-05-01T18:21:56.812418+00:00",
+            "pd_wacz_id": "4Vy6sJwj"
         }
     ],
     "_band_id": 3331797051

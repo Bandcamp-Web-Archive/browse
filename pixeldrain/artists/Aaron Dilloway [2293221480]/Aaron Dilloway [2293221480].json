@@ -5212,6 +5212,83 @@
             "uploaded": true,
             "uploaded_at": "2026-03-14T21:10:55.566411+00:00",
             "pd_wacz_id": "PS7Gdr3L"
+        },
+        {
+            "url": "https://aarondilloway.bandcamp.com/album/headache-contest",
+            "title": "Headache Contest",
+            "artist": "Aaron Dilloway",
+            "label": "Hanson Records",
+            "band_id": 2293221480,
+            "classification": "paid",
+            "tags": [
+                "Experimental",
+                "industrial",
+                "musique concrete",
+                "noise",
+                "synthesizer",
+                "tape music",
+                "Oberlin"
+            ],
+            "item_id": 2931934089,
+            "art_id": 2951744871,
+            "is_preorder": false,
+            "datePublished": "02 Apr 2026 00:00:00 GMT",
+            "about": "A few weeks ago I hit up this resale shop I haven't been to before. Serious junk store.. stuff piled up everywhere, I had to lay on a pile of Christmas wreaths just to dig through some of the records. Anyway... I get to the electronics room. Ironically enough it has no lights... I start looking with the flashlight from my phone. Mountains of wires and junk and speakers and modems. I see this metal box laying randomly under a bunch of wires, I pull it out thinking it's probably some old telephone switch thing... then I see handwritten, VCO, NOISE, FILTER... I'm like NO WAY! I JUST FOUND A HOMEMADE SYNTH!!! This thing is covered in grime... Assume made in the 70's or early 80's. It's just GNARLY... I think this is too good to be true... No way it's gonna work... It feels so light I assume it's probably just the knobs and wires and has been gutted many many years ago. I also find an old Oscillator, a handheld reel to reel recorder, and a nice solid gun case that fits the synth perfectly. I take em up to the guy and ask \"how much?\" He says.. How about $15. WHAT?! SOLD!!!! So we are driving back and I'm thinking out loud that even if it's just the case it still looks great and maybe I will display it in my shop. I get home, unscrew the top and there is all the electronics right there!!! I plug it in...it works! It's raw but works! I cleaned up the knobs and switches and it's working good enough for me to use for sure! From the chip that was used Twig seems to think it's a \"Thomas Henry Super Controller\" that someone built. Check the pic. Anyway.. This is my first recordings made using that synth and two tape machines. Very minimal. Lots of noise.",
+            "credits": "released April 2, 2026",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2951744871_0",
+            "trackinfo": [
+                {
+                    "title": "Second Place",
+                    "duration": "09:50",
+                    "lyrics": null,
+                    "label": "Hanson Records",
+                    "track_id": 4075602964,
+                    "track_num": "1",
+                    "artist": "Aaron Dilloway",
+                    "url": "https://aarondilloway.bandcamp.com/track/second-place-2",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2951744871_0",
+                    "art_id": 2951744871,
+                    "about": null,
+                    "credits": "from Headache Contest, released April 2, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Third Place",
+                    "duration": "18:08",
+                    "lyrics": null,
+                    "label": "Hanson Records",
+                    "track_id": 2782729022,
+                    "track_num": "2",
+                    "artist": "Aaron Dilloway",
+                    "url": "https://aarondilloway.bandcamp.com/track/third-place",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2951744871_0",
+                    "art_id": 2951744871,
+                    "about": null,
+                    "credits": "from Headache Contest, released April 2, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Fourth Disqualified",
+                    "duration": "05:01",
+                    "lyrics": null,
+                    "label": "Hanson Records",
+                    "track_id": 533205312,
+                    "track_num": "5",
+                    "artist": "Aaron Dilloway",
+                    "url": "https://aarondilloway.bandcamp.com/track/fourth-disqualified",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2951744871_0",
+                    "art_id": 2951744871,
+                    "about": null,
+                    "credits": "from Headache Contest, released April 2, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-05-01T18:29:56.417812+00:00",
+            "uploaded_at": "2026-05-01T18:30:03.341170+00:00",
+            "pd_wacz_id": "SAXcd3yC"
         }
     ],
     "_band_id": 2293221480

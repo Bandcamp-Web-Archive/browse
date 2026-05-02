@@ -3744,6 +3744,51 @@
             "uploaded": true,
             "uploaded_at": "2026-04-10T02:31:17.900226+00:00",
             "pd_wacz_id": "83DBKqyY"
+        },
+        {
+            "url": "https://aversiontoreality.bandcamp.com/track/far-from-it",
+            "title": "Far From It",
+            "artist": "Aversion To Reality",
+            "label": null,
+            "band_id": 3061756866,
+            "classification": "nyp",
+            "tags": [
+                "Canadian",
+                "Electronic",
+                "noise",
+                "psychedelic",
+                "Winnipeg"
+            ],
+            "item_id": 550257340,
+            "art_id": 1524513224,
+            "is_preorder": null,
+            "datePublished": "01 May 2026 00:06:21 GMT",
+            "about": "It's been awhile. Here's an atmosphere-y track. There may be more stuff appearing soon-ish.",
+            "credits": "released May 1, 2026",
+            "license": "Attribution Non-commercial Share Alike",
+            "coverUrl_0": "https://f4.bcbits.com/img/a1524513224_0",
+            "trackinfo": [
+                {
+                    "title": "Far From It",
+                    "duration": "02:15",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 550257340,
+                    "track_num": "None",
+                    "artist": "Aversion To Reality",
+                    "url": "https://aversiontoreality.bandcamp.com/track/far-from-it",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1524513224_0",
+                    "art_id": 1524513224,
+                    "about": "It's been awhile. Here's an atmosphere-y track. There may be more stuff appearing soon-ish.",
+                    "credits": "released May 1, 2026",
+                    "license": "Attribution Non-commercial Share Alike"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-05-01T17:33:22.465351+00:00",
+            "uploaded_at": "2026-05-01T17:33:28.280408+00:00",
+            "pd_wacz_id": "G6GuLzGH"
         }
     ],
     "_band_id": 3061756866

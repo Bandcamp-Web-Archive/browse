@@ -2161,6 +2161,67 @@
             "uploaded": true,
             "uploaded_at": "2026-04-05T18:35:59.512524+00:00",
             "pd_wacz_id": "pNduGiJN"
+        },
+        {
+            "url": "https://streamsofconsciousness.bandcamp.com/album/250105",
+            "title": "250105",
+            "artist": "Dirk Serries' Streams Of Consciousness",
+            "label": null,
+            "band_id": 2326763941,
+            "classification": "paid",
+            "tags": [
+                "Ambient",
+                "avantgarde",
+                "drone",
+                "electronic",
+                "shoegaze",
+                "France"
+            ],
+            "item_id": 1520701932,
+            "art_id": 3230211198,
+            "is_preorder": false,
+            "datePublished": "01 May 2026 00:00:00 GMT",
+            "about": "digital-exclusive album",
+            "credits": "released May 1, 2026\nds : electric guitars. effects.",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a3230211198_0",
+            "trackinfo": [
+                {
+                    "title": "glimmering below",
+                    "duration": "19:12",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1433848063,
+                    "track_num": "1",
+                    "artist": "Dirk Serries' Streams Of Consciousness",
+                    "url": "https://streamsofconsciousness.bandcamp.com/track/glimmering-below",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3230211198_0",
+                    "art_id": 3230211198,
+                    "about": null,
+                    "credits": "from 250105, released May 1, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "outside twilight",
+                    "duration": "19:36",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3438658175,
+                    "track_num": "2",
+                    "artist": "Dirk Serries' Streams Of Consciousness",
+                    "url": "https://streamsofconsciousness.bandcamp.com/track/outside-twilight",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3230211198_0",
+                    "art_id": 3230211198,
+                    "about": null,
+                    "credits": "from 250105, released May 1, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-05-01T17:53:44.705592+00:00",
+            "uploaded_at": "2026-05-01T17:53:52.357195+00:00",
+            "pd_wacz_id": "PpZvuviR"
         }
     ],
     "_band_id": 2326763941

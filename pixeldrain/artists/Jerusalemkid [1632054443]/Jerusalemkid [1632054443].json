@@ -1,0 +1,63 @@
+{
+    "Jerusalemkid": [
+        {
+            "url": "https://jerusalemkid7.bandcamp.com/album/new-shit-some-stuff-on-my-mind",
+            "title": "New shit some stuff on my mind",
+            "artist": "Jerusalemkid",
+            "label": null,
+            "band_id": 1632054443,
+            "classification": "nyp",
+            "tags": [
+                "Hip-Hop/Rap",
+                "underground hip hop",
+                "Minnesota"
+            ],
+            "item_id": 1022276904,
+            "art_id": 3681231538,
+            "is_preorder": false,
+            "datePublished": "11 Aug 2017 23:02:56 GMT",
+            "about": null,
+            "credits": "released August 11, 2017",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a3681231538_0",
+            "trackinfo": [
+                {
+                    "title": "Fuck you nigga",
+                    "duration": "03:42",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 960044346,
+                    "track_num": "1",
+                    "artist": "Jerusalemkid",
+                    "url": "https://jerusalemkid7.bandcamp.com/track/fuck-you-nigga",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3681231538_0",
+                    "art_id": 3681231538,
+                    "about": null,
+                    "credits": "from New shit some stuff on my mind, released August 11, 2017",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Steaks advetures with jerusalem kid part 2",
+                    "duration": "02:13",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1992273202,
+                    "track_num": "2",
+                    "artist": "Jerusalemkid",
+                    "url": "https://jerusalemkid7.bandcamp.com/track/steaks-advetures-with-jerusalem-kid-part-2",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3681231538_0",
+                    "art_id": 3681231538,
+                    "about": null,
+                    "credits": "from New shit some stuff on my mind, released August 11, 2017",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "archived_at": "2026-05-01T21:45:38.923395+00:00",
+            "uploaded": true,
+            "uploaded_at": "2026-05-01T22:15:56.214932+00:00",
+            "pd_wacz_id": "HJZNWvKW"
+        }
+    ],
+    "_band_id": 1632054443
+}

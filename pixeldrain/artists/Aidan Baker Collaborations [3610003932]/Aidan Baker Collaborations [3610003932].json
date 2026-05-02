@@ -6199,6 +6199,68 @@
             "uploaded": true,
             "uploaded_at": "2026-03-15T07:09:54.011171+00:00",
             "pd_wacz_id": "bXEkSrSN"
+        },
+        {
+            "url": "https://aidanbakercollaborations.bandcamp.com/album/bottom-layers-of-a-surface",
+            "title": "Bottom Layers of A Surface",
+            "artist": "aidan baker | rsn",
+            "label": "Broken Spine Productions",
+            "band_id": 3610003932,
+            "classification": "nyp",
+            "tags": [
+                "Ambient",
+                "drone",
+                "musique concrete",
+                "piano",
+                "soundscape",
+                "xenochrony",
+                "Berlin"
+            ],
+            "item_id": 1283702540,
+            "art_id": 1834664460,
+            "is_preorder": false,
+            "datePublished": "27 Mar 2026 00:00:00 GMT",
+            "about": "Bottom Layers of A Surface’ is an exercise in randomness and artistic faith, or, as Frank Zappa called it, “xenochrony”. Bass and piano are recorded independently, without knowledge of what the other artist has put to tape, and when collated, a complexity emerges. Sounds fold onto sounds, complementing and pushing the boundaries of individual recordings, slowly painting the overall sonic picture of the audible surface. The result is a profound interweaving and overlapping of tones - bass-heavy layers interweave with distant-sounding piano tones as the music builds on itself, conditions itself, and creates an atmospheric unity - as if it were all happening right now and right here.",
+            "credits": "released March 27, 2026\nThomas Rosen - bass - recorded 2024 in Duisburg\nAidan Baker - piano - recorded 2024 in Mexico City\nMixed in 2025 in Berlin by Aidan Baker\nMastering: Bartosz Szturgiewicz @ Okla\nCover: Michał Kęskiewicz",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a1834664460_0",
+            "trackinfo": [
+                {
+                    "title": "Connecting Point",
+                    "duration": "20:04",
+                    "lyrics": null,
+                    "label": "Broken Spine Productions",
+                    "track_id": 1398905338,
+                    "track_num": "1",
+                    "artist": "aidan baker | rsn",
+                    "url": "https://aidanbakercollaborations.bandcamp.com/track/connecting-point",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1834664460_0",
+                    "art_id": 1834664460,
+                    "about": null,
+                    "credits": "from Bottom Layers of A Surface, released March 27, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Separation Layer",
+                    "duration": "20:06",
+                    "lyrics": null,
+                    "label": "Broken Spine Productions",
+                    "track_id": 2899874006,
+                    "track_num": "2",
+                    "artist": "aidan baker | rsn",
+                    "url": "https://aidanbakercollaborations.bandcamp.com/track/separation-layer",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1834664460_0",
+                    "art_id": 1834664460,
+                    "about": null,
+                    "credits": "from Bottom Layers of A Surface, released March 27, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-05-01T17:50:47.982055+00:00",
+            "uploaded_at": "2026-05-01T17:50:54.723204+00:00",
+            "pd_wacz_id": "EbFhaVWL"
         }
     ],
     "_band_id": 3610003932

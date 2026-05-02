@@ -80529,6 +80529,36 @@
             "archived_at": "2026-04-30T14:14:32.907110+00:00",
             "uploaded_at": "2026-04-30T14:14:39.932664+00:00",
             "pd_wacz_id": "mG2zoUr8"
+        },
+        {
+            "url": "https://ditcdcom.bandcamp.com/album/funkshun",
+            "title": "FUNKSHUN",
+            "artist": "al.divino",
+            "label": null,
+            "band_id": 477635475,
+            "classification": "paid",
+            "tags": [
+                "Hip-Hop",
+                "Hip-Hop/Rap",
+                "Rap",
+                "boombap",
+                "hiphop",
+                "Kailua Kona"
+            ],
+            "item_id": 963852840,
+            "art_id": 2824807999,
+            "is_preorder": false,
+            "datePublished": "01 May 2026 16:59:58 GMT",
+            "about": null,
+            "credits": "released May 1, 2026",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2824807999_0",
+            "trackinfo": [],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-05-01T18:34:16.404317+00:00",
+            "uploaded_at": "2026-05-01T18:34:23.597241+00:00",
+            "pd_wacz_id": "Xbpv6k9C"
         }
     ],
     "_band_id": 477635475
