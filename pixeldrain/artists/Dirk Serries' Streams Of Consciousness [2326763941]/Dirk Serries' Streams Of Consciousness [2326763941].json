@@ -2222,6 +2222,67 @@
             "archived_at": "2026-05-01T17:53:44.705592+00:00",
             "uploaded_at": "2026-05-01T17:53:52.357195+00:00",
             "pd_wacz_id": "PpZvuviR"
+        },
+        {
+            "url": "https://streamsofconsciousness.bandcamp.com/album/250109",
+            "title": "250109",
+            "artist": "Dirk Serries' Streams Of Consciousness",
+            "label": null,
+            "band_id": 2326763941,
+            "classification": "paid",
+            "tags": [
+                "Ambient",
+                "avantgarde",
+                "drone",
+                "electronic",
+                "shoegaze",
+                "France"
+            ],
+            "item_id": 1283392042,
+            "art_id": 161638906,
+            "is_preorder": false,
+            "datePublished": "03 May 2026 00:00:00 GMT",
+            "about": "digital-exclusive album",
+            "credits": "released May 3, 2026\nds : electric guitars. effects.",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a0161638906_0",
+            "trackinfo": [
+                {
+                    "title": "vapour pathway",
+                    "duration": "18:56",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3296856286,
+                    "track_num": "1",
+                    "artist": "Dirk Serries' Streams Of Consciousness",
+                    "url": "https://streamsofconsciousness.bandcamp.com/track/vapour-pathway",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0161638906_0",
+                    "art_id": 161638906,
+                    "about": null,
+                    "credits": "from 250109, released May 3, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "a frontier beyond",
+                    "duration": "19:13",
+                    "lyrics": "ds : electric guitars. effects.",
+                    "label": null,
+                    "track_id": 3475609500,
+                    "track_num": "2",
+                    "artist": "Dirk Serries' Streams Of Consciousness",
+                    "url": "https://streamsofconsciousness.bandcamp.com/track/a-frontier-beyond",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0161638906_0",
+                    "art_id": 161638906,
+                    "about": "digital-exclusive album",
+                    "credits": "from 250109, released May 3, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-05-03T18:25:12.924373+00:00",
+            "uploaded_at": "2026-05-03T18:25:23.148012+00:00",
+            "pd_wacz_id": "CKS82vTK"
         }
     ],
     "_band_id": 2326763941

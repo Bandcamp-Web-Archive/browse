@@ -15139,6 +15139,54 @@
             "uploaded": true,
             "uploaded_at": "2026-04-22T20:54:09.025596+00:00",
             "pd_wacz_id": "67ZmEw56"
+        },
+        {
+            "url": "https://banabila.bandcamp.com/track/along-the-fault",
+            "title": "Along The Fault",
+            "artist": "Willem Cramer, Oene van Geel, Michel Banabila",
+            "label": null,
+            "band_id": 2393094687,
+            "classification": "paid",
+            "tags": [
+                "Electronic",
+                "ambient",
+                "atmospheric",
+                "cinematic",
+                "dark",
+                "dark electronic",
+                "viola",
+                "Rotterdam"
+            ],
+            "item_id": 2625495169,
+            "art_id": 1663238105,
+            "is_preorder": null,
+            "datePublished": "03 May 2026 00:00:00 GMT",
+            "about": "Here’s a new, unexpected April collaboration with old friends -\nan instrumental track of electronics and viola.\nThis single is a download only.",
+            "credits": "released May 3, 2026\nMusic composed and performed by Willem Cramer, Oene van Geel and Michel Banabila. Artwork, mix and mastering by Willem Cramer. Produced by Willem Cramer.\nCat. nr. s030526TR.\nUPC 820233357333.\n© 2026 Tapu Records.",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a1663238105_0",
+            "trackinfo": [
+                {
+                    "title": "Along The Fault",
+                    "duration": "05:20",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2625495169,
+                    "track_num": "None",
+                    "artist": "Willem Cramer, Oene van Geel, Michel Banabila",
+                    "url": "https://banabila.bandcamp.com/track/along-the-fault",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1663238105_0",
+                    "art_id": 1663238105,
+                    "about": "Here’s a new, unexpected April collaboration with old friends -\nan instrumental track of electronics and viola.\nThis single is a download only.",
+                    "credits": "released May 3, 2026\nMusic composed and performed by Willem Cramer, Oene van Geel and Michel Banabila. Artwork, mix and mastering by Willem Cramer. Produced by Willem Cramer.\nCat. nr. s030526TR.\nUPC 820233357333.\n© 2026 Tapu Records.",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-05-03T18:24:30.320890+00:00",
+            "uploaded_at": "2026-05-03T18:24:39.531876+00:00",
+            "pd_wacz_id": "UGKKTjKm"
         }
     ],
     "_band_id": 2393094687
