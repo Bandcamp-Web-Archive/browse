@@ -66767,6 +66767,51 @@
             "archived_at": "2026-04-30T14:06:33.568747+00:00",
             "uploaded_at": "2026-04-30T14:06:56.100439+00:00",
             "pd_wacz_id": "tqPFnvoo"
+        },
+        {
+            "url": "https://elizabethveldon.bandcamp.com/album/a-short-improvisation-which-fails-utterly",
+            "title": "a short improvisation which fails utterly",
+            "artist": "elizabeth veldon",
+            "label": "black circle records",
+            "band_id": 981490501,
+            "classification": "paid",
+            "tags": [
+                "Experimental",
+                "avant garde",
+                "electronic",
+                "minimalism",
+                "United Kingdom"
+            ],
+            "item_id": 1874283211,
+            "art_id": 645559991,
+            "is_preorder": false,
+            "datePublished": "05 May 2026 11:33:07 GMT",
+            "about": "this improvisation actually does fail but i thought i would upload it anyway.\ncall it accepting failure, call it being lazy.\nwatchout for the feedback at the end and, if you're interested, the piano accordion weighs a stone and a 1/4.",
+            "credits": "released May 5, 2026",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a0645559991_0",
+            "trackinfo": [
+                {
+                    "title": "a short improvisation which fails utterly",
+                    "duration": "09:06",
+                    "lyrics": null,
+                    "label": "black circle records",
+                    "track_id": 2594869465,
+                    "track_num": "1",
+                    "artist": "elizabeth veldon",
+                    "url": "https://elizabethveldon.bandcamp.com/track/a-short-improvisation-which-fails-utterly",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0645559991_0",
+                    "art_id": 645559991,
+                    "about": null,
+                    "credits": "from a short improvisation which fails utterly, released May 5, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-05-06T13:07:17.100226+00:00",
+            "uploaded_at": "2026-05-06T13:07:22.920311+00:00",
+            "pd_wacz_id": "jgvAwy5Z"
         }
     ],
     "_band_id": 981490501
