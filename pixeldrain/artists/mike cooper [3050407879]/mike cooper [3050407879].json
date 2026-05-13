@@ -12939,6 +12939,65 @@
             "uploaded": true,
             "uploaded_at": "2026-04-24T21:59:13.047350+00:00",
             "pd_wacz_id": "2sbhQNPu"
+        },
+        {
+            "url": "https://mikecooper.bandcamp.com/album/the-dream-island-of-birds",
+            "title": "The Dream Island of Birds",
+            "artist": "mike cooper",
+            "label": "Discrepant",
+            "band_id": 3050407879,
+            "classification": "paid",
+            "tags": [
+                " post",
+                "Experimental",
+                "everything",
+                "Roma"
+            ],
+            "item_id": 1473830071,
+            "art_id": 3807443544,
+            "is_preorder": true,
+            "datePublished": "05 Jun 2026 00:00:00 GMT",
+            "about": "Mike Cooper returns to Discrepant with The Dream Island of Birds, a release that blurs the lines between memory, field recording, and reimagined sound.\nIn the early 1990s, Cooper met illustrator and writer Charles van Sandwyk while walking on a small island in Fiji. Van Sandwyk was living there quietly, working from a modest bamboo house near the beach. Years later, Cooper learned that following a serious car accident, van Sandwyk experienced vivid dreams during his recovery — one of which became a small illustrated book titled The Dream Island of Birds. A signed postcard from that book still hangs in Cooper’s studio.\nIn 2012, Cooper spent a month as artist-in-residence on Pulau Ubin, a small island between Singapore and Malaysia, recording birds and insects across the island. Home to more than 300 resident and migratory bird species, Pulau Ubin provided the source material for this album, later combined with electronics and digital processing. The track titles reference some of the island’s more evocatively named birds, though the sounds themselves are not literal representations. One piece is not derived from live birds at all, but imagined entirely through electronic means.\nNeither documentary nor abstraction, The Dream of Island Birds sits between field recording, memory, and invention — an island heard through time and circuitry.",
+            "credits": "releases June 5, 2026\nArtwork by Evan Crankshaw\nMaster by Daniel García",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a3807443544_0",
+            "trackinfo": [
+                {
+                    "title": "Oriental Pied Hornbill",
+                    "duration": "03:12",
+                    "lyrics": null,
+                    "label": "Discrepant",
+                    "track_id": 4129451022,
+                    "track_num": "1",
+                    "artist": "mike cooper",
+                    "url": "https://mikecooper.bandcamp.com/track/oriental-pied-hornbill-2",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3807443544_0",
+                    "art_id": 3807443544,
+                    "about": null,
+                    "credits": "from The Dream Island of Birds, releases June 5, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "White Throated Laughing Thrush",
+                    "duration": "04:08",
+                    "lyrics": null,
+                    "label": "Discrepant",
+                    "track_id": 2093121995,
+                    "track_num": "4",
+                    "artist": "mike cooper",
+                    "url": "https://mikecooper.bandcamp.com/track/white-throated-laughing-thrush-2",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3807443544_0",
+                    "art_id": 3807443544,
+                    "about": null,
+                    "credits": "from The Dream Island of Birds, releases June 5, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-05-12T19:26:52.304069+00:00",
+            "uploaded_at": "2026-05-12T19:27:01.129107+00:00",
+            "pd_wacz_id": "XKgr1ETR"
         }
     ],
     "_band_id": 3050407879

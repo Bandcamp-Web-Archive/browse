@@ -8983,6 +8983,52 @@
             "archived_at": "2026-05-06T13:01:53.313928+00:00",
             "uploaded_at": "2026-05-06T13:02:00.776861+00:00",
             "pd_wacz_id": "Xg3d6jQo"
+        },
+        {
+            "url": "https://brickmason.bandcamp.com/album/a-loving-family",
+            "title": "A Loving Family",
+            "artist": "Brickmason",
+            "label": null,
+            "band_id": 1414043079,
+            "classification": "nyp",
+            "tags": [
+                "Electronic",
+                "ambient",
+                "experimental",
+                "loops",
+                "vaporwave",
+                "Portland"
+            ],
+            "item_id": 2015025019,
+            "art_id": 1343468021,
+            "is_preorder": false,
+            "datePublished": "10 May 2026 22:28:45 GMT",
+            "about": null,
+            "credits": "released May 10, 2026",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a1343468021_0",
+            "trackinfo": [
+                {
+                    "title": "A Loving Family",
+                    "duration": "31:35",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 130998846,
+                    "track_num": "1",
+                    "artist": "Brickmason",
+                    "url": "https://brickmason.bandcamp.com/track/a-loving-family",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1343468021_0",
+                    "art_id": 1343468021,
+                    "about": null,
+                    "credits": "from A Loving Family, released May 10, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-05-12T19:26:10.769443+00:00",
+            "uploaded_at": "2026-05-12T19:26:17.175893+00:00",
+            "pd_wacz_id": "HWjEGrai"
         }
     ],
     "_band_id": 1414043079

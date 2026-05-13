@@ -2371,6 +2371,69 @@
             "archived_at": "2026-04-25T22:20:27.114950+00:00",
             "uploaded_at": "2026-04-25T22:20:41.676302+00:00",
             "pd_wacz_id": "TsmgBjPZ"
+        },
+        {
+            "url": "https://izprijenost.bandcamp.com/album/untitled-5",
+            "title": "untitled",
+            "artist": "unknown",
+            "label": null,
+            "band_id": 1034434446,
+            "classification": "paid",
+            "tags": [
+                "Black Metal",
+                "Black Noise",
+                "Experimental",
+                "Raw Black Metal",
+                "black ambient",
+                "harsh noise",
+                "love song",
+                "noise"
+            ],
+            "item_id": 3457491022,
+            "art_id": 1466975922,
+            "is_preorder": false,
+            "datePublished": "11 May 2026 15:32:10 GMT",
+            "about": null,
+            "credits": "released May 11, 2026",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a1466975922_0",
+            "trackinfo": [
+                {
+                    "title": "untitled",
+                    "duration": "05:58",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3253374818,
+                    "track_num": "1",
+                    "artist": "unknown",
+                    "url": "https://izprijenost.bandcamp.com/track/untitled-19",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1466975922_0",
+                    "art_id": 1466975922,
+                    "about": null,
+                    "credits": "from untitled, released May 11, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "untitled (alt)",
+                    "duration": "05:58",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 760392876,
+                    "track_num": "2",
+                    "artist": "unknown",
+                    "url": "https://izprijenost.bandcamp.com/track/untitled-alt-2",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1466975922_0",
+                    "art_id": 1466975922,
+                    "about": null,
+                    "credits": "from untitled, released May 11, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-05-12T19:28:57.632776+00:00",
+            "uploaded_at": "2026-05-12T19:29:05.529202+00:00",
+            "pd_wacz_id": "PeXd3nGs"
         }
     ],
     "_band_id": 1034434446
