@@ -60330,6 +60330,50 @@
             "uploaded": true,
             "uploaded_at": "2026-03-16T17:32:04.512178+00:00",
             "pd_wacz_id": "MZTgvBwc"
+        },
+        {
+            "url": "https://music.bucketheadpikes.com/album/horseless-carriage",
+            "title": "Horseless Carriage",
+            "artist": "Bucketheadland",
+            "label": null,
+            "band_id": 3055507029,
+            "classification": "paid",
+            "tags": [
+                "Alternative",
+                "Rock",
+                "instrumental rock",
+                "Los Angeles"
+            ],
+            "item_id": 3972056887,
+            "art_id": 4232997777,
+            "is_preorder": false,
+            "datePublished": "18 May 2026 20:06:50 GMT",
+            "about": null,
+            "credits": "released May 18, 2026\nCover art by Vince Khong",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a4232997777_0",
+            "trackinfo": [
+                {
+                    "title": "Horseless Carriage",
+                    "duration": "13:31",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 85134050,
+                    "track_num": "1",
+                    "artist": "Bucketheadland",
+                    "url": "https://music.bucketheadpikes.com/track/horseless-carriage",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a4232997777_0",
+                    "art_id": 4232997777,
+                    "about": null,
+                    "credits": "from Horseless Carriage, released May 18, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-06-05T07:51:50.781635+00:00",
+            "uploaded_at": "2026-06-05T07:51:58.823737+00:00",
+            "pd_wacz_id": "hFq4H1zH"
         }
     ],
     "_band_id": 3055507029

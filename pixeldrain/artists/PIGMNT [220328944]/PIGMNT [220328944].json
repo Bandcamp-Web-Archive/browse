@@ -24,13 +24,28 @@
             ],
             "item_id": 2356825031,
             "art_id": 1746139414,
-            "is_preorder": true,
+            "is_preorder": false,
             "datePublished": "28 May 2026 00:00:00 GMT",
             "about": "The second year of Create Define Release’s Pathways programme kicks off with a five-track EP by North-West London artist PIGMNT, backed with a Roska remix.\nLondon born and bred, PIGMNT’s music combines a distinctive inner-city grit with a rhythmic energy that draws from key dance music styles from the African diaspora – particularly UK Funky, Amapiano, Gqom and Tribal. Releasing music consistently for half a decade now, he’s previously released on labels like Sweet Shop, Club Djembe and Funky Adjacent, and been supported by DJs and taste-makers including Ikonika, Scratchclart, Pearson Sound, Emily Dust and Bok Bok.\nLike many Londoners, PIGMNT’s earliest productions were heavily inspired by grime and dubstep (like many grime fans, he first started making beats on Playstation game Music 2000 - heritage!), but as he’s opened up his sound palette, he’s let in influences as varied as Kaytranda, Hyperdub, Night Slugs and Flying Lotus, while always keeping his eyes firmly on what matters most when making dance music: keeping things properly danceable.\nPIGMNT’s EP for Pathways centres around four plants – Nettle Root, Ginseng, Suma Root and Ashwagandha – and the properties of each. In PIGMNT’s words: ‘each track is linked to a holistic herb. It’s an idea I’ve wanted to explore for a while, especially after discovering Metal Fingers, aka MF DOOM’s Special Herbs series years ago, but I’d never fully followed through with it until now. I’ve always believed that music itself can be healing, so this felt like a natural way to take that idea further by directly tying the tracks to herbs with known properties.’\n‘I liked the idea of tying these meanings into the music itself by making the tracks quite sub-heavy and bass-driven, creating a physical, visceral experience where you’re not just hearing the music, you’re feeling it in your body. In a way, that connects back to the idea of healing. Overall, it’s about combining sound, feeling and idea, letting people engage with it on whatever level they choose, whether that’s purely musical or something a bit deeper.’\nA genre-bending, groove-led EP that’s as physical as it is conceptual, ‘Ginseng’ showcases PIGMNT’s music at its most deep and powerful.",
             "credits": "releases May 28, 2026\nWritten and produced by PIGMNT\nRemix of 'Nettle Root' by Roska\nMastered by Adam Scrimshaw\nPhotography by CICELY GRACE\nArtwork by Max Bloom\nReleased by CDR with support from PRS Foundation.\nCatalog #: CDR007",
             "license": "all rights reserved",
             "coverUrl_0": "https://f4.bcbits.com/img/a1746139414_0",
             "trackinfo": [
+                {
+                    "title": "Nettle Root",
+                    "duration": "03:05",
+                    "lyrics": null,
+                    "label": "CDR",
+                    "track_id": 1978477036,
+                    "track_num": "1",
+                    "artist": "PIGMNT",
+                    "url": "https://pigmnt.bandcamp.com/track/nettle-root",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1746139414_0",
+                    "art_id": 1746139414,
+                    "about": null,
+                    "credits": "from Ginseng EP, released May 28, 2026",
+                    "license": "all rights reserved"
+                },
                 {
                     "title": "Ginseng",
                     "duration": "04:14",
@@ -43,15 +58,88 @@
                     "trackCoverUrl_0": "https://f4.bcbits.com/img/a1746139414_0",
                     "art_id": 1746139414,
                     "about": null,
-                    "credits": "from Ginseng EP, releases May 28, 2026",
+                    "credits": "from Ginseng EP, released May 28, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Suma Root",
+                    "duration": "03:43",
+                    "lyrics": null,
+                    "label": "CDR",
+                    "track_id": 2786865516,
+                    "track_num": "3",
+                    "artist": "PIGMNT",
+                    "url": "https://pigmnt.bandcamp.com/track/suma-root",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1746139414_0",
+                    "art_id": 1746139414,
+                    "about": null,
+                    "credits": "from Ginseng EP, released May 28, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Ashwagandha",
+                    "duration": "03:42",
+                    "lyrics": null,
+                    "label": "CDR",
+                    "track_id": 3906265968,
+                    "track_num": "4",
+                    "artist": "PIGMNT",
+                    "url": "https://pigmnt.bandcamp.com/track/ashwagandha",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1746139414_0",
+                    "art_id": 1746139414,
+                    "about": null,
+                    "credits": "from Ginseng EP, released May 28, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Nettle Root (Roska Remix)",
+                    "duration": "04:33",
+                    "lyrics": null,
+                    "label": "CDR",
+                    "track_id": 3285762425,
+                    "track_num": "5",
+                    "artist": "PIGMNT",
+                    "url": "https://pigmnt.bandcamp.com/track/nettle-root-roska-remix",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a1746139414_0",
+                    "art_id": 1746139414,
+                    "about": null,
+                    "credits": "from Ginseng EP, released May 28, 2026",
                     "license": "all rights reserved"
                 }
             ],
             "archived": true,
-            "archived_at": "2026-05-12T19:31:22.664508+00:00",
+            "archived_at": "2026-06-05T08:54:32.217022+00:00",
             "uploaded": true,
-            "uploaded_at": "2026-05-12T19:39:32.036609+00:00",
-            "pd_wacz_id": "G33qkMch"
+            "uploaded_at": "2026-06-05T08:54:39.230850+00:00",
+            "pd_wacz_id": "G33qkMch",
+            "_history": [
+                {
+                    "changed_at": "2026-06-05T08:53:44.595534+00:00",
+                    "archived_at_change": true,
+                    "uploaded_at_change": true,
+                    "pd_wacz_id_at_change": "G33qkMch",
+                    "fields": {
+                        "is_preorder": true,
+                        "trackinfo": [
+                            {
+                                "title": "Ginseng",
+                                "duration": "04:14",
+                                "lyrics": null,
+                                "label": "CDR",
+                                "track_id": 884126405,
+                                "track_num": "2",
+                                "artist": "PIGMNT",
+                                "url": "https://pigmnt.bandcamp.com/track/ginseng",
+                                "trackCoverUrl_0": "https://f4.bcbits.com/img/a1746139414_0",
+                                "art_id": 1746139414,
+                                "about": null,
+                                "credits": "from Ginseng EP, releases May 28, 2026",
+                                "license": "all rights reserved"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "url": "https://pigmnt.bandcamp.com/album/green-ranger-ep",

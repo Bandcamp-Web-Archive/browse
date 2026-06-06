@@ -37830,6 +37830,72 @@
             "archived_at": "2026-05-01T17:47:21.527233+00:00",
             "uploaded_at": "2026-05-01T17:47:28.642777+00:00",
             "pd_wacz_id": "FCHc23vp"
+        },
+        {
+            "url": "https://andrewliles.bandcamp.com/album/chtonia-org",
+            "title": "CHTONIA ORGĒ",
+            "artist": "NEKPΩN IAXEΣ",
+            "label": null,
+            "band_id": 3048864814,
+            "classification": "paid",
+            "tags": [
+                "Experimental",
+                "Rotting Christ",
+                "ambient",
+                "avant garde",
+                "drone",
+                "experimental-metal",
+                "greek",
+                "ritual",
+                "ritual dark ambient",
+                "sound art",
+                "United Kingdom"
+            ],
+            "item_id": 1899649814,
+            "art_id": 3003513091,
+            "is_preorder": false,
+            "datePublished": "06 Jun 2026 00:00:00 GMT",
+            "about": "NEKPΩN IAXEΣ is an experimental spoken word project formed by Andrew Liles and Sakis Tolis of Rotting Christ.\nThis is their 3rd release.\nThe first album, The Oracles, can be found here -  andrewliles.bandcamp.com/album/the-oracles\nThe second album, Cosmogony, can be found here -\nandrewliles.bandcamp.com/album/cosmogony\nSakis Tolis: Words and Narration\nAndrew Liles: Sound\nMichael J York: Bagpipes\nMelon Liles: Whispers",
+            "credits": "releases June 6, 2026",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a3003513091_0",
+            "trackinfo": [
+                {
+                    "title": "Lord, Come Forth",
+                    "duration": "16:05",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3999287405,
+                    "track_num": "1",
+                    "artist": "NEKPΩN IAXEΣ",
+                    "url": "https://andrewliles.bandcamp.com/track/lord-come-forth",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3003513091_0",
+                    "art_id": 3003513091,
+                    "about": null,
+                    "credits": "from CHTONIA ORGĒ, releases June 6, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Chtonia Orgē",
+                    "duration": "14:08",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 573448708,
+                    "track_num": "2",
+                    "artist": "NEKPΩN IAXEΣ",
+                    "url": "https://andrewliles.bandcamp.com/track/chtonia-org",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3003513091_0",
+                    "art_id": 3003513091,
+                    "about": null,
+                    "credits": "from CHTONIA ORGĒ, releases June 6, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-06-05T19:13:21.220188+00:00",
+            "uploaded_at": "2026-06-05T19:13:28.080941+00:00",
+            "pd_wacz_id": "QYk8M3dE"
         }
     ],
     "_band_id": 3048864814

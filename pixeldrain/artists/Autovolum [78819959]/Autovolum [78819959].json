@@ -3106,6 +3106,52 @@
             "archived_at": "2026-04-15T21:11:58.515891+00:00",
             "uploaded_at": "2026-04-15T21:16:58.078068+00:00",
             "pd_wacz_id": "qSWfSF6L"
+        },
+        {
+            "url": "https://autovolum.bandcamp.com/album/disruption",
+            "title": "Disruption",
+            "artist": "Autovolum",
+            "label": null,
+            "band_id": 78819959,
+            "classification": "paid",
+            "tags": [
+                "Electronic",
+                "experimental",
+                "harsh noise",
+                "harsh noise wall",
+                "noise",
+                "synthesizer"
+            ],
+            "item_id": 361557729,
+            "art_id": 2923742829,
+            "is_preorder": false,
+            "datePublished": "13 May 2026 00:00:00 GMT",
+            "about": null,
+            "credits": "released May 13, 2026",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a2923742829_0",
+            "trackinfo": [
+                {
+                    "title": "Disruption",
+                    "duration": "59:26",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2696325072,
+                    "track_num": "1",
+                    "artist": "Autovolum",
+                    "url": "https://autovolum.bandcamp.com/track/disruption",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a2923742829_0",
+                    "art_id": 2923742829,
+                    "about": null,
+                    "credits": "from Disruption, released May 13, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-06-05T05:54:33.642503+00:00",
+            "uploaded_at": "2026-06-05T05:54:41.004353+00:00",
+            "pd_wacz_id": "R5m12auG"
         }
     ],
     "_band_id": 78819959

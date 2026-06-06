@@ -12998,6 +12998,69 @@
             "archived_at": "2026-05-12T19:26:52.304069+00:00",
             "uploaded_at": "2026-05-12T19:27:01.129107+00:00",
             "pd_wacz_id": "XKgr1ETR"
+        },
+        {
+            "url": "https://mikecooper.bandcamp.com/album/stochastic-parrot",
+            "title": "Stochastic Parrot",
+            "artist": "mike cooper",
+            "label": "Room40",
+            "band_id": 3050407879,
+            "classification": "paid",
+            "tags": [
+                " post",
+                "Experimental",
+                "ambient",
+                "everything",
+                "exotica",
+                "field recordings",
+                "oceanic",
+                "Roma"
+            ],
+            "item_id": 3794418162,
+            "art_id": 314383969,
+            "is_preorder": true,
+            "datePublished": "14 Aug 2026 00:00:00 GMT",
+            "about": "A Note from Mike...\nIn the past some reviewers and critics of my series of Ambient / Electronic / Exotic releases mentioned Jon Hassell and even suggested that we should make an album together.\nThat never happened of course and probably never would have. An inﬂuence of his music on my exotica music is in some ways true but initially to be honest it was the cover art by Mati Klarwein for Aka/ Darbari/ Java and Dream Theory in Malaya that I would sometimes turn to look at for inspiration. They reminded me of places that I loved to be and why I was making the music. They were non-existent or imaginary places that i might have visited in dreams or half remembered from real places.\nMati also provided art work for the covers of Miles Davis’s records, from Bitches Brew onwards and for Carlos Santana amongst many others. There is also a lot of King Tubby and Lee Scratch Perry’s inﬂuence here in the process as well as the poetry and novels of Nathaniel Mackey which were referenced often during the gestation period.",
+            "credits": "releases August 14, 2026\nThanks to the two guest musicians - Pierre Bastien and Mark Cunningham who both play cornet/trumpet adding analogue acoustic instrumentation to my digital daydreams..\nMike Cooper - Samples, Field Recordings, Voice, Lap Steel Guitars (real and virtual)\nPierre Bastien - Valve Cornet\nMark Cunningham - Trumpet\nMastered by Lawrence English at Negative Space\nDesign by Traianos Pakioufakis\nCover image by Mike Cooper",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a0314383969_0",
+            "trackinfo": [
+                {
+                    "title": "AUDITORY AMBIGUITY",
+                    "duration": "02:56",
+                    "lyrics": null,
+                    "label": "Room40",
+                    "track_id": 3780916724,
+                    "track_num": "9",
+                    "artist": "mike cooper",
+                    "url": "https://mikecooper.bandcamp.com/track/auditory-ambiguity",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0314383969_0",
+                    "art_id": 314383969,
+                    "about": null,
+                    "credits": "from Stochastic Parrot, releases August 14, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "THRASHIN MARLIN",
+                    "duration": "05:41",
+                    "lyrics": null,
+                    "label": "Room40",
+                    "track_id": 1928152574,
+                    "track_num": "10",
+                    "artist": "mike cooper",
+                    "url": "https://mikecooper.bandcamp.com/track/thrashin-marlin",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0314383969_0",
+                    "art_id": 314383969,
+                    "about": null,
+                    "credits": "from Stochastic Parrot, releases August 14, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-06-05T08:50:26.182332+00:00",
+            "uploaded_at": "2026-06-05T08:50:32.368557+00:00",
+            "pd_wacz_id": "mL9dHQFZ"
         }
     ],
     "_band_id": 3050407879

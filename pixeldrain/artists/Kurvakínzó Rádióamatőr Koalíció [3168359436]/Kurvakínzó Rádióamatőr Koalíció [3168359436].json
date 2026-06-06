@@ -3117,6 +3117,67 @@
             "uploaded": true,
             "uploaded_at": "2026-03-31T15:06:41.843378+00:00",
             "pd_wacz_id": "5uco1fxq"
+        },
+        {
+            "url": "https://kurvakinzoradioamatorkoalicio.bandcamp.com/album/elpilledt-kisl-ny",
+            "title": "Elpilledt Kislány",
+            "artist": "Kurvakínzó Rádióamatőr Koalíció",
+            "label": null,
+            "band_id": 3168359436,
+            "classification": "nyp",
+            "tags": [
+                "Electronic",
+                "Experimental",
+                "dark ambient",
+                "harsh noise wall",
+                "industrial",
+                "noise"
+            ],
+            "item_id": 2821602593,
+            "art_id": 3106798103,
+            "is_preorder": false,
+            "datePublished": "26 May 2026 00:00:00 GMT",
+            "about": null,
+            "credits": "released May 26, 2026",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a3106798103_0",
+            "trackinfo": [
+                {
+                    "title": "Elpilledt Kislány - I",
+                    "duration": "15:01",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2281882494,
+                    "track_num": "1",
+                    "artist": "Kurvakínzó Rádióamatőr Koalíció",
+                    "url": "https://kurvakinzoradioamatorkoalicio.bandcamp.com/track/elpilledt-kisl-ny-i",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3106798103_0",
+                    "art_id": 3106798103,
+                    "about": null,
+                    "credits": "from Elpilledt Kislány, released May 26, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Elpilledt Kislány - II",
+                    "duration": "15:02",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 3959676490,
+                    "track_num": "2",
+                    "artist": "Kurvakínzó Rádióamatőr Koalíció",
+                    "url": "https://kurvakinzoradioamatorkoalicio.bandcamp.com/track/elpilledt-kisl-ny-ii",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3106798103_0",
+                    "art_id": 3106798103,
+                    "about": null,
+                    "credits": "from Elpilledt Kislány, released May 26, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-06-05T08:49:37.966446+00:00",
+            "uploaded_at": "2026-06-05T08:49:50.749420+00:00",
+            "pd_wacz_id": "oKjxez8y"
         }
     ],
     "_band_id": 3168359436

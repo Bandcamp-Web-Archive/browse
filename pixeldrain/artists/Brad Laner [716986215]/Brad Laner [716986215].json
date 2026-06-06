@@ -22186,6 +22186,68 @@
             "archived_at": "2026-04-25T22:24:02.070151+00:00",
             "uploaded_at": "2026-04-25T22:24:19.895585+00:00",
             "pd_wacz_id": "B6FRWNtT"
+        },
+        {
+            "url": "https://bradlaner.bandcamp.com/album/--3",
+            "title": "😛㉓",
+            "artist": "Brad Laner",
+            "label": null,
+            "band_id": 716986215,
+            "classification": "paid",
+            "tags": [
+                " noise pop",
+                "Experimental",
+                "dream pop",
+                "modular synth",
+                "psychedelic",
+                "shoegaze",
+                "Los Angeles"
+            ],
+            "item_id": 3557431208,
+            "art_id": 3545168651,
+            "is_preorder": false,
+            "datePublished": "05 Jun 2026 20:03:17 GMT",
+            "about": "Live improvisations for modular synthesizer December 2025",
+            "credits": "released June 5, 2026",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a3545168651_0",
+            "trackinfo": [
+                {
+                    "title": "😛⑬",
+                    "duration": "18:24",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2703449480,
+                    "track_num": "1",
+                    "artist": "Brad Laner",
+                    "url": "https://bradlaner.bandcamp.com/track/--23",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3545168651_0",
+                    "art_id": 3545168651,
+                    "about": null,
+                    "credits": "from 😛㉓, released June 5, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "😛㉝",
+                    "duration": "18:02",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2685673351,
+                    "track_num": "2",
+                    "artist": "Brad Laner",
+                    "url": "https://bradlaner.bandcamp.com/track/--22",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3545168651_0",
+                    "art_id": 3545168651,
+                    "about": null,
+                    "credits": "from 😛㉓, released June 5, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-06-05T20:30:34.177312+00:00",
+            "uploaded_at": "2026-06-05T20:30:43.070319+00:00",
+            "pd_wacz_id": "eLt887Fh"
         }
     ],
     "_band_id": 716986215

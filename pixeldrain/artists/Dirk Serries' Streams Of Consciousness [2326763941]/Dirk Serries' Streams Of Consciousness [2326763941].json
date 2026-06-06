@@ -2283,6 +2283,52 @@
             "archived_at": "2026-05-03T18:25:12.924373+00:00",
             "uploaded_at": "2026-05-03T18:25:23.148012+00:00",
             "pd_wacz_id": "CKS82vTK"
+        },
+        {
+            "url": "https://streamsofconsciousness.bandcamp.com/album/251209",
+            "title": "251209",
+            "artist": "Dirk Serries' Streams Of Consciousness",
+            "label": null,
+            "band_id": 2326763941,
+            "classification": "paid",
+            "tags": [
+                "Ambient",
+                "avantgarde",
+                "drone",
+                "electronic",
+                "shoegaze",
+                "France"
+            ],
+            "item_id": 3793700204,
+            "art_id": 3322370289,
+            "is_preorder": false,
+            "datePublished": "01 Jun 2026 00:00:00 GMT",
+            "about": "digital-exclusive album",
+            "credits": "released June 1, 2026\nds : electric guitars. effects.",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a3322370289_0",
+            "trackinfo": [
+                {
+                    "title": "magma of thought",
+                    "duration": "38:40",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 2735882146,
+                    "track_num": "1",
+                    "artist": "Dirk Serries' Streams Of Consciousness",
+                    "url": "https://streamsofconsciousness.bandcamp.com/track/magma-of-thought",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3322370289_0",
+                    "art_id": 3322370289,
+                    "about": null,
+                    "credits": "from 251209, released June 1, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-06-05T10:18:00.277902+00:00",
+            "uploaded_at": "2026-06-05T10:18:08.105220+00:00",
+            "pd_wacz_id": "XHfjdHzb"
         }
     ],
     "_band_id": 2326763941

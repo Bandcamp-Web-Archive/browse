@@ -960,6 +960,70 @@
             "uploaded": true,
             "uploaded_at": "2026-03-18T06:50:58.022644+00:00",
             "pd_wacz_id": "ZLk8VdKm"
+        },
+        {
+            "url": "https://necroholod.bandcamp.com/album/spatiotemporal-waves",
+            "title": "Spatiotemporal waves",
+            "artist": "некрохолод",
+            "label": null,
+            "band_id": 3755081065,
+            "classification": "paid",
+            "tags": [
+                "Ambient",
+                "ambient",
+                "dark ambient",
+                "deep ambient",
+                "drone",
+                "expressionism",
+                "exprimental",
+                "neoclassical",
+                "Kharkiv"
+            ],
+            "item_id": 476350002,
+            "art_id": 669167718,
+            "is_preorder": false,
+            "datePublished": "28 May 2026 00:00:00 GMT",
+            "about": "A cathartic sound as a manifestation of infinity. This single is about neutrality, about perceiving the world and experience as it is. Waves of shimmering words, memories, everything that has shaped the human experience over millennia. All of this is one vast vortex, penetrating the very depths of humanity, which ultimately is humanity.\nThis single is about the I-am, about the state of not being, of existing only as a manifestation.\nThe writing process for these compositions was deeply focused and meditative",
+            "credits": "released May 28, 2026",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a0669167718_0",
+            "trackinfo": [
+                {
+                    "title": "Spatiotemporal waves",
+                    "duration": "03:18",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 475632453,
+                    "track_num": "1",
+                    "artist": "некрохолод",
+                    "url": "https://necroholod.bandcamp.com/track/spatiotemporal-waves",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0669167718_0",
+                    "art_id": 669167718,
+                    "about": null,
+                    "credits": "from Spatiotemporal waves, released May 28, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Lucid luminaries",
+                    "duration": "02:57",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 269315087,
+                    "track_num": "2",
+                    "artist": "некрохолод",
+                    "url": "https://necroholod.bandcamp.com/track/lucid-luminaries",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a0669167718_0",
+                    "art_id": 669167718,
+                    "about": null,
+                    "credits": "from Spatiotemporal waves, released May 28, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-06-05T08:55:13.772061+00:00",
+            "uploaded_at": "2026-06-05T08:55:20.460286+00:00",
+            "pd_wacz_id": "X4entpYC"
         }
     ],
     "_band_id": 3755081065

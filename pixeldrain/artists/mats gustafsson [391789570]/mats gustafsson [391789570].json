@@ -13293,6 +13293,81 @@
             "uploaded": true,
             "uploaded_at": "2026-04-23T02:10:05.809015+00:00",
             "pd_wacz_id": "Pwq5WEXV"
+        },
+        {
+            "url": "https://matsgustafsson.bandcamp.com/album/collider",
+            "title": "Collider",
+            "artist": "THE DKV THING TRIO",
+            "label": "trost records",
+            "band_id": 391789570,
+            "classification": "paid",
+            "tags": [
+                "Jazz",
+                "experimental",
+                "free jazz",
+                "improvised music",
+                "Vienna"
+            ],
+            "item_id": 2814693684,
+            "art_id": 3346604545,
+            "is_preorder": false,
+            "datePublished": "27 May 2026 15:40:42 GMT",
+            "about": "recorded November 1st 2015, Manggha Hall, Krakow, Poland\nthe album was released on Not Two, 2016",
+            "credits": "released May 27, 2026\nKen Vandermark – tenor and baritone saxophone, Bb clarinet\nMats Gustafsson – tenor and baritone saxophone\nIngebrigt Haker Flaten – bass\nKent Kessler – bass\nHamid Drake – drums\nPaal Nilssen-love – drums\nRecorded by Rafal Drewniany\nMixed and mastered by Dave Zuchowski\nDesign by Malgorzata Lipinska",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a3346604545_0",
+            "trackinfo": [
+                {
+                    "title": "Cards",
+                    "duration": "12:24",
+                    "lyrics": null,
+                    "label": "trost records",
+                    "track_id": 1251815438,
+                    "track_num": "1",
+                    "artist": "THE DKV THING TRIO",
+                    "url": "https://matsgustafsson.bandcamp.com/track/cards",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3346604545_0",
+                    "art_id": 3346604545,
+                    "about": null,
+                    "credits": "from Collider, released May 27, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Moving Map",
+                    "duration": "24:11",
+                    "lyrics": null,
+                    "label": "trost records",
+                    "track_id": 641360629,
+                    "track_num": "2",
+                    "artist": "THE DKV THING TRIO",
+                    "url": "https://matsgustafsson.bandcamp.com/track/moving-map",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3346604545_0",
+                    "art_id": 3346604545,
+                    "about": null,
+                    "credits": "from Collider, released May 27, 2026",
+                    "license": "all rights reserved"
+                },
+                {
+                    "title": "Left And Left Again",
+                    "duration": "17:06",
+                    "lyrics": null,
+                    "label": "trost records",
+                    "track_id": 534174326,
+                    "track_num": "3",
+                    "artist": "THE DKV THING TRIO",
+                    "url": "https://matsgustafsson.bandcamp.com/track/left-and-left-again",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a3346604545_0",
+                    "art_id": 3346604545,
+                    "about": null,
+                    "credits": "from Collider, released May 27, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-06-05T08:52:21.316486+00:00",
+            "uploaded_at": "2026-06-05T08:52:28.216552+00:00",
+            "pd_wacz_id": "Vvq2D7ma"
         }
     ],
     "_band_id": 391789570

@@ -16866,6 +16866,54 @@
             "archived_at": "2026-04-18T16:00:00.281831+00:00",
             "uploaded_at": "2026-04-18T16:00:35.317094+00:00",
             "pd_wacz_id": "q4ST15bx"
+        },
+        {
+            "url": "https://mickchillage.bandcamp.com/album/ulf-03",
+            "title": "ULF: 03",
+            "artist": "Mick Chillage",
+            "label": null,
+            "band_id": 2639267701,
+            "classification": "paid",
+            "tags": [
+                "Ambient",
+                "chill-out",
+                "dark ambient",
+                "electronic",
+                "long-form ambient",
+                "meditative",
+                "neo-classical",
+                "Dublin"
+            ],
+            "item_id": 1117346865,
+            "art_id": 4186661576,
+            "is_preorder": false,
+            "datePublished": "14 May 2026 00:00:00 GMT",
+            "about": "ULF: 03 was originally a twenty minute track idea that I had started in August of 2025 and left on my hard drive with the intention of returning to it to finish its mix. In late March 2026 I returned to it with fresh ears and played around with some new synth parts and manipulation of the existing elements, this led me to explore the piece in a longer form.\nPaying careful attention to its minimalistic components I experimented with a longer arrangement and mix for a day or two until it began to flow and I felt it pulled me into place where time stood still as it played.\nI then realised this was a perfect addition to my ULF series\n[Untitled Long Form] which is open to the interpretation of the listener rather than given it a fixed title and theme.",
+            "credits": "released May 14, 2026\nWritten, produced and mastered by Michael Gainford @ the Igloo Dublin\nIreland Aug/Dec 2025.\nOriginal Photo: Cory Mills.\nArt & Layout Michael Gainford.",
+            "license": "all rights reserved",
+            "coverUrl_0": "https://f4.bcbits.com/img/a4186661576_0",
+            "trackinfo": [
+                {
+                    "title": "ULF: 03",
+                    "duration": "01:03:32",
+                    "lyrics": null,
+                    "label": null,
+                    "track_id": 1181603321,
+                    "track_num": "1",
+                    "artist": "Mick Chillage",
+                    "url": "https://mickchillage.bandcamp.com/track/ulf-03",
+                    "trackCoverUrl_0": "https://f4.bcbits.com/img/a4186661576_0",
+                    "art_id": 4186661576,
+                    "about": null,
+                    "credits": "from ULF: 03, released May 14, 2026",
+                    "license": "all rights reserved"
+                }
+            ],
+            "archived": true,
+            "uploaded": true,
+            "archived_at": "2026-06-05T06:08:23.630407+00:00",
+            "uploaded_at": "2026-06-05T06:08:33.757656+00:00",
+            "pd_wacz_id": "VWTFL4us"
         }
     ],
     "_band_id": 2639267701
